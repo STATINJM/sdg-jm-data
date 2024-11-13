@@ -1,5 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
-(%),62,8
+%,30,5
 ('000 boe),10,1
 ('000 Mwh),7,1
 ('000 MWh),1,1
@@ -10,7 +10,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 14.0,1,1
 14.4,1,1
 14.8,1,1
-%,30,5
+(%),62,8
 (Area %),1,1
 (area %),1,1
 Cumulative Mean Beach Width (m),9,1
@@ -31,16 +31,16 @@ Number,17,2
 per 100 000 population,18,1
 (per 100 inhabitants),1,1
 per 100.000 adults,2,1
-per 100.000 population,16,2
 (per 100.000 population),27,1
-Per cent,1,1
+per 100.000 population,16,2
 (Per cent),5,2
 (per cent),3,1
+Per cent,1,1
 per cent,1,1
 (Proportion of Births),1,1
 Score,13,1
-Tonnes,6,1
 (Tonnes),10,1
+Tonnes,6,1
 Total Volume of Waste (tonnes),5,1
 (Under five Mortality Ratio),1,1
 (US$ Million),3,1
