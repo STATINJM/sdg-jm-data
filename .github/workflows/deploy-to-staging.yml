@@ -31,14 +31,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
 
-    - name: Set up Python 3.7
-      uses: actions/setup-python@v1
+    - name: Set up Python 
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.7
+        python-version: 3.11
 
     - name: Install dependencies
       run: |
@@ -59,7 +59,7 @@ jobs:
 
     - name: Waiting 4 minutes for staging data deployment
       run: |
-        sleep 240
+        sleep 30
 
     - name: Rebuild site
       run: |
