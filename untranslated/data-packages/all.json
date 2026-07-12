@@ -2437,22 +2437,18 @@
           },
           {
             "name": "Indicator",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "GDP (Current)",
-                "Remittance as a  proportion of GDP",
-                "Remittance Inflows",
                 ""
               ]
             }
           },
           {
             "name": "Name",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "(US$Mn)",
                 ""
               ]
             }
@@ -2481,7 +2477,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
