@@ -28,7 +28,7 @@ Year,Geographical region,Sex,Value
 2015,Urban,,33.3
 2015,Rural,,8.9
 2021,Jamaica,,82.4
-2021, ,Male,79.5
-2021, ,Female,85.1
+2021,,Male,79.5
+2021,,Female,85.1
 2021,Urban,,86.8
 2021,Rural,,76.8
