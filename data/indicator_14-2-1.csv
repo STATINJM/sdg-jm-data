@@ -11,12 +11,12 @@ Year,Monitored Area,Unit,Value
 2014,Negril Marine Park,(Health Index),2.2
 2014,Sandals Whitehouse Special Fishery Conservation Area,(Health Index),1.8
 2014,Port Royal Protected Area,(Health Index),1.3
-2014,Belmont,(Health Index),n.a.
-2014,Savanna-la-mar,(Health Index),n.a.
-2014,Portland Bight Protected Area,(Health Index),n.a.
+2014,Belmont,(Health Index),
+2014,Savanna-la-mar,(Health Index),
+2014,Portland Bight Protected Area,(Health Index),
 2014,CRHI (overall mean),(Health Index),2.1
 2015,Blue Lagoon (Portland),(Health Index),2.3
-2015,Monkey Island,(Health Index),n.a.
+2015,Monkey Island,(Health Index),
 2015,Oracabessa Bay Special Fishery Conservation Area,(Health Index),1.9
 2015,Sandals Boscobel Special Fishery Conservation Area,(Health Index),2.5
 2015,Ocho Rios Marine Park,(Health Index),2.4
@@ -31,8 +31,8 @@ Year,Monitored Area,Unit,Value
 2015,Savanna-la-mar,(Health Index),2.3
 2015,Portland Bight Protected Area,(Health Index),2.0
 2015,CRHI (overall mean),(Health Index),2.2
-2017,Blue Lagoon (Portland),(Health Index),n.a.
-2017,Monkey Island,(Health Index),n.a.
+2017,Blue Lagoon (Portland),(Health Index),
+2017,Monkey Island,(Health Index),
 2017,Oracabessa Bay Special Fishery Conservation Area,(Health Index),1.9
 2017,Sandals Boscobel Special Fishery Conservation Area,(Health Index),3.1
 2017,Ocho Rios Marine Park,(Health Index),2.4
@@ -47,7 +47,7 @@ Year,Monitored Area,Unit,Value
 2017,Savanna-la-mar,(Health Index),1.5
 2017,Portland Bight Protected Area,(Health Index),2.0
 2017,CRHI (overall mean),(Health Index),2.3
-2018,Blue Lagoon (Portland),(Health Index),n.a.
+2018,Blue Lagoon (Portland),(Health Index),
 2018,Monkey Island,(Health Index),2.5
 2018,Oracabessa Bay Special Fishery Conservation Area,(Health Index),2.4
 2018,Sandals Boscobel Special Fishery Conservation Area,(Health Index),2.8
@@ -60,7 +60,7 @@ Year,Monitored Area,Unit,Value
 2018,Sandals Whitehouse Special Fishery Conservation Area,(Health Index),2.3
 2018,Port Royal Protected Area,(Health Index),1.8
 2018,Belmont,(Health Index),2.3
-2018,Savanna-la-mar,(Health Index),n.a.
+2018,Savanna-la-mar,(Health Index),
 2018,Portland Bight Protected Area,(Health Index),2.2
 2018,CRHI (overall mean),(Health Index),2.2
 2019,Kingston,Number of Sites,9
