@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Flood Rains",
+                "May/June Flood Rains",
                 "Hurricane Ivan",
                 "Hurricane Dennis and Emily",
                 "Hurricane Wilma",
@@ -29,6 +29,27 @@
                 "Tropical Storm Nicole",
                 "Hurricane Sandy",
                 "March to June Rains",
+                "January and May Rains",
+                "Drought",
+                "Heavy rains from Tropical Storms Zeta and Eta",
+                "Tropical Storms Elsa, Grace and Ida.",
+                "Heavy rains January - February",
+                "Tropical Storms Ian September",
+                "Death due to fire",
+                "Injuries due to fire",
+                "Homeless due to fire",
+                "Homeless Adults due to fire",
+                "Homeless Children due to fire",
+                "Injuried Adults due to fire",
+                "Injuries  Children due to fire",
+                "Death of Adults due to Fire",
+                "Death of Children due to Fire",
+                "Total number of homeless due to fire",
+                "Death due to Fire",
+                "Total Number of Persons Affected",
+                "Persons affected per 100,000 population",
+                "Persons injured due to fire per 100,000",
+                "Deaths from fire per 100,000 population",
                 ""
               ]
             },
@@ -41,7 +62,25 @@
               "enum": [
                 "Persons Affected",
                 "Persons Dead",
+                "Persons Injured",
                 "Persons Missing",
+                "Kingston and St. Andrew",
+                "St. Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St Catherine",
+                "Total",
+                "Total Adults",
+                "Total Children",
+                "Jamaica",
                 ""
               ]
             },
@@ -52,7 +91,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(per 100.000 population)",
+                "Per 100.000 Population",
+                "Persons affected per 100,000 population",
+                "Persons dead per 100,000 population",
+                "Number",
+                "per 100,000 population",
                 ""
               ]
             },

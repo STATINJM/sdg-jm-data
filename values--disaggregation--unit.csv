@@ -24,16 +24,19 @@ Marine Area (ha),6,1
 ($ Million),6,1
 (Neonatal Mortality Ratio),1,1
 Number of Sites,9,1
-Number,17,2
+Number,69,3
 per 100 000 population,18,1
 (per 100 inhabitants),1,1
 per 100.000 adults,2,1
 per 100.000 population,16,2
-(per 100.000 population),27,1
+Per 100.000 Population,36,1
+"per 100,000 population",3,1
 (Per cent),5,2
 (per cent),3,1
 Per cent,1,1
 per cent,1,1
+"Persons affected per 100,000 population",6,1
+"Persons dead per 100,000 population",6,1
 (Proportion of Births),1,1
 Score,13,1
 Tonnes,6,1

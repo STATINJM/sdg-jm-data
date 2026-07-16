@@ -1,10 +1,31 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Flood Rains,3,1
-Hurricane Dean,3,1
-Hurricane Dennis and Emily,3,1
-Hurricane Ivan,3,1
-Hurricane Sandy,3,1
-Hurricane Wilma,3,1
-March to June Rains,3,1
-Tropical Storm Gustav,3,1
-Tropical Storm Nicole,3,1
+Death due to Fire,1,1
+Death due to fire,14,1
+Death of Adults due to Fire,1,1
+Death of Children due to Fire,1,1
+"Deaths from fire per 100,000 population",1,1
+Drought,2,1
+Heavy rains from Tropical Storms Zeta and Eta,2,1
+Heavy rains January - February,2,1
+Homeless Adults due to fire,1,1
+Homeless Children due to fire,1,1
+Homeless due to fire,14,1
+Hurricane Dean,4,1
+Hurricane Dennis and Emily,4,1
+Hurricane Ivan,4,1
+Hurricane Sandy,4,1
+Hurricane Wilma,4,1
+Injuried Adults due to fire,1,1
+Injuries  Children due to fire,1,1
+Injuries due to fire,15,1
+January and May Rains,2,1
+March to June Rains,4,1
+May/June Flood Rains,4,1
+"Persons affected per 100,000 population",1,1
+"Persons injured due to fire per 100,000",1,1
+Total number of homeless due to fire,1,1
+Total Number of Persons Affected,1,1
+Tropical Storm Gustav,4,1
+Tropical Storm Nicole,4,1
+"Tropical Storms Elsa, Grace and Ida.",2,1
+Tropical Storms Ian September,2,1
