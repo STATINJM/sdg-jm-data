@@ -5808,7 +5808,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -5816,7 +5816,18 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "May/June Flood Rains",
+                "Hurricane Charley",
+                "Hurricane Ivan",
+                "Hurricanes Dennis and Emily",
+                "Hurricane Dennis and Emily",
+                "Hurricane Wilma",
                 "Drought",
+                "Hurricane Dean",
+                "Tropical Storm Gustav",
+                "Tropical Storm Nicole",
+                "Hurricane Sandy",
+                "May Flood Rains",
                 ""
               ]
             },
@@ -5828,6 +5839,7 @@
             "constraints": {
               "enum": [
                 "Cost ($JB)",
+                "Impact (% GDP)",
                 ""
               ]
             },
