@@ -1,28 +1,307 @@
 Year,Name of Weather Event,Type of Effect,Unit,Value
-2002,Flood Rains,Persons Affected,(per 100.000 population),50021
-2002,Flood Rains,Persons Dead,(per 100.000 population),0.344
-2002,Flood Rains,Persons Missing,(per 100.000 population),0
-2004,Hurricane Ivan,Persons Affected,(per 100.000 population),14009
-2004,Hurricane Ivan,Persons Dead,(per 100.000 population),0.644
-2004,Hurricane Ivan,Persons Missing,(per 100.000 population),0
-2005,Hurricane Dennis and Emily,Persons Affected,(per 100.000 population),12521
-2005,Hurricane Dennis and Emily,Persons Dead,(per 100.000 population),0.264
-2005,Hurricane Dennis and Emily,Persons Missing,(per 100.000 population),0
-2005,Hurricane Wilma,Persons Affected,(per 100.000 population),13669
-2005,Hurricane Wilma,Persons Dead,(per 100.000 population),0.113
-2005,Hurricane Wilma,Persons Missing,(per 100.000 population),0
-2007,Hurricane Dean,Persons Affected,(per 100.000 population),6744
-2007,Hurricane Dean,Persons Dead,(per 100.000 population),0.225
-2007,Hurricane Dean,Persons Missing,(per 100.000 population),0
-2008,Tropical Storm Gustav,Persons Affected,(per 100.000 population),16842
-2008,Tropical Storm Gustav,Persons Dead,(per 100.000 population),0.374
-2008,Tropical Storm Gustav,Persons Missing,(per 100.000 population),0
-2010,Tropical Storm Nicole,Persons Affected,(per 100.000 population),18873
-2010,Tropical Storm Nicole,Persons Dead,(per 100.000 population),0.52
-2010,Tropical Storm Nicole,Persons Missing,(per 100.000 population),0.074
-2012,Hurricane Sandy,Persons Affected,(per 100.000 population),25150
-2012,Hurricane Sandy,Persons Dead,(per 100.000 population),0.074
-2012,Hurricane Sandy,Persons Missing,(per 100.000 population),0
-2017,March to June Rains,Persons Affected,(per 100.000 population),90613
-2017,March to June Rains,Persons Dead,(per 100.000 population),0.037
-2017,March to June Rains,Persons Missing,(per 100.000 population),0
+2002,May/June Flood Rains,Persons Affected,Per 100.000 Population,50021
+2002,May/June Flood Rains,Persons Dead,Per 100.000 Population,0.344
+2002,May/June Flood Rains,Persons Injured,Per 100.000 Population,0
+2002,May/June Flood Rains,Persons Missing,Per 100.000 Population,0
+2004,Hurricane Ivan,Persons Affected,Per 100.000 Population,14009
+2004,Hurricane Ivan,Persons Dead,Per 100.000 Population,0.644
+2004,Hurricane Ivan,Persons Injured,Per 100.000 Population,0
+2004,Hurricane Ivan,Persons Missing,Per 100.000 Population,0
+2005,Hurricane Dennis and Emily,Persons Affected,Per 100.000 Population,12521
+2005,Hurricane Dennis and Emily,Persons Dead,Per 100.000 Population,0.264
+2005,Hurricane Dennis and Emily,Persons Injured,Per 100.000 Population,0
+2005,Hurricane Dennis and Emily,Persons Missing,Per 100.000 Population,0
+2005,Hurricane Wilma,Persons Affected,Per 100.000 Population,13669
+2005,Hurricane Wilma,Persons Dead,Per 100.000 Population,0.113
+2005,Hurricane Wilma,Persons Injured,Per 100.000 Population,0
+2005,Hurricane Wilma,Persons Missing,Per 100.000 Population,0
+2007,Hurricane Dean,Persons Affected,Per 100.000 Population,6744
+2007,Hurricane Dean,Persons Dead,Per 100.000 Population,0.225
+2007,Hurricane Dean,Persons Injured,Per 100.000 Population,0
+2007,Hurricane Dean,Persons Missing,Per 100.000 Population,0
+2008,Tropical Storm Gustav,Persons Affected,Per 100.000 Population,16842
+2008,Tropical Storm Gustav,Persons Dead,Per 100.000 Population,0.374
+2008,Tropical Storm Gustav,Persons Injured,Per 100.000 Population,0
+2008,Tropical Storm Gustav,Persons Missing,Per 100.000 Population,0
+2010,Tropical Storm Nicole,Persons Affected,Per 100.000 Population,18873
+2010,Tropical Storm Nicole,Persons Dead,Per 100.000 Population,0.52
+2010,Tropical Storm Nicole,Persons Injured,Per 100.000 Population,0
+2010,Tropical Storm Nicole,Persons Missing,Per 100.000 Population,0.074
+2012,Hurricane Sandy,Persons Affected,Per 100.000 Population,25150
+2012,Hurricane Sandy,Persons Dead,Per 100.000 Population,0.074
+2012,Hurricane Sandy,Persons Injured,Per 100.000 Population,0
+2012,Hurricane Sandy,Persons Missing,Per 100.000 Population,0
+2017,March to June Rains,Persons Affected,Per 100.000 Population,90687
+2017,March to June Rains,Persons Dead,Per 100.000 Population,0.037
+2017,March to June Rains,Persons Injured,Per 100.000 Population,0
+2017,March to June Rains,Persons Missing,Per 100.000 Population,0
+2018,January and May Rains,Persons Affected,"Persons affected per 100,000 population",79.64
+2019,Drought,Persons Affected,"Persons affected per 100,000 population",204.94
+2020,Heavy rains from Tropical Storms Zeta and Eta,Persons Affected,"Persons affected per 100,000 population",518.97
+2021,"Tropical Storms Elsa, Grace and Ida.",Persons Affected,"Persons affected per 100,000 population",58.55
+2022,Heavy rains January - February,Persons Affected,"Persons affected per 100,000 population",20.13
+2022,Tropical Storms Ian September,Persons Affected,"Persons affected per 100,000 population",201.28
+2018,January and May Rains,Persons Dead,"Persons dead per 100,000 population",0.037
+2019,Drought,Persons Dead,"Persons dead per 100,000 population",0
+2020,Heavy rains from Tropical Storms Zeta and Eta,Persons Dead,"Persons dead per 100,000 population",0.073
+2021,"Tropical Storms Elsa, Grace and Ida.",Persons Dead,"Persons dead per 100,000 population",0.037
+2022,Heavy rains January - February,Persons Dead,"Persons dead per 100,000 population",0
+2022,Tropical Storms Ian September,Persons Dead,"Persons dead per 100,000 population",0
+2019,Death due to fire,Kingston and St. Andrew,Number,10
+2020,Death due to fire,Kingston and St. Andrew,Number,9
+2021,Death due to fire,Kingston and St. Andrew,Number,8
+2022,Death due to fire,Kingston and St. Andrew,Number,1
+2019,Death due to fire,St. Thomas,Number,0
+2020,Death due to fire,St. Thomas,Number,0
+2021,Death due to fire,St. Thomas,Number,0
+2022,Death due to fire,St. Thomas,Number,1
+2019,Death due to fire,Portland,Number,2
+2020,Death due to fire,Portland,Number,1
+2021,Death due to fire,Portland,Number,2
+2022,Death due to fire,Portland,Number,0
+2019,Death due to fire,St Mary,Number,4
+2020,Death due to fire,St Mary,Number,0
+2021,Death due to fire,St Mary,Number,2
+2022,Death due to fire,St Mary,Number,1
+2019,Death due to fire,St Ann,Number,3
+2020,Death due to fire,St Ann,Number,5
+2021,Death due to fire,St Ann,Number,2
+2022,Death due to fire,St Ann,Number,2
+2019,Death due to fire,Trelawny,Number,1
+2020,Death due to fire,Trelawny,Number,0
+2021,Death due to fire,Trelawny,Number,1
+2022,Death due to fire,Trelawny,Number,0
+2019,Death due to fire,St James,Number,4
+2020,Death due to fire,St James,Number,3
+2021,Death due to fire,St James,Number,8
+2022,Death due to fire,St James,Number,6
+2019,Death due to fire,Hanover,Number,0
+2020,Death due to fire,Hanover,Number,2
+2021,Death due to fire,Hanover,Number,0
+2022,Death due to fire,Hanover,Number,0
+2019,Death due to fire,Westmoreland,Number,1
+2020,Death due to fire,Westmoreland,Number,5
+2021,Death due to fire,Westmoreland,Number,5
+2022,Death due to fire,Westmoreland,Number,4
+2019,Death due to fire,St Elizabeth,Number,3
+2020,Death due to fire,St Elizabeth,Number,0
+2021,Death due to fire,St Elizabeth,Number,6
+2022,Death due to fire,St Elizabeth,Number,3
+2019,Death due to fire,Manchester,Number,3
+2020,Death due to fire,Manchester,Number,6
+2021,Death due to fire,Manchester,Number,4
+2022,Death due to fire,Manchester,Number,0
+2019,Death due to fire,Clarendon,Number,0
+2020,Death due to fire,Clarendon,Number,0
+2021,Death due to fire,Clarendon,Number,1
+2022,Death due to fire,Clarendon,Number,4
+2019,Death due to fire,St Catherine,Number,4
+2020,Death due to fire,St Catherine,Number,0
+2021,Death due to fire,St Catherine,Number,3
+2022,Death due to fire,St Catherine,Number,2
+2019,Death due to fire,Total,Number,35
+2020,Death due to fire,Total,Number,31
+2021,Death due to fire,Total,Number,42
+2022,Death due to fire,Total,Number,24
+2019,Injuries due to fire,Kingston and St. Andrew,Number,30
+2020,Injuries due to fire,Kingston and St. Andrew,Number,31
+2021,Injuries due to fire,Kingston and St. Andrew,Number,24
+2022,Injuries due to fire,Kingston and St. Andrew,Number,14
+2019,Injuries due to fire,St. Thomas,Number,0
+2020,Injuries due to fire,St. Thomas,Number,0
+2021,Injuries due to fire,St. Thomas,Number,0
+2022,Injuries due to fire,St. Thomas,Number,1
+2019,Injuries due to fire,Portland,Number,1
+2020,Injuries due to fire,Portland,Number,0
+2021,Injuries due to fire,Portland,Number,1
+2022,Injuries due to fire,Portland,Number,4
+2019,Injuries due to fire,St Mary,Number,0
+2020,Injuries due to fire,St Mary,Number,4
+2021,Injuries due to fire,St Mary,Number,0
+2022,Injuries due to fire,St Mary,Number,2
+2019,Injuries due to fire,St Ann,Number,5
+2020,Injuries due to fire,St Ann,Number,0
+2021,Injuries due to fire,St Ann,Number,2
+2022,Injuries due to fire,St Ann,Number,2
+2019,Injuries due to fire,Trelawny,Number,3
+2020,Injuries due to fire,Trelawny,Number,0
+2021,Injuries due to fire,Trelawny,Number,0
+2022,Injuries due to fire,Trelawny,Number,6
+2019,Injuries due to fire,St James,Number,10
+2020,Injuries due to fire,St James,Number,21
+2021,Injuries due to fire,St James,Number,16
+2022,Injuries due to fire,St James,Number,4
+2019,Injuries due to fire,Hanover,Number,2
+2020,Injuries due to fire,Hanover,Number,1
+2021,Injuries due to fire,Hanover,Number,1
+2022,Injuries due to fire,Hanover,Number,0
+2019,Injuries due to fire,Westmoreland,Number,3
+2020,Injuries due to fire,Westmoreland,Number,4
+2021,Injuries due to fire,Westmoreland,Number,11
+2022,Injuries due to fire,Westmoreland,Number,8
+2019,Injuries due to fire,St Elizabeth,Number,0
+2020,Injuries due to fire,St Elizabeth,Number,1
+2021,Injuries due to fire,St Elizabeth,Number,5
+2022,Injuries due to fire,St Elizabeth,Number,7
+2019,Injuries due to fire,Manchester,Number,1
+2020,Injuries due to fire,Manchester,Number,14
+2021,Injuries due to fire,Manchester,Number,22
+2022,Injuries due to fire,Manchester,Number,1
+2019,Injuries due to fire,Clarendon,Number,0
+2020,Injuries due to fire,Clarendon,Number,0
+2021,Injuries due to fire,Clarendon,Number,0
+2022,Injuries due to fire,Clarendon,Number,0
+2019,Injuries due to fire,St Catherine,Number,5
+2020,Injuries due to fire,St Catherine,Number,13
+2021,Injuries due to fire,St Catherine,Number,4
+2022,Injuries due to fire,St Catherine,Number,0
+2019,Injuries due to fire,Total,Number,60
+2020,Injuries due to fire,Total,Number,89
+2021,Injuries due to fire,Total,Number,86
+2022,Injuries due to fire,Total,Number,49
+2019,Homeless due to fire,Kingston and St. Andrew,Number,890
+2020,Homeless due to fire,Kingston and St. Andrew,Number,733
+2021,Homeless due to fire,Kingston and St. Andrew,Number,633
+2022,Homeless due to fire,Kingston and St. Andrew,Number,605
+2019,Homeless due to fire,St. Thomas,Number,25
+2020,Homeless due to fire,St. Thomas,Number,55
+2021,Homeless due to fire,St. Thomas,Number,36
+2022,Homeless due to fire,St. Thomas,Number,68
+2019,Homeless due to fire,Portland,Number,81
+2020,Homeless due to fire,Portland,Number,48
+2021,Homeless due to fire,Portland,Number,84
+2022,Homeless due to fire,Portland,Number,47
+2019,Homeless due to fire,St Mary,Number,56
+2020,Homeless due to fire,St Mary,Number,48
+2021,Homeless due to fire,St Mary,Number,87
+2022,Homeless due to fire,St Mary,Number,89
+2019,Homeless due to fire,St Ann,Number,182
+2020,Homeless due to fire,St Ann,Number,59
+2021,Homeless due to fire,St Ann,Number,63
+2022,Homeless due to fire,St Ann,Number,106
+2019,Homeless due to fire,Trelawny,Number,41
+2020,Homeless due to fire,Trelawny,Number,29
+2021,Homeless due to fire,Trelawny,Number,32
+2022,Homeless due to fire,Trelawny,Number,61
+2019,Homeless due to fire,St James,Number,161
+2020,Homeless due to fire,St James,Number,133
+2021,Homeless due to fire,St James,Number,198
+2022,Homeless due to fire,St James,Number,139
+2019,Homeless due to fire,Hanover,Number,51
+2020,Homeless due to fire,Hanover,Number,35
+2021,Homeless due to fire,Hanover,Number,33
+2022,Homeless due to fire,Hanover,Number,26
+2019,Homeless due to fire,Westmoreland,Number,110
+2020,Homeless due to fire,Westmoreland,Number,117
+2021,Homeless due to fire,Westmoreland,Number,123
+2022,Homeless due to fire,Westmoreland,Number,208
+2019,Homeless due to fire,St Elizabeth,Number,127
+2020,Homeless due to fire,St Elizabeth,Number,68
+2021,Homeless due to fire,St Elizabeth,Number,55
+2022,Homeless due to fire,St Elizabeth,Number,56
+2019,Homeless due to fire,Manchester,Number,94
+2020,Homeless due to fire,Manchester,Number,100
+2021,Homeless due to fire,Manchester,Number,119
+2022,Homeless due to fire,Manchester,Number,81
+2019,Homeless due to fire,Clarendon,Number,105
+2020,Homeless due to fire,Clarendon,Number,101
+2021,Homeless due to fire,Clarendon,Number,145
+2022,Homeless due to fire,Clarendon,Number,82
+2019,Homeless due to fire,St Catherine,Number,394
+2020,Homeless due to fire,St Catherine,Number,150
+2021,Homeless due to fire,St Catherine,Number,165
+2022,Homeless due to fire,St Catherine,Number,178
+2019,Homeless due to fire,Total,Number,2317
+2020,Homeless due to fire,Total,Number,1676
+2021,Homeless due to fire,Total,Number,1773
+2022,Homeless due to fire,Total,Number,1746
+2019,Homeless Adults due to fire,Total Adults,Number,1532
+2020,Homeless Adults due to fire,Total Adults,Number,1194
+2021,Homeless Adults due to fire,Total Adults,Number,1271
+2022,Homeless Adults due to fire,Total Adults,Number,1215
+2019,Homeless Children due to fire,Total Children,Number,785
+2020,Homeless Children due to fire,Total Children,Number,482
+2021,Homeless Children due to fire,Total Children,Number,502
+2022,Homeless Children due to fire,Total Children,Number,531
+2019,Injuried Adults due to fire,Total Adults,Number,58
+2020,Injuried Adults due to fire,Total Adults,Number,72
+2021,Injuried Adults due to fire,Total Adults,Number,82
+2022,Injuried Adults due to fire,Total Adults,Number,47
+2019,Injuries  Children due to fire,Total Children,Number,2
+2020,Injuries  Children due to fire,Total Children,Number,17
+2021,Injuries  Children due to fire,Total Children,Number,4
+2022,Injuries  Children due to fire,Total Children,Number,2
+2019,Death of Adults due to Fire,Total Adults,Number,28
+2020,Death of Adults due to Fire,Total Adults,Number,28
+2021,Death of Adults due to Fire,Total Adults,Number,39
+2022,Death of Adults due to Fire,Total Adults,Number,17
+2019,Death of Children due to Fire,Total Children,Number,7
+2020,Death of Children due to Fire,Total Children,Number,3
+2021,Death of Children due to Fire,Total Children,Number,3
+2022,Death of Children due to Fire,Total Children,Number,7
+2015,Total number of homeless due to fire,Jamaica,Number,2136
+2016,Total number of homeless due to fire,Jamaica,Number,2104
+2017,Total number of homeless due to fire,Jamaica,Number,2390
+2018,Total number of homeless due to fire,Jamaica,Number,2338
+2019,Total number of homeless due to fire,Jamaica,Number,2317
+2020,Total number of homeless due to fire,Jamaica,Number,1676
+2021,Total number of homeless due to fire,Jamaica,Number,1773
+2022,Total number of homeless due to fire,Jamaica,Number,1746
+2015,Injuries due to fire,Jamaica,Number,87
+2016,Injuries due to fire,Jamaica,Number,90
+2017,Injuries due to fire,Jamaica,Number,75
+2018,Injuries due to fire,Jamaica,Number,97
+2019,Injuries due to fire,Jamaica,Number,60
+2020,Injuries due to fire,Jamaica,Number,89
+2021,Injuries due to fire,Jamaica,Number,86
+2022,Injuries due to fire,Jamaica,Number,49
+2023,Injuries due to fire,Jamaica,Number,55
+2024,Injuries due to fire,Jamaica,Number,79
+2015,Death due to Fire,Jamaica,Number,22
+2016,Death due to Fire,Jamaica,Number,38
+2017,Death due to Fire,Jamaica,Number,25
+2018,Death due to Fire,Jamaica,Number,39
+2019,Death due to Fire,Jamaica,Number,35
+2020,Death due to Fire,Jamaica,Number,31
+2021,Death due to Fire,Jamaica,Number,42
+2022,Death due to Fire,Jamaica,Number,24
+2023,Death due to Fire,Jamaica,Number,32
+2024,Death due to Fire,Jamaica,Number,27
+2015,Total Number of Persons Affected,Jamaica,Number,2245
+2016,Total Number of Persons Affected,Jamaica,Number,2232
+2017,Total Number of Persons Affected,Jamaica,Number,2490
+2018,Total Number of Persons Affected,Jamaica,Number,2474
+2019,Total Number of Persons Affected,Jamaica,Number,2412
+2020,Total Number of Persons Affected,Jamaica,Number,1796
+2021,Total Number of Persons Affected,Jamaica,Number,1901
+2022,Total Number of Persons Affected,Jamaica,Number,1819
+2023,Total Number of Persons Affected,Jamaica,Number,1626
+2024,Total Number of Persons Affected,Jamaica,Number,1742
+2015,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",82.38
+2016,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",81.81
+2017,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",91.25
+2018,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",90.71
+2019,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",88.27
+2020,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",65.73
+2021,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",69.57
+2022,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",66.57
+2023,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",59.51
+2024,"Persons affected per 100,000 population",Jamaica,"per 100,000 population",63.75
+2015,"Persons injured due to fire per 100,000",Jamaica,"per 100,000 population",3.2
+2016,"Persons injured due to fire per 100,000",Jamaica,"per 100,000 population",3.3
+2017,"Persons injured due to fire per 100,000",Jamaica,"per 100,000 population",2.7
+2018,"Persons injured due to fire per 100,000",Jamaica,"per 100,000 population",3.5
+2019,"Persons injured due to fire per 100,000",Jamaica,"per 100,000 population",2.2
+2020,"Persons injured due to fire per 100,000",Jamaica,"per 100,000 population",3.3
+2021,"Persons injured due to fire per 100,000",Jamaica,"per 100,000 population",3.1
+2022,"Persons injured due to fire per 100,000",Jamaica,"per 100,000 population",1.8
+2015,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",0.8
+2016,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",1.4
+2017,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",0.9
+2018,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",1.4
+2019,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",1.3
+2020,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",1.1
+2021,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",1.5
+2022,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",0.9
+2023,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",1.17
+2024,"Deaths from fire per 100,000 population",Jamaica,"per 100,000 population",0.99
