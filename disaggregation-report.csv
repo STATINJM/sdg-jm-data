@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 Age at First Union,2,6
-Age Group,11,48
+Age Group,11,47
 Age group,1,8
 Agency,1,2
 Area of Residence,1,2
@@ -14,8 +14,8 @@ Educational Level,1,4
 Educational Status,1,4
 Enrolment Status,1,2
 Event,4,15
-Financial institution,1,2
 Financial Institution,1,2
+Financial institution,1,2
 Financial soundness indicators-deposit-taking institution,1,35
 Financial soundness indicators,1,35
 Form of Sexual Violence,1,10
@@ -27,8 +27,8 @@ Geographic Location,1,4
 Geographic Region,5,4
 Geographic region,1,1
 Geographical Area,7,21
-Geographical Region,26,25
 Geographical region,3,5
+Geographical Region,26,25
 Geographical Regions,3,7
 Group,1,2
 HIV Indicators,1,3
