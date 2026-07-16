@@ -1984,7 +1984,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
                 "Rural Areas",
                 "GKMA",
                 "Other Urban centre",
