@@ -22,6 +22,7 @@
                 "Owned",
                 "Leased",
                 "Rented",
+                "Leased/Rented",
                 "Rent Free",
                 "Squatted",
                 ""
