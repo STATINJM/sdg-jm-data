@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Año"
           },
           {
@@ -32,6 +32,7 @@
             "constraints": {
               "enum": [
                 "(Maternal Mortality Ratio)",
+                "(Proportion of Births)",
                 ""
               ]
             },

@@ -3638,7 +3638,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Geographical Region",
@@ -3656,6 +3656,7 @@
             "constraints": {
               "enum": [
                 "(Maternal Mortality Ratio)",
+                "(Proportion of Births)",
                 ""
               ]
             }
