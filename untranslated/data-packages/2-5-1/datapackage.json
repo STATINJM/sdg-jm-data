@@ -12,11 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of local breeds kept in the country",
+                "Number of transboundary breeds (including extinct ones)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disaggregation Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
