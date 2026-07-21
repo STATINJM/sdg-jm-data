@@ -12,8 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mammals",
+                "Birds",
+                "Reptiles",
+                "Amphibians",
+                "Freshwater fiah",
+                "Molluscs (land)*",
+                "Arthropods/ Invertebrates*",
+                "Plants*",
+                "Animals",
+                "Plants",
+                "Reptiles*",
+                "Fishes*",
+                "Molluscs*",
+                "Other Inverts*",
+                "Fungi*",
+                "Chromists*",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Description"
+          },
+          {
+            "name": "Disaggregation Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Critically Endangered",
+                "Endangered",
+                "Vulnerable",
+                "Near Threatened",
+                "Total",
+                "Extinct",
+                "Extinct in the wild",
+                "Not threatened",
+                "Threatened",
+                "Lower risk",
+                "Data Deficient",
+                "Least Concern",
+                ""
+              ]
+            },
+            "title": "Disaggregation Level"
           },
           {
             "name": "Value",

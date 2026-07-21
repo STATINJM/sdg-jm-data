@@ -4237,6 +4237,75 @@
       "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
+      "path": "2-5-2/data.csv",
+      "name": "2-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mammals",
+                "Birds",
+                "Reptiles",
+                "Amphibians",
+                "Freshwater fiah",
+                "Molluscs (land)*",
+                "Arthropods/ Invertebrates*",
+                "Plants*",
+                "Animals",
+                "Plants",
+                "Reptiles*",
+                "Fishes*",
+                "Molluscs*",
+                "Other Inverts*",
+                "Fungi*",
+                "Chromists*",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disaggregation Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Critically Endangered",
+                "Endangered",
+                "Vulnerable",
+                "Near Threatened",
+                "Total",
+                "Extinct",
+                "Extinct in the wild",
+                "Not threatened",
+                "Threatened",
+                "Lower risk",
+                "Data Deficient",
+                "Least Concern",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of local breeds classified as being at risk of extinction"
+    },
+    {
       "path": "8-3-1/data.csv",
       "name": "8-3-1",
       "profile": "tabular-data-resource",
@@ -6325,28 +6394,6 @@
         ]
       },
       "title": "The agriculture orientation index for government expenditures"
-    },
-    {
-      "path": "2-5-2/data.csv",
-      "name": "2-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of local breeds classified as being at risk of extinction"
     },
     {
       "path": "13-3-1/data.csv",
