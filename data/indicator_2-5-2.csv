@@ -1,0 +1,151 @@
+Year,Description,Disaggregation Level,Value
+2011,Mammals,Critically Endangered,1
+2014,Mammals,Critically Endangered,1
+2011,Birds,Critically Endangered,2
+2014,Birds,Critically Endangered,2
+2011,Reptiles,Critically Endangered,3
+2014,Reptiles,Critically Endangered,1
+2011,Amphibians,Critically Endangered,5
+2014,Amphibians,Critically Endangered,0
+2011,Freshwater fiah,Critically Endangered,
+2014,Freshwater fiah,Critically Endangered,0
+2011,Molluscs (land)*,Critically Endangered,
+2014,Molluscs (land)*,Critically Endangered,0
+2011,Arthropods/ Invertebrates*,Critically Endangered,
+2014,Arthropods/ Invertebrates*,Critically Endangered,0
+2011,Plants*,Critically Endangered,
+2014,Plants*,Critically Endangered,0
+2011,Mammals,Endangered,0
+2014,Mammals,Endangered,0
+2011,Birds,Endangered,1
+2014,Birds,Endangered,1
+2011,Reptiles,Endangered,1
+2014,Reptiles,Endangered,0
+2011,Amphibians,Endangered,1
+2014,Amphibians,Endangered,2
+2011,Freshwater fiah,Endangered,
+2014,Freshwater fiah,Endangered,0
+2011,Molluscs (land)*,Endangered,
+2014,Molluscs (land)*,Endangered,
+2011,Arthropods/ Invertebrates*,Endangered,
+2014,Arthropods/ Invertebrates*,Endangered,0
+2011,Plants*,Endangered,
+2014,Plants*,Endangered,1
+2011,Mammals,Vulnerable,4
+2014,Mammals,Vulnerable,2
+2011,Birds,Vulnerable,7
+2014,Birds,Vulnerable,7
+2011,Reptiles,Vulnerable,1
+2014,Reptiles,Vulnerable,0
+2011,Amphibians,Vulnerable,
+2014,Amphibians,Vulnerable,0
+2011,Freshwater fiah,Vulnerable,
+2014,Freshwater fiah,Vulnerable,0
+2011,Molluscs (land)*,Vulnerable,
+2014,Molluscs (land)*,Vulnerable,
+2011,Arthropods/ Invertebrates*,Vulnerable,
+2014,Arthropods/ Invertebrates*,Vulnerable,0
+2011,Plants*,Vulnerable,
+2014,Plants*,Vulnerable,1
+2011,Mammals,Near Threatened,0
+2014,Mammals,Near Threatened,0
+2011,Birds,Near Threatened,
+2014,Birds,Near Threatened,11
+2011,Reptiles,Near Threatened,
+2014,Reptiles,Near Threatened,1
+2011,Amphibians,Near Threatened,
+2014,Amphibians,Near Threatened,0
+2011,Freshwater fiah,Near Threatened,
+2014,Freshwater fiah,Near Threatened,0
+2011,Molluscs (land)*,Near Threatened,
+2014,Molluscs (land)*,Near Threatened,
+2011,Arthropods/ Invertebrates*,Near Threatened,
+2014,Arthropods/ Invertebrates*,Near Threatened,0
+2011,Plants*,Near Threatened,
+2014,Plants*,Near Threatened,1
+2011,Mammals,Total,5
+2014,Mammals,Total,3
+2011,Birds,Total,10
+2014,Birds,Total,21
+2011,Reptiles,Total,5
+2014,Reptiles,Total,2
+2011,Amphibians,Total,6
+2014,Amphibians,Total,2
+2011,Freshwater fiah,Total,
+2014,Freshwater fiah,Total,
+2011,Molluscs (land)*,Total,
+2014,Molluscs (land)*,Total,
+2011,Arthropods/ Invertebrates*,Total,
+2014,Arthropods/ Invertebrates*,Total,
+2011,Plants*,Total,
+2014,Plants*,Total,
+2011,Animals,Extinct,
+2014,Animals,Extinct,
+2011,Animals,Extinct in the wild,
+2014,Animals,Extinct in the wild,
+2011,Animals,Critically Endangered,
+2014,Animals,Critically Endangered,
+2011,Animals,Endangered,
+2014,Animals,Endangered,
+2011,Animals,Vulnerable,
+2014,Animals,Vulnerable,
+2011,Animals,Not threatened,
+2014,Animals,Not threatened,
+2011,Animals,Near Threatened,
+2014,Animals,Near Threatened,
+2011,Animals,Threatened,
+2014,Animals,Threatened,
+2011,Animals,Lower risk,
+2014,Animals,Lower risk,
+2011,Animals,Data Deficient,
+2014,Animals,Data Deficient,
+2011,Animals,Least Concern,
+2014,Animals,Least Concern,
+2011,Animals,Total,
+2014,Animals,Total,
+2011,Plants,Extinct,
+2014,Plants,Extinct,
+2011,Plants,Extinct in the wild,
+2014,Plants,Extinct in the wild,
+2011,Plants,Critically Endangered,
+2014,Plants,Critically Endangered,
+2011,Plants,Endangered,
+2014,Plants,Endangered,
+2011,Plants,Vulnerable,
+2014,Plants,Vulnerable,
+2011,Plants,Near Threatened,
+2014,Plants,Near Threatened,
+2011,Plants,Not threatened,
+2014,Plants,Not threatened,
+2011,Plants,Threatened,
+2014,Plants,Threatened,
+2011,Plants,Lower risk,
+2014,Plants,Lower risk,
+2011,Plants,Data Deficient,
+2014,Plants,Data Deficient,
+2011,Plants,Least Concern,
+2014,Plants,Least Concern,
+2011,Plants,Total,
+2014,Plants,Total,
+2011,Mammals,Threatened,
+2014,Mammals,Threatened,
+2011,Birds,Threatened,
+2014,Birds,Threatened,
+2011,Reptiles*,Threatened,
+2014,Reptiles*,Threatened,
+2011,Amphibians,Threatened,
+2014,Amphibians,Threatened,
+2011,Fishes*,Threatened,
+2014,Fishes*,Threatened,
+2011,Molluscs*,Threatened,
+2014,Molluscs*,Threatened,
+2011,Other Inverts*,Threatened,
+2014,Other Inverts*,Threatened,
+2011,Plants*,Threatened,
+2014,Plants*,Threatened,
+2011,Fungi*,Threatened,
+2014,Fungi*,Threatened,
+2011,Chromists*,Threatened,
+2014,Chromists*,Threatened,
+2011,Total,Threatened,
+2014,Total,Threatened,
