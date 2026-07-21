@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tubercolosis incidence per 100.000 population",
+                "Tuberculosis incidence per 100,000 population",
                 ""
               ]
             },
@@ -39,7 +39,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
