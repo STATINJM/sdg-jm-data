@@ -31,8 +31,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kingston",
-                "St. Andrew",
                 "Jamaica",
                 "Kingston & St Andrew",
                 "St Thomas",
