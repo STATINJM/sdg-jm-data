@@ -12,8 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Female Managers",
+                "Total Managers",
+                "Proportion of Women in Managerial Positions",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Quarter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "January Q1",
+                "April Q2",
+                "July Q3",
+                "October Q4",
+                ""
+              ]
+            },
+            "title": "Quarter"
           },
           {
             "name": "Value",
