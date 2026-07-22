@@ -59,8 +59,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-2-2,"Unit, Geographical Region",2
 #3-3-1,"Geographical Region, Sex, HIV Indicators",3
 #3-3-2,"Geogaphical Region, Tubercolosis Indicator",2
-#3-3-3,"Malaria Indicator, Geogaphical Region",2
-#3-4-1,"Geogaphical Region, Mortality Indictor",2
+#3-3-3,"Geographical Region, Malaria Indicator",2
+#3-4-1,"Mortality Indictor, Geogaphical Region",2
 #3-4-2,"Unit, Geographical Area, Sex, Indicator",4
 #3-5-1,"Geographical Region, Sex, Indicator Treatment Intervention, Reasons for not accessing the treatment",4
 #3-5-2,"Sex, Geogaphical Region, Indicator for harmful drug",3
