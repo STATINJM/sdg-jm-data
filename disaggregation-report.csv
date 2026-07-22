@@ -8,7 +8,7 @@ Category of Child Labour,1,3
 Category of E-waste,1,2
 Category of International Health Regulations,1,13
 Category,9,23
-Descriptor,1,5
+Descriptor,1,8
 Development Type,1,6
 Educational Level,1,4
 Educational Status,1,4
@@ -24,11 +24,11 @@ GDP (Tourism),1,2
 Geogaphical Region,4,1
 Geographic Area,1,5
 Geographic Location,1,4
-Geographic Region,5,4
 Geographic region,1,1
+Geographic Region,5,4
 Geographical Area,7,21
-Geographical region,3,5
 Geographical Region,26,25
+Geographical region,3,6
 Geographical Regions,3,7
 Group,1,2
 HIV Indicators,1,3
@@ -53,7 +53,7 @@ Ministry,1,3
 Mode of transport,1,2
 Monitored Area,1,26
 Mortality Indictor,1,1
-Name of test,1,8
+Name of test,1,13
 Name of Weather Event,1,30
 Parish,3,24
 Partner Status,2,8
