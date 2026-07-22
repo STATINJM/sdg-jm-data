@@ -12,12 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Official Development Assistance Flows for Scholarships (USD)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official Development Assistance Flows for Scholarships (USD)",
+                ""
+              ]
+            },
+            "title": "Official Development Assistance Flows for Scholarships (USD)"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

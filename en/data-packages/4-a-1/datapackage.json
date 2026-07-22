@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -28,7 +28,7 @@
             "title": "School Type"
           },
           {
-            "name": "infrastructure Type",
+            "name": "Infrastructure Type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "infrastructure Type"
+            "title": "Infrastructure Type"
           },
           {
             "name": "Value",

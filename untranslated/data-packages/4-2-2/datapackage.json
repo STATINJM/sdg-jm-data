@@ -15,11 +15,39 @@
             "type": "integer"
           },
           {
-            "name": "Geographical Region",
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children (one year before the official primary entry age attending an early childhood education programme)",
+                "Percentage of children (one year before the official primary entry age attending primary education)",
+                "Net attendance rate (adjusted)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographic Location",
             "type": "string",
             "constraints": {
               "enum": [
                 "Jamaica",
+                "Urban",
+                "GKMA",
+                "OUC",
+                "Rural",
                 ""
               ]
             }

@@ -21,10 +21,6 @@
             "constraints": {
               "enum": [
                 "English A Only",
-                "Mathematics Only",
-                "English A and Mathematics",
-                "English A and/or Mathematics",
-                "Per cent of Cohort",
                 ""
               ]
             },
@@ -49,29 +45,38 @@
               "enum": [
                 "Jamaica",
                 "Kingston",
-                "St  Andrew",
-                "St  Thomas",
+                "St Andrew",
+                "St Thomas",
                 "Portland",
-                "St  Mary",
-                "St  Ann",
+                "St Mary",
+                "St Ann",
                 "Trelawny",
-                "St  James",
+                "St James",
                 "Hanover",
                 "Westmoreland",
-                "St  Elizabeth",
+                "St Elizabeth",
                 "Manchester",
                 "Clarendon",
-                "St  Catherine",
-                "Female",
-                "Male",
+                "St Catherine",
                 ""
               ]
             },
             "title": "Parish"
           },
           {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

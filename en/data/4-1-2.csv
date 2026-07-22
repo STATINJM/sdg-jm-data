@@ -1,1 +1,22 @@
-Year,Value
+Year,Type of school,Geographical region,Sex,Value
+2022,Primary school,,Total,98.5
+2022,Primary school,,Male,97.9
+2022,Primary school,,Female,99.2
+2022,Primary school,Urban,,98.3
+2022,Primary school,Greater Kingston Metropolitan Area,,99.1
+2022,Primary school,Other Urban Centres,,97.6
+2022,Primary school,Rural,,98.6
+2022,Lower Secondary,,Total,94.8
+2022,Lower Secondary,,Male,93.1
+2022,Lower Secondary,,Female,96.5
+2022,Lower Secondary,Urban,,95.9
+2022,Lower Secondary,Greater Kingston Metropolitan Area,,95.8
+2022,Lower Secondary,Other Urban Centres,,96.0
+2022,Lower Secondary,Rural,,93.8
+2022,Upper Secondary,,Total,85.8
+2022,Upper Secondary,,Male,82.0
+2022,Upper Secondary,,Female,89.1
+2022,Upper Secondary,Urban,,87.5
+2022,Upper Secondary,Greater Kingston Metropolitan Area,,88.2
+2022,Upper Secondary,Other Urban Centres,,86.7
+2022,Upper Secondary,Rural,,83.9

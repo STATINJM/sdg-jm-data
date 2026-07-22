@@ -25,6 +25,7 @@
                 "Learning",
                 "Early Childhood Development Index Score",
                 "Number of children age 36-59 months",
+                "Percentage who are developmentally on track",
                 ""
               ]
             }
@@ -36,6 +37,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Total",
                 ""
               ]
             }
@@ -49,6 +51,8 @@
                 "Other Towns",
                 "Urban",
                 "Rural",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban Centres",
                 ""
               ]
             }
@@ -60,6 +64,9 @@
               "enum": [
                 "36-47 months",
                 "48-59 months",
+                "Age 2 years old",
+                "Age 3 years old",
+                "Age 4 years old",
                 ""
               ]
             }
@@ -85,7 +92,6 @@
                 "Middle",
                 "Fourth",
                 "Richest",
-                "Total",
                 ""
               ]
             }

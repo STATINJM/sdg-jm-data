@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper House",
-                "Lower House",
                 "Mayors",
                 "Councillors",
+                "Upper House",
+                "Lower House",
                 ""
               ]
             }

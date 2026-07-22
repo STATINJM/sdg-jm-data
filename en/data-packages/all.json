@@ -770,9 +770,11 @@
                 "Using copy and paste tools to move or duplicate information in documents",
                 "Sending e-mails with files attached",
                 "Connecting or installing new devices",
-                "Finding/ downloading or installing new software",
-                "Transferring files between a computer and other",
                 "Finding/downloading or installing new software",
+                "Transferring files between a computer and other",
+                "Using basic mathematical formulae in spreadsheets",
+                "Creating electronic presentations with presentation software",
+                "Programming or coding in digital environments (e.g. computer software, app development)",
                 ""
               ]
             },
@@ -792,7 +794,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1044,13 +1046,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Violence",
-                "Emotional Violence",
+                "Verbal Violence",
                 "Physical Violence",
                 "Sexual Violence",
+                "Any type of Violence",
+                "Physical or Sexual Violence",
+                "All Three Types of Violence",
+                "Economic Violence",
+                "Emotional Violence",
                 "Physical and or sexual Violence",
-                "Physical and/or  Sexual Violence Violence",
+                "Physical and/or Sexual Violence Violence",
                 "Physical and/or Sexual Violence",
+                "No Violence",
                 "None",
                 ""
               ]
@@ -1062,11 +1069,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lifetime intimate Partner",
+                "Lifetime Intimate Partner",
+                "Intimate Partner during Last 12 Months",
                 "Current Intimate Partner",
-                "Lifetime",
-                "Current",
-                "Lifetime Higher",
+                "Lifetime Partner",
+                "Current Partner",
                 ""
               ]
             },
@@ -1077,9 +1084,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
                 "Jamaica",
+                "KMA",
+                "Other Urban Centres",
+                "Rural",
+                "Urban",
                 ""
               ]
             },
@@ -1090,8 +1099,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Legally married",
+                "Common-law union",
+                "Visiting relationship",
+                "Previously married/partnered",
+                "Lowest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Highest",
                 "All Ever-partnered",
-                "21.7",
                 ""
               ]
             },
@@ -1102,6 +1119,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-24",
+                "25-34",
+                "35-49",
                 "15-19",
                 "20-24",
                 "25-29",
@@ -1137,8 +1157,6 @@
             "constraints": {
               "enum": [
                 "19 or Older",
-                "18 or younger 45.0",
-                "18 or younger 16.0",
                 "18 or younger",
                 "18 or Younger",
                 ""
@@ -1317,6 +1335,7 @@
                 "Attempted Intercource",
                 "Non-partner sexual harassment",
                 "Current Non-partner transactional sex",
+                "No Violence",
                 ""
               ]
             },
@@ -1329,7 +1348,6 @@
               "enum": [
                 "Lifetime Partner",
                 "Current Partner",
-                "Current  Partner",
                 ""
               ]
             },
@@ -1344,9 +1362,6 @@
                 "Support from partner/husband",
                 "Support from relatives and friends",
                 "No income/pension/ social services/other",
-                "Support  from partner/husband",
-                "Support  from relatives and friends",
-                "No income  /pension/ social services/other",
                 ""
               ]
             },
@@ -1695,10 +1710,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper House",
-                "Lower House",
                 "Mayors",
                 "Councillors",
+                "Upper House",
+                "Lower House",
                 ""
               ]
             },
@@ -1820,6 +1835,92 @@
         ]
       },
       "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
+    },
+    {
+      "path": "4-b-1/data.csv",
+      "name": "4-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Official Development Assistance Flows for Scholarships (USD)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official Development Assistance Flows for Scholarships (USD)",
+                ""
+              ]
+            },
+            "title": "Official Development Assistance Flows for Scholarships (USD)"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of official development assistance flows for scholarships"
+    },
+    {
+      "path": "indicator-5-5-2/data.csv",
+      "name": "indicator-5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Female Managers",
+                "Total Managers",
+                "Proportion of Women in Managerial Positions",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Quarter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "January Q1",
+                "April Q2",
+                "July Q3",
+                "October Q4",
+                ""
+              ]
+            },
+            "title": "Quarter"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "indicator-5-5-2"
     },
     {
       "path": "15-4-2/data.csv",
@@ -2061,10 +2162,6 @@
             "constraints": {
               "enum": [
                 "English A Only",
-                "Mathematics Only",
-                "English A and Mathematics",
-                "English A and/or Mathematics",
-                "Per cent of Cohort",
                 ""
               ]
             },
@@ -2089,29 +2186,38 @@
               "enum": [
                 "Jamaica",
                 "Kingston",
-                "St  Andrew",
-                "St  Thomas",
+                "St Andrew",
+                "St Thomas",
                 "Portland",
-                "St  Mary",
-                "St  Ann",
+                "St Mary",
+                "St Ann",
                 "Trelawny",
-                "St  James",
+                "St James",
                 "Hanover",
                 "Westmoreland",
-                "St  Elizabeth",
+                "St Elizabeth",
                 "Manchester",
                 "Clarendon",
-                "St  Catherine",
-                "Female",
-                "Male",
+                "St Catherine",
                 ""
               ]
             },
             "title": "Parish"
           },
           {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -2897,56 +3003,47 @@
             "title": "Year"
           },
           {
-            "name": "School Type",
+            "name": "Ratio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary School",
-                "Secondary School",
+                "Girls Adjusted Net Attendance Ratio (NAR) Primary School",
+                "Boys Adjusted Net Attendance Ratio (NAR) Primary School",
+                "Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School",
+                "Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School",
+                "Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School",
+                "Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School",
+                "Girls Adjusted Net Attendance Ratio (NAR) Secondary School",
+                "Boys Adjusted Net Attendance Ratio (NAR) Secondary School",
+                "GPI for Adjusted Ratio (NAR) Primary School",
+                "GPI for Adjusted Ratio (NAR) Lower Secondary School",
+                "GPI for Adjusted Ratio (NAR) Upper Secondary School",
+                "GPI for Adjusted Ratio (NAR) Secondary School",
                 ""
               ]
             },
-            "title": "School Type"
+            "title": "Ratio"
           },
           {
-            "name": "Index",
+            "name": "Geographical Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Adjusted Net Attendance Ratio (NAR)",
-                "GPI for Adjusted Ratio (NAR)",
-                "GPI for Adjusted Ratio  (NAR)",
-                ""
-              ]
-            },
-            "title": "Index"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Girls",
-                "Boys",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Geographic Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Other Towns",
-                "Urban Total",
-                "Rural",
                 "Jamaica",
+                "GKMA",
+                "Other Towns",
+                "Urban Area",
+                "Rural Area",
                 "KMA",
+                "Other Urban Centre",
+                "Urban",
+                "Rural",
+                "Urban Total",
+                "OUC",
                 ""
               ]
             },
-            "title": "Geographic Area"
+            "title": "Geographical Region"
           },
           {
             "name": "Wealth Index Quintiles",
@@ -2965,7 +3062,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -3036,6 +3133,7 @@
                 "Learning",
                 "Early Childhood Development Index Score",
                 "Number of children age 36-59 months",
+                "Percentage who are developmentally on track",
                 ""
               ]
             },
@@ -3048,6 +3146,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Total",
                 ""
               ]
             },
@@ -3062,6 +3161,8 @@
                 "Other Towns",
                 "Urban",
                 "Rural",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban Centres",
                 ""
               ]
             },
@@ -3074,6 +3175,9 @@
               "enum": [
                 "36-47 months",
                 "48-59 months",
+                "Age 2 years old",
+                "Age 3 years old",
+                "Age 4 years old",
                 ""
               ]
             },
@@ -3101,7 +3205,6 @@
                 "Middle",
                 "Fourth",
                 "Richest",
-                "Total",
                 ""
               ]
             },
@@ -3480,6 +3583,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Male",
                 "Female",
                 ""
@@ -4839,7 +4943,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -4855,7 +4959,7 @@
             "title": "School Type"
           },
           {
-            "name": "infrastructure Type",
+            "name": "Infrastructure Type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4869,7 +4973,7 @@
                 ""
               ]
             },
-            "title": "infrastructure Type"
+            "title": "Infrastructure Type"
           },
           {
             "name": "Value",
@@ -5491,6 +5595,70 @@
       "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of school",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary school",
+                "Lower Secondary",
+                "Upper Secondary",
+                ""
+              ]
+            },
+            "title": "Type of school"
+          },
+          {
+            "name": "Geographical region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban Centres",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Geographical region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+    },
+    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -5663,7 +5831,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -5674,11 +5842,23 @@
                 "Pre-Primary",
                 "Primary",
                 "Secondary",
-                "Pre Primary (Public Schools only)",
                 ""
               ]
             },
             "title": "Educational Level"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
           },
           {
             "name": "Value",
@@ -5751,15 +5931,45 @@
             "title": "Year"
           },
           {
-            "name": "Geographical Region",
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children (one year before the official primary entry age attending an early childhood education programme)",
+                "Percentage of children (one year before the official primary entry age attending primary education)",
+                "Net attendance rate (adjusted)",
+                ""
+              ]
+            },
+            "title": "Description"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Geographic Location",
             "type": "string",
             "constraints": {
               "enum": [
                 "Jamaica",
+                "Urban",
+                "GKMA",
+                "OUC",
+                "Rural",
                 ""
               ]
             },
-            "title": "Geographical Region"
+            "title": "Geographic Location"
           },
           {
             "name": "Value",
@@ -7390,30 +7600,6 @@
       "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
     },
     {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
-    },
-    {
       "path": "10-4-2/data.csv",
       "name": "10-4-2",
       "profile": "tabular-data-resource",
@@ -8444,30 +8630,6 @@
         ]
       },
       "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
-    },
-    {
-      "path": "4-b-1/data.csv",
-      "name": "4-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Volume of official development assistance flows for scholarships"
     },
     {
       "path": "11-b-2/data.csv",

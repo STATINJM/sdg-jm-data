@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Educational Level",
@@ -22,7 +22,18 @@
                 "Pre-Primary",
                 "Primary",
                 "Secondary",
-                "Pre Primary (Public Schools only)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both Sexes",
+                "Male",
+                "Female",
                 ""
               ]
             }

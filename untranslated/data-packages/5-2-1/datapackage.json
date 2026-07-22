@@ -19,13 +19,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Economic Violence",
-                "Emotional Violence",
+                "Verbal Violence",
                 "Physical Violence",
                 "Sexual Violence",
+                "Any type of Violence",
+                "Physical or Sexual Violence",
+                "All Three Types of Violence",
+                "Economic Violence",
+                "Emotional Violence",
                 "Physical and or sexual Violence",
-                "Physical and/or  Sexual Violence Violence",
+                "Physical and/or Sexual Violence Violence",
                 "Physical and/or Sexual Violence",
+                "No Violence",
                 "None",
                 ""
               ]
@@ -36,11 +41,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lifetime intimate Partner",
+                "Lifetime Intimate Partner",
+                "Intimate Partner during Last 12 Months",
                 "Current Intimate Partner",
-                "Lifetime",
-                "Current",
-                "Lifetime Higher",
+                "Lifetime Partner",
+                "Current Partner",
                 ""
               ]
             }
@@ -50,9 +55,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
                 "Jamaica",
+                "KMA",
+                "Other Urban Centres",
+                "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -62,8 +69,16 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Legally married",
+                "Common-law union",
+                "Visiting relationship",
+                "Previously married/partnered",
+                "Lowest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Highest",
                 "All Ever-partnered",
-                "21.7",
                 ""
               ]
             }
@@ -73,6 +88,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15-24",
+                "25-34",
+                "35-49",
                 "15-19",
                 "20-24",
                 "25-29",
@@ -106,8 +124,6 @@
             "constraints": {
               "enum": [
                 "19 or Older",
-                "18 or younger 45.0",
-                "18 or younger 16.0",
                 "18 or younger",
                 "18 or Younger",
                 ""

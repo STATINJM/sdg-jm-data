@@ -42,6 +42,7 @@
                 "Attempted Intercource",
                 "Non-partner sexual harassment",
                 "Current Non-partner transactional sex",
+                "No Violence",
                 ""
               ]
             }
@@ -53,7 +54,6 @@
               "enum": [
                 "Lifetime Partner",
                 "Current Partner",
-                "Current  Partner",
                 ""
               ]
             }
@@ -67,9 +67,6 @@
                 "Support from partner/husband",
                 "Support from relatives and friends",
                 "No income/pension/ social services/other",
-                "Support  from partner/husband",
-                "Support  from relatives and friends",
-                "No income  /pension/ social services/other",
                 ""
               ]
             }
