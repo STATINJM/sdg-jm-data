@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Indicators",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,11 +30,12 @@
             }
           },
           {
-            "name": "Geographic Region",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
+                "Per cent",
+                "Km2",
                 ""
               ]
             }

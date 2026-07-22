@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Indicators",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,18 +29,19 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Category"
           },
           {
-            "name": "Geographic Region",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
+                "Per cent",
+                "Km2",
                 ""
               ]
             },
-            "title": "Geographic Region"
+            "title": "Unit"
           },
           {
             "name": "Value",

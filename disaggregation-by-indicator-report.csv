@@ -88,11 +88,11 @@ Indicator,Disaggregations,Number of disaggregations
 #5-5-1,"Sex, House of Parliament",2
 #5-b-1,"Geographical Region, Sex",2
 #6-1-1,"Geographical Region, Wealth Quintile",2
-#6-2-1,"Geographical Region, Type of Toilet Facility",2
+#6-2-1,"Geographical Region, Wealth Index Quintiles, Type of Toilet Facility",3
 #6-4-2,"Category, Geographical Region",2
 #7-1-1,Geographical Region,1
-#7-1-2,Geographical Region,1
-#7-2-1,"Unit, Source of primary energy supply",2
+#7-1-2,"Geographical Region, category",2
+#7-2-1,"Unit, Source of Primary Energy Supply",2
 #8-1-1,Geographical Region,1
 #8-10-1,"Unit, Financial Institution",2
 #8-10-2,Financial institution,1

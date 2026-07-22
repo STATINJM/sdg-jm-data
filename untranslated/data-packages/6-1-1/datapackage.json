@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural Area",
                 "Jamaica",
                 "GKMA",
                 "Other Urban Centres",
+                "Rural Area",
                 ""
               ]
             }

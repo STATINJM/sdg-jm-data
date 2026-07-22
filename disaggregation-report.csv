@@ -8,6 +8,7 @@ Category of Child Labour,1,3
 Category of E-waste,1,2
 Category of International Health Regulations,1,13
 Category,10,26
+category,1,4
 Description,1,3
 Descriptor,1,8
 Development Type,1,7
@@ -29,7 +30,7 @@ Geographic Region,5,4
 Geographic region,1,1
 Geographical Area,7,21
 Geographical region,4,8
-Geographical Region,26,28
+Geographical Region,26,29
 Geographical Regions,3,7
 Group,1,10
 HIV Indicators,1,3
@@ -68,7 +69,7 @@ Region,1,3
 Safety at time of day,1,2
 School Type,1,2
 Sex,25,8
-Source of primary energy supply,1,12
+Source of Primary Energy Supply,1,10
 Source of Vaccination Record,1,3
 Status of Corruption Charges,1,4
 Status,1,10
@@ -98,13 +99,13 @@ Type of Rate,1,3
 Type of school,1,3
 Type of specie,1,2
 Type of species,1,6
-Type of Toilet Facility,1,6
+Type of Toilet Facility,1,11
 Type of Transpotation,1,7
 Type of Violence,1,4
 Type of Waste Collected,1,13
 Type of waste composition,1,10
-Unit,38,47
+Unit,38,45
 Vaccination Indicator,1,18
 Watershed,1,5
-Wealth Index Quintiles,2,5
+Wealth Index Quintiles,3,5
 Wealth Quintile,2,9

@@ -730,6 +730,20 @@
             "title": "Año"
           },
           {
+            "name": "category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of Household that used Gas and Electricity for Cooking",
+                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for Cooking",
+                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for Lighting",
+                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for both Cooking and Lighting",
+                ""
+              ]
+            },
+            "title": "category"
+          },
+          {
             "name": "Geographical Region",
             "type": "string",
             "constraints": {
@@ -738,6 +752,7 @@
                 "Rural",
                 "Greater Kingston Metropolitan Area",
                 "Other Urban Centres",
+                "Urban",
                 ""
               ]
             },
@@ -1480,6 +1495,43 @@
       "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
     },
     {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Other economic activities (services) (NACE/ISIC 45-99)",
+                "Private households",
+                "Domestic wastewater generated (sum of other economic and private)",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
+    },
+    {
       "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
@@ -1499,10 +1551,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Rural Area",
                 "Jamaica",
                 "GKMA",
                 "Other Urban Centres",
+                "Rural Area",
                 ""
               ]
             },
@@ -1598,8 +1650,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Degree of integrated water resources management implementation (0–100) in Jamaica",
-                "Degree of integrated water resources management implementation in the enabling environment",
+                "Degree of integrated water resources management implementation (0–100) in Jamaica of which:",
+                "Degree of integrated water resources management implementation in the \"enabling environment\"",
                 "Degree of integrated water resources management implementation within institutions",
                 "Degree of integrated water resources management implementation within management instruments",
                 "Degree of integrated water resources management implementation in financing",
@@ -1710,7 +1762,7 @@
             "title": "Año"
           },
           {
-            "name": "Source of primary energy supply",
+            "name": "Source of Primary Energy Supply",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1719,27 +1771,23 @@
                 "Wind",
                 "Coal",
                 "Bagasse",
-                "Total Alternative Energy",
-                "Total",
-                "% Renewable Share",
                 "Natural Gas",
                 "Solar",
-                "Fuelwood",
+                "Total Alternative Energy",
+                "Total",
                 "Per cent Renewable Share",
                 ""
               ]
             },
-            "title": "Source of primary energy supply"
+            "title": "Source of Primary Energy Supply"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "('000boe)",
-                "per cent",
-                "('000 boe)",
-                "(%)",
+                "'000 boe",
+                "%",
                 ""
               ]
             },
@@ -3408,6 +3456,92 @@
         ]
       },
       "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
+    },
+    {
+      "path": "6-3-2/data.csv",
+      "name": "6-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rivers (Reporting basin district area (in km²))",
+                "Groundwater (Reporting basin district area (in km²))",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "River",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "South Negril - Orange River",
+                "Lucea River",
+                "Great River",
+                "Montego River",
+                "Martha Brae",
+                "Rio-Bueno - White River",
+                "Rio Nuevo",
+                "Oracabessa - Pagee River",
+                "Rio Cobre",
+                "Black River",
+                "Deans Valley",
+                "Cabarita River",
+                "Wagwater River",
+                "Rio Minho",
+                "Gut-Alligator Hole",
+                ""
+              ]
+            },
+            "title": "River"
+          },
+          {
+            "name": "Measurement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "159.37 km2",
+                "257.58 km2",
+                "345.38 km2",
+                "205.03 km2",
+                "732.58 km2",
+                "1563.07 km2",
+                "109.12 km2",
+                "168.26 km2",
+                "1249.88 km2",
+                "1311.91 km2",
+                "425.42 km2",
+                "290.10 km2",
+                "317.64 km2",
+                "796.77 km2",
+                "164.74 km2",
+                ""
+              ]
+            },
+            "title": "Measurement"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of bodies of water with good ambient water quality"
     },
     {
       "path": "3-4-2/data.csv",
@@ -5092,7 +5226,7 @@
             "title": "Año"
           },
           {
-            "name": "Indicators",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5105,18 +5239,19 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Category"
           },
           {
-            "name": "Geographic Region",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
+                "Per cent",
+                "Km2",
                 ""
               ]
             },
-            "title": "Geographic Region"
+            "title": "Unit"
           },
           {
             "name": "Value",
@@ -5179,6 +5314,52 @@
         ]
       },
       "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
+    },
+    {
+      "path": "6-a-1/data.csv",
+      "name": "6-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Amount of water- and sanitation-related official development assistance",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "US$M",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
       "path": "11-5-2/data.csv",
@@ -5489,12 +5670,17 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of Households with Exclusive Use of Toilet Facility",
                 "Water Closet Linked to Central Sewer Network",
-                "Water Closet Linked to Offsite Disposal System",
-                "Water Closet Linked to Onsite Disposal System",
+                "Water Closet Not Linked to Sewer",
                 "Pit Laterine",
                 "Other",
-                "Water Closet Not Linked to Sewer",
+                "Water Closet Linked to Offsite Disposal System",
+                "Water Closet Linked to Onsite Disposal System",
+                "Percentage of household members with a handwashing facility where water and soap or detergent are presen",
+                "Percentage of household members using improved sanitation facilities which are not shared",
+                "Percentage of household members in households with improved on-site sanitation facilities from which waste has never been emptied or has been emptied and buried in a covered pit",
+                "Percentage of household members using an improved on-site sanitation facility from which a service provider has removed waste for treatment off-site",
                 ""
               ]
             },
@@ -5506,13 +5692,33 @@
             "constraints": {
               "enum": [
                 "Jamaica",
+                "GKMA",
+                "Other Urban Town",
+                "Rural Area",
                 "Greater Kingston Metropolitan Area",
                 "Other Urban Centre",
-                "Rural Area",
+                "Urban",
+                "OUC",
+                "Rural",
                 ""
               ]
             },
             "title": "Geographical Region"
+          },
+          {
+            "name": "Wealth Index Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                ""
+              ]
+            },
+            "title": "Wealth Index Quintiles"
           },
           {
             "name": "Value",
@@ -5729,6 +5935,62 @@
         ]
       },
       "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
+      "path": "7-b-1/data.csv",
+      "name": "7-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydro Technology",
+                "Solar",
+                "Wind",
+                "Net Billing (Solar)",
+                "Other arrangements",
+                "Total",
+                "Generating Capacity",
+                "Population",
+                "Renewable Energy Watts Per Capita",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MW",
+                "Watts",
+                "Renewable Energy Watts Per Capita",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
     },
     {
       "path": "4-1-2/data.csv",
@@ -7291,30 +7553,6 @@
       "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
-      "path": "6-3-2/data.csv",
-      "name": "6-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of bodies of water with good ambient water quality"
-    },
-    {
       "path": "10-7-1/data.csv",
       "name": "10-7-1",
       "profile": "tabular-data-resource",
@@ -7433,30 +7671,6 @@
         ]
       },
       "title": "Redistributive impact of fiscal policy on the Gini index"
-    },
-    {
-      "path": "6-a-1/data.csv",
-      "name": "6-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
     },
     {
       "path": "2-c-1/data.csv",
@@ -8683,30 +8897,6 @@
       "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
     },
     {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of domestic and industrial wastewater flows safely treated"
-    },
-    {
       "path": "1-a-1/data.csv",
       "name": "1-a-1",
       "profile": "tabular-data-resource",
@@ -9233,30 +9423,6 @@
         ]
       },
       "title": "6-2-1b"
-    },
-    {
-      "path": "7-b-1/data.csv",
-      "name": "7-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
     },
     {
       "path": "13-1-2/data.csv",

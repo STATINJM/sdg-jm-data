@@ -12,8 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydro Technology",
+                "Solar",
+                "Wind",
+                "Net Billing (Solar)",
+                "Other arrangements",
+                "Total",
+                "Generating Capacity",
+                "Population",
+                "Renewable Energy Watts Per Capita",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MW",
+                "Watts",
+                "Renewable Energy Watts Per Capita",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",
