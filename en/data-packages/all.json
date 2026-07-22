@@ -4457,8 +4457,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Jamaica",
                 "Rural Area",
-                "KMA",
+                "GKMA",
                 "Other Towns",
                 ""
               ]
