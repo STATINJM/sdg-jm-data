@@ -21,6 +21,7 @@
             "constraints": {
               "enum": [
                 "Mortality rate attributed to cardiovascular disease cancer diabetes or chronic respiratory disease",
+                "Mortality attributed to cardiovascular disease cancer diabetes or chronic respiratory disease (Number)",
                 ""
               ]
             },
