@@ -19,6 +19,7 @@ on:
   push:
     branches:
       - develop
+  workflow_dispatch: 
 
 permissions:
   contents: write  # This allows the action to push to the gh-pages branch
