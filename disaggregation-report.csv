@@ -26,11 +26,11 @@ GDP (Tourism),1,5
 Gender,1,3
 Geogaphical Region,3,1
 Geographic Location,2,9
-Geographic Region,5,4
 Geographic region,1,1
+Geographic Region,5,4
 Geographical Area,7,19
-Geographical region,4,8
 Geographical Region,26,15
+Geographical region,4,8
 Geographical Regions,3,7
 Group,1,10
 HIV Indicators,1,3
@@ -105,8 +105,8 @@ Type of Transpotation,1,7
 Type of Violence,1,4
 Type of Waste Collected,1,13
 Type of waste composition,1,10
-Unit,38,45
 unit,1,2
+Unit,38,45
 Vaccination Indicator,1,18
 Watershed,1,5
 Wealth Index Quintiles,3,5
