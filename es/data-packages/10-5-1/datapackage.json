@@ -68,7 +68,7 @@
             "title": "Financial soundness indicators-deposit-taking institution"
           },
           {
-            "name": "Type of institution",
+            "name": "Institution Type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -79,7 +79,7 @@
                 ""
               ]
             },
-            "title": "Type of institution"
+            "title": "Institution Type"
           },
           {
             "name": "Value",

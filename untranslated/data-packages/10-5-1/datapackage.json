@@ -65,7 +65,7 @@
             }
           },
           {
-            "name": "Type of institution",
+            "name": "Institution Type",
             "type": "string",
             "constraints": {
               "enum": [
