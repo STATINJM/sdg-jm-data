@@ -12,47 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fee",
-                "Exchange Rate Margin (%)",
-                "Total Cost (%)",
-                "Total Cost CAD",
-                "Total Cost USD",
-                ""
-              ]
-            },
-            "title": "Description"
-          },
-          {
-            "name": "Geographical Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Canada",
-                "United States",
-                "United Kingdom",
-                ""
-              ]
-            },
-            "title": "Geographical Region"
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Bank",
-                ""
-              ]
-            },
-            "title": "Source"
           },
           {
             "name": "Value",
