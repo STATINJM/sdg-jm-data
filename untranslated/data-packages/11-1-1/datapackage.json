@@ -32,11 +32,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Owned",
-                "Leased",
-                "Rented",
-                "Rent Free",
-                "Squatted",
+                "Owned Land",
+                "Leased Land",
+                "Rented Land",
+                "Rent Free Land",
+                "Squatted Land",
                 ""
               ]
             }

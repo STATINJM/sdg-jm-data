@@ -5113,11 +5113,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Owned",
-                "Leased",
-                "Rented",
-                "Rent Free",
-                "Squatted",
+                "Owned Land",
+                "Leased Land",
+                "Rented Land",
+                "Rent Free Land",
+                "Squatted Land",
                 ""
               ]
             }
@@ -5754,6 +5754,64 @@
         ]
       },
       "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+    },
+    {
+      "path": "10-c-1/data.csv",
+      "name": "10-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fee",
+                "Exchange Rate Margin (%)",
+                "Total Cost (%)",
+                "Total Cost CAD",
+                "Total Cost USD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "United States",
+                "United Kingdom",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Remittance costs as a proportion of the amount remitted"
     },
     {
       "path": "4-1-2/data.csv",
@@ -7905,28 +7963,6 @@
         ]
       },
       "title": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications"
-    },
-    {
-      "path": "10-c-1/data.csv",
-      "name": "10-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Remittance costs as a proportion of the amount remitted"
     },
     {
       "path": "6-4-1/data.csv",
