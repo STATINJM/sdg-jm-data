@@ -20,7 +20,7 @@ Land Area ( ha),10,1
 Marine Area (ha),6,1
 (Maternal Mortality Ratio),1,1
 (Million Tonnes),1,1
-($ Million),6,1
+$ Million,6,1
 (Neonatal Mortality Ratio),1,1
 Number of Sites,9,1
 Number,88,5
@@ -30,9 +30,9 @@ per 100.000 adults,2,1
 per 100.000 population,2,2
 Per 100.000 Population,36,1
 "per 100,000 population",3,1
-(Per cent),5,2
+(Per cent),2,1
 (per cent),3,1
-Per cent,2,2
+Per cent,5,3
 "Persons affected per 100,000 population",6,1
 "Persons dead per 100,000 population",6,1
 (Proportion of Births),2,2

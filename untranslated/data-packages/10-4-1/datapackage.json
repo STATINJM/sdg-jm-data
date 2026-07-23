@@ -20,14 +20,14 @@
             "constraints": {
               "enum": [
                 "Compensation of Employees",
-                "Operating Surplus/Mixed Income",
                 "Consumption of Fixed Capital",
-                "Taxes on Production & Imports",
-                "Less Subsidies on Production & Imports",
+                "Fixed Capital share of GDP",
                 "Gross Domestic Product at Market Prices",
                 "Labour Share of GDP",
+                "Less Subsidies on Production & Imports",
+                "Operating Surplus/Mixed Income",
                 "Operating Surplus/Mixed Income share of GDP",
-                "Fixed Capital share of GDP",
+                "Taxes on Production & Imports",
                 ""
               ]
             }
@@ -37,8 +37,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "($ Million)",
-                "(Per cent)",
+                "$ Million",
+                "Per cent",
                 ""
               ]
             }
