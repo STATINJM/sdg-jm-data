@@ -2387,41 +2387,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Assets per employee (Total assets to number of employees) J$(000)",
-                "Liquid assets to total liabilities",
-                "Net premium to Capital",
-                "Capital to Assets",
-                "Receivables to gross premiums",
-                "(Real estate + unquoted equities + debtors) to total assets",
-                "Equities to total assets",
-                "Risk retention ratio (net premium/gross premium)",
-                "Net technical reserves to average of net claims paid in last 3 years",
-                "Return on assets",
-                "Net claims to net premium earned",
-                "Total expenses to net premium written",
-                "Combined ratio = loss + expenses ratios",
-                "Investment income to net premium",
-                "Return on Equity",
-                "Gross Premium to number of employees J$(000)",
-                "Capital to Technical Reserves",
-                "Net technical reserves to average of net premiums received in last 3yrs",
-                "Investment income to investment assets",
-                "Gross Premium to number of employees",
-                "Assets per employee (Total assets to number of employees)",
-                "Duration of assets and liabilities -Domestic Bonds",
-                "Duration of assets and liabilities - Global Bonds",
-                "Regulatory capital to risk-weighted assets",
-                "Tier 1 capital to risk-weighted assets",
-                "Non-performing loans (net) to capital",
-                "Non-performing loans to total loans",
-                "Return on equity",
-                "Interest margin to income",
-                "Non-interest expenses to income",
-                "Liquid assets to total assets",
-                "Duration on assets -Domestic Bonds",
-                "Duration on assets- Global Bonds",
-                "NOP to capital (Regulatory)",
-                "Expenses to net premium (expense ratio)",
+                "Financial soundness indicators",
                 ""
               ]
             },
@@ -2449,46 +2415,42 @@
                 "(Real estate + unquoted equities + debtors) to total assets",
                 "Receivables to gross premiums",
                 "Equities to total assets",
-                "Net technical reserves to average of net claims paid in last 3 years",
-                "Risk retention ratio (net premium/gross premium)",
-                "Gross Premium to number of employees J$(000)",
-                "Assets per employee (Total assets to number of employees) J$(000)",
-                "Net claims to net premium earned",
-                "Total expenses to net premium written",
-                "Combined ratio = loss + expenses ratios",
-                "Investment income to net premium",
+                "Net technical reserves to net claims paid in last 3 years",
+                "Risk retention ratio (net premium to gross premium)",
+                "Gross premium to number of employees J$(000)",
+                "Assets per employee J$(000)",
+                "Net Claims to net premium (loss ratio)",
+                "Total expenses to net premium (expense ratio)",
+                "Combined ratio (loss + expense ratio)",
+                "Investment Income to net premium",
                 "Return on Equity",
                 "Liquid assets to total liabilities",
-                "Capital to Technical Reserves",
-                "Net technical reserves to average of net premiums received in last 3yrs",
-                "Gross Premium to number of employees",
-                "Assets per employee (Total assets to number of employees)",
+                "Capital to technical reserves",
+                "Net technical reserves to net premium paid in last 3 years",
                 "Expenses to net premium (expense ratio)",
-                "Investment income to investment assets",
-                "Duration of assets and liabilities -Domestic Bonds",
-                "Duration of assets and liabilities - Global Bonds",
+                "Investment Income to investment assets",
                 ""
               ]
             },
             "title": "Financial soundness indicators-deposit-taking institution"
           },
           {
-            "name": "Type of  institution",
+            "name": "Type of institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "General Insurance",
-                "Life Insurance",
                 "Deposit-taking Institution",
                 "Securities Dealers",
+                "General Insurance",
+                "Life Insurance",
                 ""
               ]
             },
-            "title": "Type of  institution"
+            "title": "Type of institution"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -4157,6 +4119,63 @@
         ]
       },
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "10-b-1/data.csv",
+      "name": "10-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reported Amount",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "US$ Million",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PIOJ",
+                ""
+              ]
+            },
+            "title": "Source"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "9-2-1/data.csv",
@@ -7304,30 +7323,6 @@
         ]
       },
       "title": "Proportion of total research budget allocated to research in the field of marine technology"
-    },
-    {
-      "path": "10-b-1/data.csv",
-      "name": "10-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "17-10-1/data.csv",
