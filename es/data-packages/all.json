@@ -992,7 +992,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mortality rate attributed to unintentional poisoning",
+                "Number of deaths by unintentional poisoning",
+                "Proportion of deaths by unintentional poisoning",
                 ""
               ]
             },
