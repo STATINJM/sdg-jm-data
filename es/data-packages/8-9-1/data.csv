@@ -1,12 +1,59 @@
-Year,GDP (Tourism),Value
-2019,Growth rate of Tourism direct GDP,11.0
-2014,Tourism direct GDP as a proportion of total GDP,7.5
-2014,Growth rate of Tourism direct GDP,16.4
-2015,Tourism direct GDP as a proportion of total GDP,7.8
-2015,Growth rate of Tourism direct GDP,12.2
-2016,Tourism direct GDP as a proportion of total GDP,8.4
-2016,Growth rate of Tourism direct GDP,14.1
-2017,Tourism direct GDP as a proportion of total GDP,9.1
-2017,Growth rate of Tourism direct GDP,16.2
-2018,Tourism direct GDP as a proportion of total GDP,9.2
-2018,Growth rate of Tourism direct GDP,8.7
+Year,GDP (Tourism),unit,Value
+2010,Tourism direct GDP as a proportion of total GDP,Per cent,6.9
+2010,Tourism direct GVA as a proportion of total GVA,Per cent,6.1
+2010,Tourism  GDP (direct),JMD Mn,79278.0
+2010,Tourism GVA (direct),JMD Mn,60267.0
+2011,Tourism direct GDP as a proportion of total GDP,Per cent,6.5
+2011,Tourism direct GVA as a proportion of total GVA,Per cent,5.5
+2011,Tourism  GDP (direct),JMD Mn,80554.0
+2011,Tourism GVA (direct),JMD Mn,59047.0
+2012,Tourism direct GDP as a proportion of total GDP,Per cent,6.4
+2012,Tourism direct GVA as a proportion of total GVA,Per cent,5.4
+2012,Tourism  GDP (direct),JMD Mn,84127.0
+2012,Tourism GVA (direct),JMD Mn,60312.0
+2013,Tourism direct GDP as a proportion of total GDP,Per cent,6.9
+2013,Tourism direct GVA as a proportion of total GVA,Per cent,5.6
+2013,Tourism  GDP (direct),JMD Mn,99037.0
+2013,Tourism GVA (direct),JMD Mn,67530.0
+2014,Tourism direct GDP as a proportion of total GDP,Per cent,7.5
+2014,Growth rate of Tourism direct GDP,Per cent,16.4
+2014,Tourism direct GVA as a proportion of total GVA,Per cent,6.0
+2014,Tourism  GDP (direct),JMD Mn,11591.0
+2014,Tourism GVA (direct),JMD Mn,78529.0
+2015,Tourism direct GDP as a proportion of total GDP,Per cent,8.5
+2015,Growth rate of Tourism direct GDP,Per cent,12.2
+2015,Tourism direct GVA as a proportion of total GVA,Per cent,6.2
+2015,Tourism  GDP (direct),JMD Mn,148362.0
+2015,Tourism GVA (direct),JMD Mn,87100.0
+2016,Tourism direct GDP as a proportion of total GDP,Per cent,9.2
+2016,Growth rate of Tourism direct GDP,Per cent,15.5
+2016,Tourism direct GVA as a proportion of total GVA,Per cent,6.6
+2016,Tourism  GDP (direct),JMD Mn,171359.0
+2016,Tourism GVA (direct),JMD Mn,97354.0
+2017,Tourism direct GDP as a proportion of total GDP,Per cent,9.8
+2017,Growth rate of Tourism direct GDP,Per cent,15.3
+2017,Tourism direct GVA as a proportion of total GVA,Per cent,7.1
+2017,Tourism  GDP (direct),JMD Mn,197588.0
+2017,Tourism GVA (direct),JMD Mn,109635.0
+2018,Tourism direct GDP as a proportion of total GDP,Per cent,10.2
+2018,Growth rate of Tourism direct GDP,Per cent,11.9
+2018,Tourism direct GVA as a proportion of total GVA,Per cent,7.1
+2018,Tourism  GDP (direct),JMD Mn,221141.0
+2018,Tourism GVA (direct),JMD Mn,118011.0
+2019,Tourism direct GDP as a proportion of total GDP,Per cent,10.8
+2019,Growth rate of Tourism direct GDP,Per cent,10.7
+2019,Tourism direct GVA as a proportion of total GVA,Per cent,7.6
+2019,Tourism  GDP (direct),JMD Mn,244731.0
+2019,Tourism GVA (direct),JMD Mn,130593.0
+2020,Tourism direct GDP as a proportion of total GDP,Per cent,4.8
+2020,Growth rate of Tourism direct GDP,Per cent,-58.5
+2020,Tourism  GDP (direct),JMD Mn,101513.0
+2021,Tourism direct GDP as a proportion of total GDP,Per cent,7.4
+2021,Growth rate of Tourism direct GDP,Per cent,76.1
+2021,Tourism  GDP (direct),JMD Mn,178797.0
+2022,Tourism direct GDP as a proportion of total GDP,Per cent,10.3
+2022,Growth rate of Tourism direct GDP,Per cent,65.8
+2022,Tourism  GDP (direct),JMD Mn,296461.0
+2023,Tourism direct GDP as a proportion of total GDP,Per cent,10.6
+2023,Growth rate of Tourism direct GDP,Per cent,17.9
+2023,Tourism  GDP (direct),JMD Mn,349431.0

@@ -1,1 +1,97 @@
-Year,Value
+Year,Description,Geographical Region,Source,Value
+2015,Fee,Canada,World Bank,11.72
+2016,Fee,Canada,World Bank,11.72
+2017,Fee,Canada,World Bank,11.87
+2018,Fee,Canada,World Bank,12.89
+2019,Fee,Canada,World Bank,11.16
+2020,Fee,Canada,World Bank,9.39
+2021,Fee,Canada,World Bank,6.84
+2022,Fee,Canada,World Bank,5.57
+2015,Exchange Rate Margin (%),Canada,World Bank,3.56
+2016,Exchange Rate Margin (%),Canada,World Bank,3.39
+2017,Exchange Rate Margin (%),Canada,World Bank,3.63
+2018,Exchange Rate Margin (%),Canada,World Bank,4.36
+2019,Exchange Rate Margin (%),Canada,World Bank,3.82
+2020,Exchange Rate Margin (%),Canada,World Bank,1.28
+2021,Exchange Rate Margin (%),Canada,World Bank,2.87
+2022,Exchange Rate Margin (%),Canada,World Bank,3.11
+2015,Total Cost (%),Canada,World Bank,9.43
+2016,Total Cost (%),Canada,World Bank,9.25
+2017,Total Cost (%),Canada,World Bank,9.56
+2018,Total Cost (%),Canada,World Bank,10.8
+2019,Total Cost (%),Canada,World Bank,9.4
+2020,Total Cost (%),Canada,World Bank,5.98
+2021,Total Cost (%),Canada,World Bank,6.29
+2022,Total Cost (%),Canada,World Bank,5.9
+2015,Total Cost CAD,Canada,World Bank,18.85
+2016,Total Cost CAD,Canada,World Bank,18.5
+2017,Total Cost CAD,Canada,World Bank,19.13
+2018,Total Cost CAD,Canada,World Bank,21.6
+2019,Total Cost CAD,Canada,World Bank,18.8
+2020,Total Cost CAD,Canada,World Bank,11.96
+2021,Total Cost CAD,Canada,World Bank,12.58
+2022,Total Cost CAD,Canada,World Bank,11.8
+2015,Fee,United States,World Bank,9.92
+2016,Fee,United States,World Bank,9.91
+2017,Fee,United States,World Bank,9.8
+2018,Fee,United States,World Bank,8.19
+2019,Fee,United States,World Bank,6.73
+2020,Fee,United States,World Bank,6.6
+2021,Fee,United States,World Bank,6.95
+2022,Fee,United States,World Bank,7.27
+2015,Exchange Rate Margin (%),United States,World Bank,3.57
+2016,Exchange Rate Margin (%),United States,World Bank,2.08
+2017,Exchange Rate Margin (%),United States,World Bank,2.76
+2018,Exchange Rate Margin (%),United States,World Bank,3.21
+2019,Exchange Rate Margin (%),United States,World Bank,2.81
+2020,Exchange Rate Margin (%),United States,World Bank,4.99
+2021,Exchange Rate Margin (%),United States,World Bank,4.13
+2022,Exchange Rate Margin (%),United States,World Bank,3.8
+2015,Total Cost (%),United States,World Bank,8.53
+2016,Total Cost (%),United States,World Bank,7.03
+2017,Total Cost (%),United States,World Bank,7.66
+2018,Total Cost (%),United States,World Bank,7.3
+2019,Total Cost (%),United States,World Bank,6.18
+2020,Total Cost (%),United States,World Bank,8.29
+2021,Total Cost (%),United States,World Bank,7.61
+2022,Total Cost (%),United States,World Bank,7.44
+2015,Total Cost USD,United States,World Bank,17.06
+2016,Total Cost USD,United States,World Bank,14.06
+2017,Total Cost USD,United States,World Bank,15.32
+2018,Total Cost USD,United States,World Bank,14.61
+2019,Total Cost USD,United States,World Bank,12.36
+2020,Total Cost USD,United States,World Bank,16.58
+2021,Total Cost USD,United States,World Bank,15.21
+2022,Total Cost USD,United States,World Bank,14.87
+2015,Fee,United Kingdom,World Bank,6.53
+2016,Fee,United Kingdom,World Bank,6.48
+2017,Fee,United Kingdom,World Bank,6.04
+2018,Fee,United Kingdom,World Bank,5.94
+2019,Fee,United Kingdom,World Bank,6.59
+2020,Fee,United Kingdom,World Bank,6.2
+2021,Fee,United Kingdom,World Bank,3.22
+2022,Fee,United Kingdom,World Bank,4.71
+2015,Exchange Rate Margin (%),United Kingdom,World Bank,2.2
+2016,Exchange Rate Margin (%),United Kingdom,World Bank,2.45
+2017,Exchange Rate Margin (%),United Kingdom,World Bank,2.93
+2018,Exchange Rate Margin (%),United Kingdom,World Bank,3.47
+2019,Exchange Rate Margin (%),United Kingdom,World Bank,3.58
+2020,Exchange Rate Margin (%),United Kingdom,World Bank,2.02
+2021,Exchange Rate Margin (%),United Kingdom,World Bank,2.26
+2022,Exchange Rate Margin (%),United Kingdom,World Bank,3.01
+2015,Total Cost (%),United Kingdom,World Bank,7.64
+2016,Total Cost (%),United Kingdom,World Bank,7.85
+2017,Total Cost (%),United Kingdom,World Bank,7.95
+2018,Total Cost (%),United Kingdom,World Bank,8.42
+2019,Total Cost (%),United Kingdom,World Bank,9.08
+2020,Total Cost (%),United Kingdom,World Bank,7.18
+2021,Total Cost (%),United Kingdom,World Bank,4.95
+2022,Total Cost (%),United Kingdom,World Bank,6.93
+2015,Total Cost USD,United Kingdom,World Bank,9.17
+2016,Total Cost USD,United Kingdom,World Bank,9.42
+2017,Total Cost USD,United Kingdom,World Bank,9.54
+2018,Total Cost USD,United Kingdom,World Bank,10.1
+2019,Total Cost USD,United Kingdom,World Bank,10.9
+2020,Total Cost USD,United Kingdom,World Bank,8.62
+2021,Total Cost USD,United Kingdom,World Bank,5.94
+2022,Total Cost USD,United Kingdom,World Bank,8.32

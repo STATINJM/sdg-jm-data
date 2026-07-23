@@ -1,10 +1,10 @@
 Disaggregation,Number of indicators,Number of values
 Age at First Union,2,4
-Age Group,11,53
-Age group,1,8
+Age Group,11,56
+Age group,1,12
 Agency,1,2
-Area of Residence,1,2
-Category of Child Labour,1,3
+Area of Residence,1,5
+Category of Child Labour,1,30
 Category of E-waste,1,2
 Category of International Health Regulations,1,13
 Category,10,26
@@ -22,15 +22,15 @@ Financial soundness indicators-deposit-taking institution,1,31
 Financial soundness indicators,1,1
 Form of Sexual Violence,1,11
 Form of Violence,1,13
-GDP (Tourism),1,2
+GDP (Tourism),1,5
 Gender,1,3
 Geogaphical Region,3,1
 Geographic Location,2,9
-Geographic Region,5,4
 Geographic region,1,1
+Geographic Region,5,4
 Geographical Area,7,19
+Geographical Region,26,15
 Geographical region,4,8
-Geographical Region,27,15
 Geographical Regions,3,7
 Group,1,10
 HIV Indicators,1,3
@@ -63,7 +63,8 @@ Pollutant,1,6
 Population Group,1,3
 Preschool attendance,1,2
 Proportion of bribery Incident,1,1
-Quarter,4,8
+Quarter,4,12
+quarter,1,4
 Ratio,1,12
 Reasons for not accessing the treatment,1,7
 Region,1,3
@@ -104,6 +105,7 @@ Type of Transpotation,1,7
 Type of Violence,1,4
 Type of Waste Collected,1,13
 Type of waste composition,1,10
+unit,1,2
 Unit,38,45
 Vaccination Indicator,1,18
 Watershed,1,5

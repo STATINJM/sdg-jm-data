@@ -12,7 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fee",
+                "Exchange Rate Margin (%)",
+                "Total Cost (%)",
+                "Total Cost CAD",
+                "Total Cost USD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "United States",
+                "United Kingdom",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

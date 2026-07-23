@@ -1,9 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Grade 2-3,16,1
-Grade 6,15,1
-Grade 9/ 3rd Form,15,1
-Greater Kingston Metropolitan Area,3,1
-Jamaica,14,3
-Other Urban Centres,3,1
-Rural,4,2
-Urban,4,2
+GKMA,16,5
+Greater Kingston Metropolitan Area,12,4
+Jamaica,94,26
+KMA,21,3
+Other Towns,11,3
+Other Urban Centre,14,3
+Other Urban Centres,19,5
+Other Urban Town,1,1
+OUC,4,2
+Rural Area,14,6
+Rural,53,7
+Total,11,1
+Urban Area,2,1
+Urban Total,6,1
+Urban,29,5

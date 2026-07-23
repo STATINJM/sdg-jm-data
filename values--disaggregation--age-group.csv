@@ -1,9 +1,11 @@
 Value,Disaggregation combinations using this value,Number of indicators
 0-11 Months,2,2
 10-14 years,3,1
+12-14,1,1
 12-23 Months,2,2
 13-14 years,3,1
 15-17 years,3,1
+15-17,1,1
 15-19 years,1,1
 15-19,7,1
 15-24 years old,11,2
@@ -16,8 +18,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 25-29 years,1,1
 25-29,7,1
 25-34,12,1
-25 + years old,2,1
 25+ years old,9,1
+25 + years old,2,1
 30-34 years,1,1
 30-34,7,1
 35-39 years,1,1
@@ -31,6 +33,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 45-49,7,1
 48-59 Months,2,2
 48-59 months,6,1
+5-11,1,1
 5-12 years,3,1
 5-9 years,3,1
 50-54,7,1

@@ -23,6 +23,10 @@
                 "April",
                 "July",
                 "October",
+                "Quarter 1",
+                "Quarter 2",
+                "Quarter 3",
+                "Quarter 4",
                 ""
               ]
             }
@@ -52,13 +56,17 @@
                 "45-54",
                 "55-64",
                 "65 and over",
+                "Unemployment Rate",
+                "Youth (15-24 yrs)",
+                "Prime Working Age (25-54 yrs)",
+                "Unemployment Rate by Sociodemographic Characteristics",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
