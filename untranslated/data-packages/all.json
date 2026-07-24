@@ -3262,13 +3262,23 @@
             "type": "integer"
           },
           {
-            "name": "Type of Assault",
+            "name": "Type of Violence",
             "type": "string",
             "constraints": {
               "enum": [
                 "Aggravated Assault",
-                "Rape",
                 "Total Sexual Violence",
+                "Rape",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
                 ""
               ]
             }
