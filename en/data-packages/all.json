@@ -1265,7 +1265,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -1279,6 +1279,10 @@
                 "Lead",
                 "Total Volatile Organic Compounds",
                 "Carbon Monoxide",
+                "Carbon dioxide",
+                "Methane",
+                "Nitrous Oxide",
+                "Priority Air Pollutants",
                 ""
               ]
             },

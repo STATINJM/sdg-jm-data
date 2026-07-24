@@ -1,31 +1,74 @@
 Year,Pollutant,Unit,Value
 2009,Particulate Matter,Tonnes,9694.0
-2009,Sulphur Oxide,Tonnes,82164.0
-2009,Nitrogen Oxides,Tonnes,41061.0
-2009,Lead,Tonnes,0.18
-2009,Total Volatile Organic Compounds,Tonnes,1575.0
-2009,Carbon Monoxide,Tonnes,6435.0
 2010,Particulate Matter,Tonnes,9695.0
+2011,Particulate Matter,Tonnes,9697.0
+2012,Particulate Matter,Tonnes,9698.0
+2016,Particulate Matter,Tonnes,15313.69
+2017,Particulate Matter,Tonnes,16121.95
+2018,Particulate Matter,Tonnes,18765.84
+2019,Particulate Matter,Tonnes,16197.51
+2021,Particulate Matter,Tonnes,17392.0
+2007/2008,Particulate Matter,Tonnes,9696.0
+2009,Sulphur Oxide,Tonnes,82164.0
 2010,Sulphur Oxide,Tonnes,82165.0
+2011,Sulphur Oxide,Tonnes,82167.0
+2012,Sulphur Oxide,Tonnes,82168.0
+2016,Sulphur Oxide,Tonnes,63446.63
+2017,Sulphur Oxide,Tonnes,52251.59
+2018,Sulphur Oxide,Tonnes,72344.35
+2019,Sulphur Oxide,Tonnes,52287.51
+2021,Sulphur Oxide,Tonnes,27009.0
+2007/2008,Sulphur Oxide,Tonnes,82166.0
+2009,Nitrogen Oxides,Tonnes,41061.0
 2010,Nitrogen Oxides,Tonnes,41062.0
+2011,Nitrogen Oxides,Tonnes,41064.0
+2012,Nitrogen Oxides,Tonnes,41065.0
+2016,Nitrogen Oxides,Tonnes,39155.17
+2017,Nitrogen Oxides,Tonnes,43339.92
+2018,Nitrogen Oxides,Tonnes,40447.02
+2019,Nitrogen Oxides,Tonnes,42950.32
+2021,Nitrogen Oxides,Tonnes,24900.0
+2007/2008,Nitrogen Oxides,Tonnes,41063.0
+2009,Lead,Tonnes,0.18
 2010,Lead,Tonnes,0.19
+2011,Lead,Tonnes,0.21
+2012,Lead,Tonnes,0.22
+2016,Lead,Tonnes,0.247
+2017,Lead,Tonnes,0.225
+2018,Lead,Tonnes,0.227
+2019,Lead,Tonnes,0.226
+2007/2008,Lead,Tonnes,0.2
+2009,Total Volatile Organic Compounds,Tonnes,1575.0
 2010,Total Volatile Organic Compounds,Tonnes,1576.0
+2011,Total Volatile Organic Compounds,Tonnes,578.0
+2012,Total Volatile Organic Compounds,Tonnes,1579.0
+2016,Total Volatile Organic Compounds,Tonnes,3222.02
+2017,Total Volatile Organic Compounds,Tonnes,3502.79
+2018,Total Volatile Organic Compounds,Tonnes,2893.59
+2019,Total Volatile Organic Compounds,Tonnes,3017.0
+2007/2008,Total Volatile Organic Compounds,Tonnes,1577.0
+2009,Carbon Monoxide,Tonnes,6435.0
 2010,Carbon Monoxide,Tonnes,6436.0
-2011,Particulate Matter,Tonnes,9696.0
-2011,Sulphur Oxide,Tonnes,82166.0
-2011,Nitrogen Oxides,Tonnes,41063.0
-2011,Lead,Tonnes,0.2
-2011,Total Volatile Organic Compounds,Tonnes,1577.0
-2011,Carbon Monoxide,Tonnes,6437.0
-2012,Particulate Matter,Tonnes,9697.0
-2012,Sulphur Oxide,Tonnes,82167.0
-2012,Nitrogen Oxides,Tonnes,41064.0
-2012,Lead,Tonnes,0.21
-2012,Total Volatile Organic Compounds,Tonnes,578.0
-2012,Carbon Monoxide,Tonnes,6438.0
-2013,Particulate Matter,Tonnes,9698.0
-2013,Sulphur Oxide,Tonnes,82168.0
-2013,Nitrogen Oxides,Tonnes,41065.0
-2013,Lead,Tonnes,0.22
-2013,Total Volatile Organic Compounds,Tonnes,1579.0
-2013,Carbon Monoxide,Tonnes,6439.0
+2011,Carbon Monoxide,Tonnes,6438.0
+2012,Carbon Monoxide,Tonnes,6439.0
+2016,Carbon Monoxide,Tonnes,7724.6
+2017,Carbon Monoxide,Tonnes,5966.52
+2018,Carbon Monoxide,Tonnes,7292.12
+2019,Carbon Monoxide,Tonnes,5884.24
+2021,Carbon Monoxide,Tonnes,5120.0
+2007/2008,Carbon Monoxide,Tonnes,6437.0
+2016,Carbon dioxide,,5289078.0
+2017,Carbon dioxide,,7909726.0
+2018,Carbon dioxide,,5213855.0
+2019,Carbon dioxide,,4879063.0
+2021,Carbon dioxide,,3600056.0
+2016,Methane,,150.62
+2017,Methane,,113.72
+2018,Methane,,135.03
+2019,Methane,,114.06
+2021,Methane,,150.0
+2021,Nitrous Oxide,,46.0
+2016,Priority Air Pollutants,,2269.38
+2017,Priority Air Pollutants,,2113.73
+2018,Priority Air Pollutants,,2093.65
+2019,Priority Air Pollutants,,833.09
