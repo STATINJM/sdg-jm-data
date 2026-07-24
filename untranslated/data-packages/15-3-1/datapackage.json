@@ -12,7 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Forest Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest area annual net change rate",
+                "Proportion of forest area located within legally-established protected areas",
+                "Proportion of forest area under a long-term forest management plan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forestry Department",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Indicator Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global SDG Indicator",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per cent",
+                "Per cent of total forest cover",
+                "ha",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
