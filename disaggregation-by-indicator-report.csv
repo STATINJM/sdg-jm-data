@@ -31,7 +31,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-4-1,Category,1
 #15-4-2,"Unit, Category, Kapos Mountain Class, IPCC Class",4
 #15-5-1,"Type of Species, Status",2
-#16-1-1,"Sex, Geographical Region",2
+#16-1-1,"Unit, Sex, Geographical Region, Description",4
 #16-1-3,Type of Violence,1
 #16-1-4,"Region, Safety at time of day, Sex",3
 #16-2-1,"Sex, Wealth Quintile, Age Group, Geographical Area, Type of Punishment",5
