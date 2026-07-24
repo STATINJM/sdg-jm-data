@@ -2455,6 +2455,51 @@
       "title": "global_indicators.1-5-1-title"
     },
     {
+      "path": "11-b-2/data.csv",
+      "name": "11-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "DRR Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of local governments that have adopted and implemented local DRR strategies in line with national strategies",
+                "Total Number of local governments",
+                "Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Per cent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.11-b-2-title"
+    },
+    {
       "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
@@ -8649,28 +8694,6 @@
         ]
       },
       "title": "global_indicators.11-4-1-title"
-    },
-    {
-      "path": "11-b-2/data.csv",
-      "name": "11-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-b-2-title"
     },
     {
       "path": "16-6-1/data.csv",
