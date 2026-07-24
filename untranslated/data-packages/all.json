@@ -958,10 +958,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper House",
-                "Lower House",
                 "Mayors",
                 "Councillors",
+                "Upper House",
+                "Lower House",
                 ""
               ]
             }
@@ -971,10 +971,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Female",
                 "Male",
                 "Total Number of Seats",
-                "Female",
-                "Females",
                 ""
               ]
             }
