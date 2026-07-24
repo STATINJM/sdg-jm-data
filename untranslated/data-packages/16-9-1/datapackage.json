@@ -20,6 +20,17 @@
             "constraints": {
               "enum": [
                 "Jamaica",
+                "Male",
+                "Female",
+                "Urban",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban Centres",
+                "Rural",
+                "0-11 Months",
+                "12-23 Months",
+                "24-35 Months",
+                "36-47 Months",
+                "48-59 Months",
                 ""
               ]
             }
