@@ -1662,8 +1662,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unsentenced Adult",
-                "Unsentenced Juvenile",
                 "Unsentenced Detainees",
                 ""
               ]
