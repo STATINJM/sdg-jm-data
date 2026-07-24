@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2021,2021,2022],"Indicator":["Percentage of Persons 15-49 years who Currently use or Smoked a Tobacco Product","Percentage of Persons 15-49 years who Currently use or Smoked a Tobacco Product","Percentage of Persons 15-49 years who Currently use or Smoked a Tobacco Product"],"Sex":["Male","Female","Female"],"Unit":["Per cent","Per cent","Per cent"],"Value":[15.7,6.1,6.4]},"edges":{"From":["Indicator","Sex"],"To":["Sex","Unit"]}}
