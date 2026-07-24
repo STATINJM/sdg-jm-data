@@ -4415,9 +4415,8 @@
             "constraints": {
               "enum": [
                 "Aggravated Assault",
-                "Shooting",
-                "Rape",
                 "Total Sexual Violence",
+                "Rape",
                 ""
               ]
             }
