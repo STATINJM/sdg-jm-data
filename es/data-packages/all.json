@@ -4390,56 +4390,55 @@
             "title": "Año"
           },
           {
-            "name": "Type of species",
+            "name": "Type of Species",
             "type": "string",
             "constraints": {
               "enum": [
                 "Mammals",
                 "Birds",
+                "Reptiles",
                 "Amphibians",
-                "Conifers",
-                "Cycads",
-                "Cacti",
+                "Freshwater fish",
+                "Molluscs (land)*",
+                "Arthropods/ Invertebrates*",
+                "Plants*",
+                "Animals",
+                "Plants",
+                "Reptiles*",
+                "Fishes*",
+                "Molluscs*",
+                "Other Inverts*",
+                "Fungi*",
+                "Chromists*",
+                "Total",
                 ""
               ]
             },
-            "title": "Type of species"
+            "title": "Type of Species"
           },
           {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Endemic",
-                "Threatened",
-                "Extinct",
-                "Critical Endangered",
+                "Critically Endangered",
                 "Endangered",
                 "Vulnerable",
                 "Near Threatened",
+                "Total",
+                "Extinct",
+                "Extinct in the wild",
+                "Threatened",
                 "Data Deficient",
                 "Least Concern",
-                "Total",
                 ""
               ]
             },
             "title": "Status"
           },
           {
-            "name": "Type of specie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Animals",
-                "Plants",
-                ""
-              ]
-            },
-            "title": "Type of specie"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]

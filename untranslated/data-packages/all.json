@@ -4057,16 +4057,27 @@
             "type": "integer"
           },
           {
-            "name": "Type of species",
+            "name": "Type of Species",
             "type": "string",
             "constraints": {
               "enum": [
                 "Mammals",
                 "Birds",
+                "Reptiles",
                 "Amphibians",
-                "Conifers",
-                "Cycads",
-                "Cacti",
+                "Freshwater fish",
+                "Molluscs (land)*",
+                "Arthropods/ Invertebrates*",
+                "Plants*",
+                "Animals",
+                "Plants",
+                "Reptiles*",
+                "Fishes*",
+                "Molluscs*",
+                "Other Inverts*",
+                "Fungi*",
+                "Chromists*",
+                "Total",
                 ""
               ]
             }
@@ -4076,34 +4087,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Endemic",
-                "Threatened",
-                "Extinct",
-                "Critical Endangered",
+                "Critically Endangered",
                 "Endangered",
                 "Vulnerable",
                 "Near Threatened",
+                "Total",
+                "Extinct",
+                "Extinct in the wild",
+                "Threatened",
                 "Data Deficient",
                 "Least Concern",
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of specie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Animals",
-                "Plants",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
