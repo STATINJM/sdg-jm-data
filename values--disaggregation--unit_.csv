@@ -1,5 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
-(%),59,7
+(%),67,7
 '000 boe,9,1
 ('000 Mwh),6,1
 ('000 MWh),1,1
@@ -7,15 +7,13 @@ Value,Disaggregation combinations using this value,Number of indicators
 ('000 Tonnes),10,1
 (1000 ha),3,1
 %,31,6
-(Area %),1,1
-(area %),1,1
+(Area %),2,1
 Cumulative Mean Beach Width (m),9,1
 Density (per 10.000 population),11,1
 (Health Index),16,1
 Hectares,11,1
 (J$ Million),6,3
-(km2 '000),1,1
-(km2 ‘000),1,1
+(km2 '000),2,1
 Land Area ( ha),10,1
 Marine Area (ha),6,1
 (Maternal Mortality Ratio),1,1

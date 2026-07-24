@@ -44,8 +44,8 @@ Indicator Treatment Intervention,1,2
 Indicator,5,6
 Infrastructure Type,1,7
 Institution Type,1,4
-Ipcc class,1,9
-Kapos mountain class,1,5
+IPCC Class,1,9
+Kapos Mountain Class,1,7
 Land Use or Cover Classification,1,17
 Location of Shelter,1,5
 Main Source of Income,1,4
@@ -105,7 +105,7 @@ Type of Violence,2,4
 Type of Waste Collected,1,13
 Type of waste composition,1,10
 unit,1,2
-Unit,39,45
+Unit,39,43
 Vaccination Indicator,1,26
 Watershed,1,5
 Wealth Index Quintiles,3,5

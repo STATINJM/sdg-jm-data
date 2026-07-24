@@ -2165,26 +2165,27 @@
             "title": "Año"
           },
           {
-            "name": "Kapos mountain class",
+            "name": "Kapos Mountain Class",
             "type": "string",
             "constraints": {
               "enum": [
                 "k1",
+                "all",
                 "k2",
                 "k3",
                 "k4",
                 "k5",
+                "k6",
                 ""
               ]
             },
-            "title": "Kapos mountain class"
+            "title": "Kapos Mountain Class"
           },
           {
-            "name": "Ipcc class",
+            "name": "IPCC Class",
             "type": "string",
             "constraints": {
               "enum": [
-                "Forest",
                 "Cropland",
                 "Grassland",
                 "Wetland",
@@ -2192,11 +2193,12 @@
                 "Other Land",
                 "MGCI",
                 "MGCI All",
+                "Forest",
                 "MGC",
                 ""
               ]
             },
-            "title": "Ipcc class"
+            "title": "IPCC Class"
           },
           {
             "name": "Unit",
@@ -2206,8 +2208,6 @@
                 "(%)",
                 "(km2 '000)",
                 "(Area %)",
-                "(km2 ‘000)",
-                "(area %)",
                 ""
               ]
             },
