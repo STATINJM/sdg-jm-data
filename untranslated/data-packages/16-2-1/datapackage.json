@@ -23,6 +23,10 @@
                 "Kingston Metropolitan Area",
                 "Other Towns",
                 "Rural Areas",
+                "Urban",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban Centres",
+                "Rural",
                 ""
               ]
             }
@@ -43,12 +47,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Psychological Aggression",
-                "Any Physical Punishment",
-                "Severe Physical Punishment",
                 "2-4 years",
                 "5-9 years",
                 "10-14 years",
+                "1-2 Years Old",
+                "3-4 Years Old",
+                "5-9 Years Old",
+                "10-14 Years Old",
                 ""
               ]
             }
@@ -75,6 +80,8 @@
                 "Psychological Aggression",
                 "Any Physical Punishment",
                 "Severe Physical Punishment",
+                "Only Non-violent Discipline",
+                "Any Violent Discipline Method",
                 ""
               ]
             }

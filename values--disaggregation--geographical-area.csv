@@ -1,15 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Clarendon,1,1
-Greater Kingston Metropolitan Area,5,1
+Greater Kingston Metropolitan Area,8,2
 Hanover,1,1
-Jamaica,21,7
+Jamaica,23,7
 Kingston Metropolitan Area,3,1
 Kingston & St Andrew,1,1
 Manchester,1,1
 Other Towns,3,1
-Other Urban Centres,5,1
+Other Urban Centres,8,2
 Portland,1,1
 Rural Areas,8,2
+Rural,3,1
 St Ann,1,1
 St Catherine,1,1
 St Elizabeth,1,1
@@ -17,4 +18,5 @@ St James,1,1
 St Mary,1,1
 St Thomas,1,1
 Trelawny,1,1
+Urban,3,1
 Westmoreland,1,1
