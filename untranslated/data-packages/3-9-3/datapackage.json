@@ -19,7 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mortality rate attributed to unintentional poisoning",
+                "Number of deaths by unintentional poisoning",
+                "Proportion of deaths by unintentional poisoning",
                 ""
               ]
             }
@@ -44,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "3-9-3",
-  "title": "Mortality rate attributed to unintentional poisoning"
+  "title": "global_indicators.3-9-3-title"
 }
