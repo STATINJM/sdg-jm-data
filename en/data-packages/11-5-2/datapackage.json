@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cost ($JB)",
-                "Impact (% GDP)",
+                "Cost - ($JB)",
+                "Impact - (%GDP)",
                 ""
               ]
             },
