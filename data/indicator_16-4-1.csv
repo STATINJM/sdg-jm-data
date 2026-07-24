@@ -1,0 +1,26 @@
+Year,Description,Disaggregation Level,Unit,Value
+2021,Number of cases investigated,Offenses committed within the home jurisdiction,Number,141
+2021,Number of cases investigated,Offenses committed in foreign jurisdictions,Number,150
+2021,Number of cases investigated,Offenses committed both in home and foreign jurisdictions,Number,6
+2021,Number of cases investigated,Origin country cannot be identified,Number,72
+2021,Number of cases investigated,Total Number of Cases Investigated,Number,369
+2021,Number of cases prosecuted,Offenses committed within the home jurisdiction,Number,21
+2021,Number of cases prosecuted,Offenses committed in foreign jurisdictions,Number,31
+2021,Number of cases prosecuted,Offenses committed both in home and foreign jurisdictions,Number,10
+2021,Number of cases prosecuted,Origin country cannot be identified,Number,5
+2021,Number of cases prosecuted,Total Number of Persons Prosecuted,Number,67
+2021,Number of persons convicted,Offenses committed within the home jurisdiction,Number,2
+2021,Number of persons convicted,Offenses committed in foreign jurisdictions,Number,18
+2021,Number of persons convicted,Offenses committed both in home and foreign jurisdictions,Number,4
+2021,Number of persons convicted,Origin country cannot be identified,Number,0
+2021,Number of persons convicted,Total Number of Persons Convicted,Number,24
+2021,Amount of proceeds seized or frozen,Offenses committed within the home jurisdiction,J$,328904030.53
+2021,Amount of proceeds seized or frozen,Offenses committed in foreign jurisdictions,J$,499402051.75
+2021,Amount of proceeds seized or frozen,Offenses committed both in home and foreign jurisdictions,J$,2487400.00
+2021,Amount of proceeds seized or frozen,Origin country cannot be identified,J$,32011348.00
+2021,Amount of proceeds seized or frozen,Total Amount of Proceeds Seized or Frozen,J$,862804830.28
+2021,Amount of proceeds forfeited,Offenses committed within the home jurisdiction,J$,37508558.00
+2021,Amount of proceeds forfeited,Offenses committed in foreign jurisdictions,J$,464690018.00
+2021,Amount of proceeds forfeited,Offenses committed both in home and foreign jurisdictions,J$,0
+2021,Amount of proceeds forfeited,Origin country cannot be identified,J$,21302190.00
+2021,Amount of proceeds forfeited,Total Amount of Proceeds Forfeited,J$,523500766.00
