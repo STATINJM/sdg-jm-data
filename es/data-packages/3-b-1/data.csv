@@ -3,15 +3,6 @@ Year,Vaccination Indicator,Time Vaccinated,Source of Vaccination Record,Value
 2011,Polio 1,Vaccinated at any time before the survey,Vaccination card,75.9
 2011,Polio 2,Vaccinated at any time before the survey,Vaccination card,75.9
 2011,Polio 3,Vaccinated at any time before the survey,Vaccination card,76.2
-2015,Polio 3,Vaccinated at any time before the survey,Vaccination card,91.0
-2016,Polio 3,Vaccinated at any time before the survey,Vaccination card,97.0
-2017,Polio 3,Vaccinated at any time before the survey,Vaccination card,93.0
-2018,Polio 3,Vaccinated at any time before the survey,Vaccination card,98.0
-2019,Polio 3,Vaccinated at any time before the survey,Vaccination card,96.0
-2020,Polio 3,Vaccinated at any time before the survey,Vaccination card,95.0
-2021,Polio 3,Vaccinated at any time before the survey,Vaccination card,90.0
-2022,Polio 3,Vaccinated at any time before the survey,Vaccination card,91.0
-2023,Polio 3,Vaccinated at any time before the survey,Vaccination card,101.0
 2011,DPT 1,Vaccinated at any time before the survey,Vaccination card,77.8
 2011,DPT 2,Vaccinated at any time before the survey,Vaccination card,77.8
 2011,DPT 3,Vaccinated at any time before the survey,Vaccination card,77.8
@@ -27,30 +18,12 @@ Year,Vaccination Indicator,Time Vaccinated,Source of Vaccination Record,Value
 2011,No vaccinations,Vaccinated at any time before the survey,Vaccination card,0.0
 2011,Number of children age 18-29 months,Vaccinated at any time before the survey,Vaccination card,320.0
 2011,BCG,Vaccinated at any time before the survey,Mother's report,21.7
-2015,BCG,Vaccinated at any time before the survey,Mother's report,100.0
-2016,BCG,Vaccinated at any time before the survey,Mother's report,96.0
-2017,BCG,Vaccinated at any time before the survey,Mother's report,93.0
-2018,BCG,Vaccinated at any time before the survey,Mother's report,93.0
-2019,BCG,Vaccinated at any time before the survey,Mother's report,94.0
-2020,BCG,Vaccinated at any time before the survey,Mother's report,100.0
-2021,BCG,Vaccinated at any time before the survey,Mother's report,97.0
-2022,BCG,Vaccinated at any time before the survey,Mother's report,99.0
-2023,BCG,Vaccinated at any time before the survey,Mother's report,99.0
 2011,Polio 1,Vaccinated at any time before the survey,Mother's report,21.1
 2011,Polio 2,Vaccinated at any time before the survey,Mother's report,21.1
 2011,Polio 3,Vaccinated at any time before the survey,Mother's report,15.9
 2011,DPT 1,Vaccinated at any time before the survey,Mother's report,19.9
 2011,DPT 2,Vaccinated at any time before the survey,Mother's report,19.5
 2011,DPT 3,Vaccinated at any time before the survey,Mother's report,13.7
-2015,DPT 3,Vaccinated at any time before the survey,Mother's report,91.0
-2016,DPT 3,Vaccinated at any time before the survey,Mother's report,97.0
-2017,DPT 3,Vaccinated at any time before the survey,Mother's report,93.0
-2018,DPT 3,Vaccinated at any time before the survey,Mother's report,97.0
-2019,DPT 3,Vaccinated at any time before the survey,Mother's report,96.0
-2020,DPT 3,Vaccinated at any time before the survey,Mother's report,96.0
-2021,DPT 3,Vaccinated at any time before the survey,Mother's report,90.0
-2022,DPT 3,Vaccinated at any time before the survey,Mother's report,95.0
-2023,DPT 3,Vaccinated at any time before the survey,Mother's report,101.0
 2011,Measles,Vaccinated at any time before the survey,Mother's report,17.8
 2011,Hep B 1,Vaccinated at any time before the survey,Mother's report,15.2
 2011,Hep B 2,Vaccinated at any time before the survey,Mother's report,12.6
@@ -98,43 +71,3 @@ Year,Vaccination Indicator,Time Vaccinated,Source of Vaccination Record,Value
 2011,All vaccinations excluding HIB,Vaccinated by 12 months of age,,79.8
 2011,No vaccinations,Vaccinated by 12 months of age,,0.5
 2011,Number of children age 18-29 months,Vaccinated by 12 months of age,,320.0
-2022,Percentage of children age 12-23 months who received,BCG,Jamaica,100.0
-2022,Percentage of children age 12-23 months who received,Polio 1,Jamaica,97.7
-2022,Percentage of children age 12-23 months who received,Polio 2,Jamaica,97.6
-2022,Percentage of children age 12-23 months who received,Polio 3,Jamaica,95.0
-2022,Percentage of children age 12-23 months who received,DPT 1,Jamaica,97.3
-2022,Percentage of children age 12-23 months who received,DPT 2,Jamaica,94.4
-2022,Percentage of children age 12-23 months who received,DPT 3,Jamaica,89.4
-2022,Percentage of children age 24-35 months who received,Measles,Jamaica,61.9
-2020,BCG,Vaccinated by 12 months of age,,99.0
-2021,BCG,Vaccinated by 12 months of age,,97.0
-2020,Polio3,Vaccinated by 12 months of age,,95.0
-2021,Polio3,Vaccinated by 12 months of age,,90.0
-2020,DPT3,Vaccinated by 12 months of age,,95.0
-2021,DPT3,Vaccinated by 12 months of age,,90.0
-2020,Hib3,Vaccinated by 12 months of age,,95.0
-2021,Hib3,Vaccinated by 12 months of age,,90.0
-2020,HepB 3,Vaccinated by 12 months of age,,95.0
-2021,HepB 3,Vaccinated by 12 months of age,,90.0
-2020,MMR 1,Vaccinated between 12-23 months of age,,93.0
-2021,MMR 1,Vaccinated between 12-23 months of age,,88.0
-2020,MMR 2,Vaccinated between 12-23 months of age,,86.0
-2021,MMR 2,Vaccinated between 12-23 months of age,,85.0
-2020,BCG,Vaccinated by 12 months of age,Total Vaccinated,33703.0
-2021,BCG,Vaccinated by 12 months of age,Total Vaccinated,31971.0
-2020,Polio3,Vaccinated by 12 months of age,Total Vaccinated,32243.0
-2021,Polio3,Vaccinated by 12 months of age,Total Vaccinated,29498.0
-2020,DPT3,Vaccinated by 12 months of age,Total Vaccinated,32267.0
-2021,DPT3,Vaccinated by 12 months of age,Total Vaccinated,29574.0
-2020,Hib3,Vaccinated by 12 months of age,Total Vaccinated,32260.0
-2021,Hib3,Vaccinated by 12 months of age,Total Vaccinated,29540.0
-2020,HepB 3,Vaccinated by 12 months of age,Total Vaccinated,32219.0
-2021,HepB 3,Vaccinated by 12 months of age,Total Vaccinated,29487.0
-2020,MMR 1,Vaccinated between 12-23 months of age,Total Vaccinated,32400.0
-2021,MMR 1,Vaccinated between 12-23 months of age,Total Vaccinated,29770.0
-2020,MMR 2,Vaccinated between 12-23 months of age,Total Vaccinated,29952.0
-2021,MMR 2,Vaccinated between 12-23 months of age,Total Vaccinated,29770.0
-2020,BCG,Vaccinated by 12 months of age,Total target Population,33875.0
-2021,BCG,Vaccinated by 12 months of age,Total target Population,32925.0
-2020,BCG,Vaccinated between 12-23 months of age,Total target Population,34862.0
-2021,BCG,Vaccinated between 12-23 months of age,Total target Population,33875.0
