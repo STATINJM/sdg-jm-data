@@ -4488,7 +4488,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Manufacturing value added as a proportion of total value added",
                 "Manufacturing value added as a proportion of GDP",
                 "Manufacturing value added per capita (US$)",
                 ""
