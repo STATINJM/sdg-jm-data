@@ -29,7 +29,7 @@ Geographic Location,2,9
 Geographic region,1,1
 Geographic Region,5,4
 Geographical Area,7,28
-Geographical Region,26,15
+Geographical Region,27,16
 Geographical region,4,8
 Geographical Regions,3,7
 Group,1,10
@@ -41,6 +41,7 @@ ICT Skill,1,9
 Indicator for harmful drug,1,1
 Indicator for road traffic injuries,1,1
 Indicator Treatment Intervention,1,2
+Indicator Type,1,1
 Indicator,5,6
 Infrastructure Type,1,7
 Institution Type,1,4
@@ -104,7 +105,7 @@ Type of Violence,2,3
 Type of Waste Collected,1,13
 Type of waste composition,1,10
 unit,1,2
-Unit,40,45
+Unit,41,45
 Vaccination Indicator,1,26
 Watershed,1,5
 Wealth Index Quintiles,3,5
