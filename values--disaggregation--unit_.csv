@@ -20,6 +20,7 @@ Marine Area (ha),6,1
 (Maternal Mortality Ratio),1,1
 (Million Tonnes),1,1
 $ Million,6,1
+MW,7,1
 (Neonatal Mortality Ratio),1,1
 Number (000),1,1
 Number of Sites,9,1
@@ -38,6 +39,7 @@ per cent,24,1
 "Persons affected per 100,000 population",6,1
 "Persons dead per 100,000 population",6,1
 (Proportion of Births),2,2
+Renewable Energy Watts Per Capita,1,1
 Score,13,1
 Tonnes,6,1
 (Tonnes),10,1
@@ -47,3 +49,4 @@ Total Volume of Waste (tonnes),5,1
 (US$M),3,1
 US$M,1,1
 (US$Mn),2,1
+Watts,1,1
