@@ -1,9 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
-(Language Arts),1,1
-(Mathematics),1,1
-Mean Score  (Language Arts),2,1
-Mean Score  (Mathematics),2,1
-Proportion of students achieving mastery,5,1
-Proportion of Students Developing Level,6,1
-Proportion of Students Highly Proficient Level,3,1
-Proportion of Students Proficient and Highly Provicient Levels,12,1
+Mean Score in Grade Six Achievement Test,6,1
+Proportion of students achieving mastery,12,1
+Proportion of Students at Developing Level,6,1
+Proportion of Students at Highly Proficient Level,6,1
+Proportion of Students at Proficient Level,6,1

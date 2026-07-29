@@ -20,27 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tourism direct GDP as a proportion of total GDP",
-                "Tourism direct GVA as a proportion of total GVA",
-                "Tourism  GDP (direct)",
-                "Tourism GVA (direct)",
                 "Growth rate of Tourism direct GDP",
+                "Tourism direct GDP as a proportion of total GDP",
                 ""
               ]
             },
             "title": "GDP (Tourism)"
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per cent",
-                "JMD Mn",
-                ""
-              ]
-            },
-            "title": "unit"
           },
           {
             "name": "Value",
@@ -53,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "8-9-1",
-  "title": "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento"
+  "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
 }

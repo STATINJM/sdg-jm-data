@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Other economic activities (services) (NACE/ISIC 45-99)",
-                "Private households",
-                "Domestic wastewater generated (sum of other economic and private)",
-                ""
-              ]
-            },
-            "title": "Category"
           },
           {
             "name": "Value",
@@ -39,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "6-3-1",
-  "title": "Proporción de los flujos de aguas residuales domésticas e industriales tratados de manera adecuada"
+  "title": "Proportion of domestic and industrial wastewater flows safely treated"
 }

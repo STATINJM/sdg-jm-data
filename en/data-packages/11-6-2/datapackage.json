@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -26,10 +26,6 @@
                 "Lead",
                 "Total Volatile Organic Compounds",
                 "Carbon Monoxide",
-                "Carbon dioxide",
-                "Methane",
-                "Nitrous Oxide",
-                "Priority Air Pollutants",
                 ""
               ]
             },
@@ -57,5 +53,5 @@
   ],
   "profile": "data-package",
   "name": "11-6-2",
-  "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
+  "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
 }

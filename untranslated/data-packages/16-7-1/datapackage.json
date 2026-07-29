@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mayors",
-                "Councillors",
                 "Upper House",
                 "Lower House",
+                "Mayors",
+                "Councillors",
                 ""
               ]
             }
@@ -32,9 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
                 "Total Number of Seats",
+                "Female",
+                "Females",
                 ""
               ]
             }
@@ -49,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "16-7-1",
-  "title": "global_indicators.16-7-1-title"
+  "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
 }

@@ -23,10 +23,6 @@
                 "April",
                 "July",
                 "October",
-                "Quarter 1",
-                "Quarter 2",
-                "Quarter 3",
-                "Quarter 4",
                 ""
               ]
             }
@@ -56,17 +52,13 @@
                 "45-54",
                 "55-64",
                 "65 and over",
-                "Unemployment Rate",
-                "Youth (15-24 yrs)",
-                "Prime Working Age (25-54 yrs)",
-                "Unemployment Rate by Sociodemographic Characteristics",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
@@ -74,5 +66,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-2",
-  "title": "global_indicators.8-5-2-title"
+  "title": "Unemployment rate, by sex, age and persons with disabilities"
 }

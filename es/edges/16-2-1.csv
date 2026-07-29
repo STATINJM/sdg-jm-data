@@ -1,5 +1,4 @@
 From,To
 Type of Punishment,Geographical Area
-Type of Punishment,Sex
-Type of Punishment,Age Group
+Age Group,Sex
 Type of Punishment,Wealth Quintile

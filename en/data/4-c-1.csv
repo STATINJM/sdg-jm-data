@@ -1,58 +1,10 @@
-Year,Educational Level,Gender,Value
-2015,Pre-Primary,Both Sexes,75.5
-2018,Pre-Primary,Both Sexes,69.6
-2019,Pre-Primary,Both Sexes,100.0
-2020,Pre-Primary,Both Sexes,88.5
-2021,Pre-Primary,Both Sexes,100.0
-2015,Pre-Primary,Male,81.6
-2018,Pre-Primary,Male,92.9
-2019,Pre-Primary,Male,100.0
-2020,Pre-Primary,Male,100.0
-2021,Pre-Primary,Male,100.0
-2015,Pre-Primary,Female,74.7
-2018,Pre-Primary,Female,67.7
-2019,Pre-Primary,Female,100.0
-2020,Pre-Primary,Female,87.3
-2021,Pre-Primary,Female,100.0
-2015,Primary,Both Sexes,93.4
-2016,Primary,Both Sexes,96.2
-2017,Primary,Both Sexes,100.0
-2018,Primary,Both Sexes,100.0
-2019,Primary,Both Sexes,100.0
-2020,Primary,Both Sexes,100.0
-2021,Primary,Both Sexes,100.0
-2015,Primary,Male,88.6
-2016,Primary,Male,92.5
-2017,Primary,Male,100.0
-2018,Primary,Male,100.0
-2019,Primary,Male,100.0
-2020,Primary,Male,100.0
-2021,Primary,Male,100.0
-2015,Primary,Female,94.0
-2016,Primary,Female,96.7
-2017,Primary,Female,100.0
-2018,Primary,Female,100.0
-2019,Primary,Female,100.0
-2020,Primary,Female,100.0
-2021,Primary,Female,100.0
-2015,Secondary,Both Sexes,85.2
-2016,Secondary,Both Sexes,100.0
-2017,Secondary,Both Sexes,100.0
-2018,Secondary,Both Sexes,100.0
-2019,Secondary,Both Sexes,100.0
-2020,Secondary,Both Sexes,100.0
-2021,Secondary,Both Sexes,100.0
-2015,Secondary,Male,78.8
-2016,Secondary,Male,100.0
-2017,Secondary,Male,100.0
-2018,Secondary,Male,100.0
-2019,Secondary,Male,100.0
-2020,Secondary,Male,100.0
-2021,Secondary,Male,100.0
-2015,Secondary,Female,87.9
-2016,Secondary,Female,100.0
-2017,Secondary,Female,100.0
-2018,Secondary,Female,100.0
-2019,Secondary,Female,100.0
-2020,Secondary,Female,100.0
-2021,Secondary,Female,100.0
+Year,Educational Level,Value
+2016/2017,Pre-Primary,83.0
+2016/2017,Primary,93.3
+2016/2017,Secondary,83.1
+2017/2018,Pre Primary (Public Schools only),93.6
+2017/2018,Primary,92.6
+2017/2018,Secondary,82.1
+2018/2019,Pre Primary (Public Schools only),94.6
+2018/2019,Primary,91.3
+2018/2019,Secondary,83.9

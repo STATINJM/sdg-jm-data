@@ -20,36 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of boys in Child Labour",
-                "Proportion of Girls in Child Labour",
-                "Proportion of Children in Child Labour (Total)",
-                "Proportion of Children 5-12 years in Child Labour",
-                "Proportion of Children 13-14 years in Child Labour",
-                "Proportion of Children 15-17 years in Child Labour",
-                "Child Labour Urban Area",
-                "Child Labour Rural Area",
-                "Proportion of Boys doing Hazardous Work (%)",
-                "Proportion of Girls doing Hazardous Work (%)",
-                "Total Children doing Hazardous Work (%)",
-                "Proportion of children 5-12 years doing Hazardous Work",
-                "Proportion of children 13-14 years doing Hazardous Work",
-                "Proportion of children 15-17 years doing Hazardous Work",
-                "Proportion of children Urban Areas doing Hazardous Work",
-                "Proportion of children Rural Areas doing Hazardous Work",
-                "Proportion of Boys in Child Labour other than Hazardous Work",
-                "Proportion of Girls in Child Labour other than Hazardous Work",
-                "Proportion of Child Labour other than Hazardous Work (Total)",
-                "Proprtion of Children 5-12 years in Child Labour other than Hazardous Work",
-                "Proprtion of Children 13-14 years in Child Labour other than Hazardous Work",
-                "Proprtion of Children 15-17 years in Child Labour other than Hazardous Work",
-                "Proprtion of Children in Urban Areas in Child Labour other than Hazardous Work",
-                "Proprtion of Children in Rural Areas in Child Labour other than Hazardous Work",
-                "Percentage of Children aged 5-17 Years in Child Labour",
-                "Percentage of Children aged 5-17 Years in Child Labour - Poorest",
-                "Percentage of Children aged 5-17 Years in Child Labour - Second",
-                "Percentage of Children aged 5-17 Years in Child Labour - Middle",
-                "Percentage of Children aged 5-17 Years in Child Labour - Fourth",
-                "Percentage of Children aged 5-17 Years in Child Labour - Richest",
+                "Child Labour",
+                "Hazardous Work (%)",
+                "Child Labour other than Hazardous Work",
                 ""
               ]
             },
@@ -63,8 +36,6 @@
                 "Boy",
                 "Girl",
                 "Total",
-                "Male",
-                "Female",
                 ""
               ]
             },
@@ -78,9 +49,6 @@
                 "5-12 years",
                 "13-14 years",
                 "15-17 years",
-                "5-11",
-                "12-14",
-                "15-17",
                 ""
               ]
             },
@@ -93,9 +61,6 @@
               "enum": [
                 "Urban",
                 "Rural Area",
-                "Jamaica",
-                "GKMA",
-                "OUC",
                 ""
               ]
             },
@@ -112,5 +77,5 @@
   ],
   "profile": "data-package",
   "name": "8-7-1",
-  "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
+  "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
 }

@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Rural Area",
                 "Jamaica",
                 "GKMA",
                 "Other Urban Centres",
-                "Rural Area",
                 ""
               ]
             }
@@ -51,5 +51,5 @@
   ],
   "profile": "data-package",
   "name": "6-1-1",
-  "title": "global_indicators.6-1-1-title"
+  "title": "Proportion of population using safely managed drinking water services"
 }

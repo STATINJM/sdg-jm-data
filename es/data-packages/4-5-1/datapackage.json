@@ -16,47 +16,56 @@
             "title": "Año"
           },
           {
-            "name": "Ratio",
+            "name": "School Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Girls Adjusted Net Attendance Ratio (NAR) Primary School",
-                "Boys Adjusted Net Attendance Ratio (NAR) Primary School",
-                "Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School",
-                "Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School",
-                "Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School",
-                "Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School",
-                "Girls Adjusted Net Attendance Ratio (NAR) Secondary School",
-                "Boys Adjusted Net Attendance Ratio (NAR) Secondary School",
-                "GPI for Adjusted Ratio (NAR) Primary School",
-                "GPI for Adjusted Ratio (NAR) Lower Secondary School",
-                "GPI for Adjusted Ratio (NAR) Upper Secondary School",
-                "GPI for Adjusted Ratio (NAR) Secondary School",
+                "Primary School",
+                "Secondary School",
                 ""
               ]
             },
-            "title": "Ratio"
+            "title": "School Type"
           },
           {
-            "name": "Geographical Region",
+            "name": "Index",
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
-                "GKMA",
-                "Other Towns",
-                "Urban Area",
-                "Rural Area",
-                "KMA",
-                "Other Urban Centre",
-                "Urban",
-                "Rural",
-                "Urban Total",
-                "OUC",
+                "Adjusted Net Attendance Ratio (NAR)",
+                "GPI for Adjusted Ratio (NAR)",
+                "GPI for Adjusted Ratio  (NAR)",
                 ""
               ]
             },
-            "title": "Geographical Region"
+            "title": "Index"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Girls",
+                "Boys",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Geographic Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Other Towns",
+                "Urban Total",
+                "Rural",
+                "Jamaica",
+                "KMA",
+                ""
+              ]
+            },
+            "title": "Geographic Area"
           },
           {
             "name": "Wealth Index Quintiles",
@@ -75,7 +84,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -84,5 +93,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1",
-  "title": "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
+  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
 }

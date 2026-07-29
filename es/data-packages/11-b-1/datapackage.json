@@ -12,41 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "DRR Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National DRR Strategy Adoption Score",
-                ""
-              ]
-            },
-            "title": "DRR Indicator"
-          },
-          {
-            "name": "Indicator Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global SDG Indicator",
-                ""
-              ]
-            },
-            "title": "Indicator Type"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per cent",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",
@@ -59,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-b-1",
-  "title": "Número de países que adoptan y aplican estrategias nacionales de reducción del riesgo de desastres en consonancia con el Marco de Sendái para la Reducción del Riesgo de Desastres 2015‐2030"
+  "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
 }

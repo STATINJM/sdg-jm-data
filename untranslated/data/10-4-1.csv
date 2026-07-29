@@ -1,91 +1,55 @@
 Year,Type of GDP by Income at Market Prices,Unit,Value
-2014,Compensation of Employees,$ Million,687311.0
-2015,Compensation of Employees,$ Million,748851.0
-2016,Compensation of Employees,$ Million,790228.0
-2017,Compensation of Employees,$ Million,844609.0
-2018,Compensation of Employees,$ Million,905331.0
-2019,Compensation of Employees,$ Million,964673.0
-2020,Compensation of Employees,$ Million,919877.0
-2021,Compensation of Employees,$ Million,1034824.0
-2022,Compensation of Employees,$ Million,1241951.0
-2023,Compensation of Employees,$ Million,1484084.0
-2014,Consumption of Fixed Capital,$ Million,121574.0
-2015,Consumption of Fixed Capital,$ Million,135285.0
-2016,Consumption of Fixed Capital,$ Million,139100.0
-2017,Consumption of Fixed Capital,$ Million,146081.0
-2018,Consumption of Fixed Capital,$ Million,155521.0
-2019,Consumption of Fixed Capital,$ Million,170516.0
-2020,Consumption of Fixed Capital,$ Million,168839.0
-2021,Consumption of Fixed Capital,$ Million,188610.0
-2022,Consumption of Fixed Capital,$ Million,217182.0
-2023,Consumption of Fixed Capital,$ Million,231802.0
-2014,Fixed Capital share of GDP,Per cent,7.9
-2015,Fixed Capital share of GDP,Per cent,7.7
-2016,Fixed Capital share of GDP,Per cent,7.5
-2017,Fixed Capital share of GDP,Per cent,7.2
-2018,Fixed Capital share of GDP,Per cent,7.2
-2019,Fixed Capital share of GDP,Per cent,7.5
-2020,Fixed Capital share of GDP,Per cent,7.9
-2021,Fixed Capital share of GDP,Per cent,7.8
-2022,Fixed Capital share of GDP,Per cent,7.5
-2023,Fixed Capital share of GDP,Per cent,7.0
-2014,Gross Domestic Product at Market Prices,$ Million,1541746.0
-2015,Gross Domestic Product at Market Prices,$ Million,1750288.0
-2016,Gross Domestic Product at Market Prices,$ Million,1863790.0
-2017,Gross Domestic Product at Market Prices,$ Million,2019738.0
-2018,Gross Domestic Product at Market Prices,$ Million,2172188.0
-2019,Gross Domestic Product at Market Prices,$ Million,2269808.0
-2020,Gross Domestic Product at Market Prices,$ Million,2136073.0
-2021,Gross Domestic Product at Market Prices,$ Million,2407196.0
-2022,Gross Domestic Product at Market Prices,$ Million,2886497.0
-2023,Gross Domestic Product at Market Prices,$ Million,3301898.0
-2014,Labour Share of GDP,Per cent,44.6
-2015,Labour Share of GDP,Per cent,42.8
-2016,Labour Share of GDP,Per cent,42.4
-2017,Labour Share of GDP,Per cent,41.8
-2018,Labour Share of GDP,Per cent,41.7
-2019,Labour Share of GDP,Per cent,42.5
-2020,Labour Share of GDP,Per cent,43.1
-2021,Labour Share of GDP,Per cent,43.0
-2022,Labour Share of GDP,Per cent,43.0
-2023,Labour Share of GDP,Per cent,44.9
-2014,Less Subsidies on Production & Imports,$ Million,995.0
-2015,Less Subsidies on Production & Imports,$ Million,3357.0
-2016,Less Subsidies on Production & Imports,$ Million,4011.0
-2017,Less Subsidies on Production & Imports,$ Million,4345.0
-2018,Less Subsidies on Production & Imports,$ Million,2862.0
-2019,Less Subsidies on Production & Imports,$ Million,7472.0
-2020,Less Subsidies on Production & Imports,$ Million,8416.0
-2021,Less Subsidies on Production & Imports,$ Million,8523.0
-2022,Less Subsidies on Production & Imports,$ Million,10036.0
-2023,Less Subsidies on Production & Imports,$ Million,10989.0
-2014,Operating Surplus/Mixed Income,$ Million,443307.0
-2015,Operating Surplus/Mixed Income,$ Million,543427.0
-2016,Operating Surplus/Mixed Income,$ Million,574622.0
-2017,Operating Surplus/Mixed Income,$ Million,611400.0
-2018,Operating Surplus/Mixed Income,$ Million,660332.0
-2019,Operating Surplus/Mixed Income,$ Million,658686.0
-2020,Operating Surplus/Mixed Income,$ Million,647757.0
-2021,Operating Surplus/Mixed Income,$ Million,714105.0
-2022,Operating Surplus/Mixed Income,$ Million,847711.0
-2023,Operating Surplus/Mixed Income,$ Million,961106.0
-2014,Operating Surplus/Mixed Income share of GDP,Per cent,28.8
-2015,Operating Surplus/Mixed Income share of GDP,Per cent,31.0
-2016,Operating Surplus/Mixed Income share of GDP,Per cent,30.8
-2017,Operating Surplus/Mixed Income share of GDP,Per cent,30.3
-2018,Operating Surplus/Mixed Income share of GDP,Per cent,30.4
-2019,Operating Surplus/Mixed Income share of GDP,Per cent,29.0
-2020,Operating Surplus/Mixed Income share of GDP,Per cent,30.3
-2021,Operating Surplus/Mixed Income share of GDP,Per cent,29.7
-2022,Operating Surplus/Mixed Income share of GDP,Per cent,29.4
-2023,Operating Surplus/Mixed Income share of GDP,Per cent,29.1
-2014,Taxes on Production & Imports,$ Million,290549.0
-2015,Taxes on Production & Imports,$ Million,326081.0
-2016,Taxes on Production & Imports,$ Million,363851.0
-2017,Taxes on Production & Imports,$ Million,421994.0
-2018,Taxes on Production & Imports,$ Million,453866.0
-2019,Taxes on Production & Imports,$ Million,483404.0
-2020,Taxes on Production & Imports,$ Million,408016.0
-2021,Taxes on Production & Imports,$ Million,478179.0
-2022,Taxes on Production & Imports,$ Million,589689.0
-2023,Taxes on Production & Imports,$ Million,635894.0
+2019,Compensation of Employees,($ Million),904040.0
+2019,Operating Surplus/Mixed Income,($ Million),568542.0
+2019,Consumption of Fixed Capital,($ Million),156471.0
+2019,Taxes on Production & Imports,($ Million),483383.0
+2019,Less Subsidies on Production & Imports,($ Million),2004.0
+2019,Gross Domestic Product at Market Prices,($ Million),2110433.0
+2019,Labour Share of GDP,(Per cent),42.8
+2019,Operating Surplus/Mixed Income share of GDP,(Per cent),26.9
+2019,Fixed Capital share of GDP,(Per cent),7.4
+2014,Compensation of Employees,($ Million),687311.0
+2014,Operating Surplus/Mixed Income,($ Million),443307.0
+2014,Consumption of Fixed Capital,($ Million),121574.0
+2014,Taxes on Production & Imports,($ Million),290549.0
+2014,Less Subsidies on Production & Imports,($ Million),995.0
+2014,Gross Domestic Product at Market Prices,($ Million),1541746.0
+2014,Labour Share of GDP,(Per cent),44.6
+2014,Operating Surplus/Mixed Income share of GDP,(Per cent),28.8
+2014,Fixed Capital share of GDP,(Per cent),7.9
+2015,Compensation of Employees,($ Million),725950.0
+2015,Operating Surplus/Mixed Income,($ Million),480771.0
+2015,Consumption of Fixed Capital,($ Million),130176.0
+2015,Taxes on Production & Imports,($ Million),324041.0
+2015,Less Subsidies on Production & Imports,($ Million),1406.0
+2015,Gross Domestic Product at Market Prices,($ Million),1659532.0
+2015,Labour Share of GDP,(Per cent),43.7
+2015,Operating Surplus/Mixed Income share of GDP,(Per cent),29.0
+2015,Fixed Capital share of GDP,(Per cent),7.8
+2016,Compensation of Employees,($ Million),762789.0
+2016,Operating Surplus/Mixed Income,($ Million),501928.0
+2016,Consumption of Fixed Capital,($ Million),136630.0
+2016,Taxes on Production & Imports,($ Million),360990.0
+2016,Less Subsidies on Production & Imports,($ Million),1513.0
+2016,Gross Domestic Product at Market Prices,($ Million),1760824.0
+2016,Labour Share of GDP,(Per cent),43.3
+2016,Operating Surplus/Mixed Income share of GDP,(Per cent),28.5
+2016,Fixed Capital share of GDP,(Per cent),7.8
+2017,Compensation of Employees,($ Million),806342.0
+2017,Operating Surplus/Mixed Income,($ Million),527734.0
+2017,Consumption of Fixed Capital,($ Million),140625.0
+2017,Taxes on Production & Imports,($ Million),421576.0
+2017,Less Subsidies on Production & Imports,($ Million),1591.0
+2017,Gross Domestic Product at Market Prices,($ Million),1894686.0
+2017,Labour Share of GDP,(Per cent),42.6
+2017,Operating Surplus/Mixed Income share of GDP,(Per cent),27.9
+2017,Fixed Capital share of GDP,(Per cent),7.4
+2018,Compensation of Employees,($ Million),860381.0
+2018,Operating Surplus/Mixed Income,($ Million),565969.0
+2018,Consumption of Fixed Capital,($ Million),148600.0
+2018,Taxes on Production & Imports,($ Million),451935.0
+2018,Less Subsidies on Production & Imports,($ Million),1810.0
+2018,Gross Domestic Product at Market Prices,($ Million),2025075.0
+2018,Labour Share of GDP,(Per cent),42.5
+2018,Operating Surplus/Mixed Income share of GDP,(Per cent),27.9
+2018,Fixed Capital share of GDP,(Per cent),7.3

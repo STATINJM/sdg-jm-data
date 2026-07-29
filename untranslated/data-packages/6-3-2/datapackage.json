@@ -12,66 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rivers (Reporting basin district area (in km²))",
-                "Groundwater (Reporting basin district area (in km²))",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "River",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "South Negril - Orange River",
-                "Lucea River",
-                "Great River",
-                "Montego River",
-                "Martha Brae",
-                "Rio-Bueno - White River",
-                "Rio Nuevo",
-                "Oracabessa - Pagee River",
-                "Rio Cobre",
-                "Black River",
-                "Deans Valley",
-                "Cabarita River",
-                "Wagwater River",
-                "Rio Minho",
-                "Gut-Alligator Hole",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Measurement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "159.37 km2",
-                "257.58 km2",
-                "345.38 km2",
-                "205.03 km2",
-                "732.58 km2",
-                "1563.07 km2",
-                "109.12 km2",
-                "168.26 km2",
-                "1249.88 km2",
-                "1311.91 km2",
-                "425.42 km2",
-                "290.10 km2",
-                "317.64 km2",
-                "796.77 km2",
-                "164.74 km2",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -83,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "6-3-2",
-  "title": "global_indicators.6-3-2-title"
+  "title": "Proportion of bodies of water with good ambient water quality"
 }

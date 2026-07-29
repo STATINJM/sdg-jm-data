@@ -42,7 +42,6 @@
                 "Attempted Intercource",
                 "Non-partner sexual harassment",
                 "Current Non-partner transactional sex",
-                "No Violence",
                 ""
               ]
             }
@@ -54,6 +53,7 @@
               "enum": [
                 "Lifetime Partner",
                 "Current Partner",
+                "Current  Partner",
                 ""
               ]
             }
@@ -67,6 +67,9 @@
                 "Support from partner/husband",
                 "Support from relatives and friends",
                 "No income/pension/ social services/other",
+                "Support  from partner/husband",
+                "Support  from relatives and friends",
+                "No income  /pension/ social services/other",
                 ""
               ]
             }
@@ -92,5 +95,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-2",
-  "title": "global_indicators.5-2-2-title"
+  "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
 }

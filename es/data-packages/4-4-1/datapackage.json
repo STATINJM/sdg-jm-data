@@ -24,11 +24,9 @@
                 "Using copy and paste tools to move or duplicate information in documents",
                 "Sending e-mails with files attached",
                 "Connecting or installing new devices",
-                "Finding/downloading or installing new software",
+                "Finding/ downloading or installing new software",
                 "Transferring files between a computer and other",
-                "Using basic mathematical formulae in spreadsheets",
-                "Creating electronic presentations with presentation software",
-                "Programming or coding in digital environments (e.g. computer software, app development)",
+                "Finding/downloading or installing new software",
                 ""
               ]
             },
@@ -48,7 +46,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -57,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-1",
-  "title": "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica"
+  "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
 }

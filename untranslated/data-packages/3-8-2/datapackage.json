@@ -50,7 +50,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
@@ -58,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "3-8-2",
-  "title": "global_indicators.3-8-2-title"
+  "title": "Proportion of population with positive out-of-pocket household expenditures on health exceeding 40 per cent of household discretionary budget"
 }

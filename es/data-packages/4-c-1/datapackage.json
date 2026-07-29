@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Año"
           },
           {
@@ -23,23 +23,11 @@
                 "Pre-Primary",
                 "Primary",
                 "Secondary",
+                "Pre Primary (Public Schools only)",
                 ""
               ]
             },
             "title": "Educational Level"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both Sexes",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Gender"
           },
           {
             "name": "Value",
@@ -52,5 +40,5 @@
   ],
   "profile": "data-package",
   "name": "4-c-1",
-  "title": "Proporción de docentes con las calificaciones mínimas requeridas, por nivel educativo"
+  "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
 }

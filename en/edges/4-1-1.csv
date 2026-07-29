@@ -1,4 +1,4 @@
 From,To
 Name of test,Descriptor
-Name of test,Geographical region
-Name of test,Sex
+Descriptor,Geographical region
+Descriptor,Sex

@@ -12,30 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Amount of water- and sanitation-related official development assistance",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "US$M",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",

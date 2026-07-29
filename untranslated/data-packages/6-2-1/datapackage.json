@@ -19,17 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of Households with Exclusive Use of Toilet Facility",
                 "Water Closet Linked to Central Sewer Network",
-                "Water Closet Not Linked to Sewer",
-                "Pit Laterine",
-                "Other",
                 "Water Closet Linked to Offsite Disposal System",
                 "Water Closet Linked to Onsite Disposal System",
-                "Percentage of household members with a handwashing facility where water and soap or detergent are presen",
-                "Percentage of household members using improved sanitation facilities which are not shared",
-                "Percentage of household members in households with improved on-site sanitation facilities from which waste has never been emptied or has been emptied and buried in a covered pit",
-                "Percentage of household members using an improved on-site sanitation facility from which a service provider has removed waste for treatment off-site",
+                "Pit Laterine",
+                "Other",
+                "Water Closet Not Linked to Sewer",
                 ""
               ]
             }
@@ -40,28 +35,9 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "GKMA",
-                "Other Urban Town",
-                "Rural Area",
                 "Greater Kingston Metropolitan Area",
                 "Other Urban Centre",
-                "Urban",
-                "OUC",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Wealth Index Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Poorest",
-                "Second",
-                "Middle",
-                "Fourth",
-                "Richest",
+                "Rural Area",
                 ""
               ]
             }
@@ -76,5 +52,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1",
-  "title": "global_indicators.6-2-1-title"
+  "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
 }

@@ -12,56 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Forest Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Forest area annual net change rate",
-                "Proportion of forest area located within legally-established protected areas",
-                "Proportion of forest area under a long-term forest management plan",
-                ""
-              ]
-            },
-            "title": "Forest Indicator"
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Forestry Department",
-                ""
-              ]
-            },
-            "title": "Source"
-          },
-          {
-            "name": "Indicator Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global SDG Indicator",
-                ""
-              ]
-            },
-            "title": "Indicator Type"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per cent",
-                "Per cent of total forest cover",
-                "ha",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",
@@ -74,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "15-3-1",
-  "title": "Proporción de tierras degradadas en comparación con la superficie total"
+  "title": "Proportion of land that is degraded over total land area"
 }

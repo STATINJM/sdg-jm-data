@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "Percentage who received at least one treatment intervention in their lifetime",
-                "Percentage of persons who did not receive drug treatment within the past 12 months",
+                "Percntage of persons who did not receive drug treatment within the past 12 months",
                 ""
               ]
             }
@@ -72,5 +72,5 @@
   ],
   "profile": "data-package",
   "name": "3-5-1",
-  "title": "global_indicators.3-5-1-title"
+  "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
 }

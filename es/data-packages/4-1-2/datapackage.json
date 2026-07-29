@@ -12,48 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Type of school",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary school",
-                "Lower Secondary",
-                "Upper Secondary",
-                ""
-              ]
-            },
-            "title": "Type of school"
-          },
-          {
-            "name": "Geographical region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centres",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Geographical region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Value",
@@ -66,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-2",
-  "title": "4-1-2"
+  "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
 }

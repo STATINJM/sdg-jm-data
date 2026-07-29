@@ -42,6 +42,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Kingston",
+                "St Andrew",
+                "St Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St. Catherine",
                 "Jamaica",
                 ""
               ]
@@ -59,5 +73,5 @@
   ],
   "profile": "data-package",
   "name": "3-6-1",
-  "title": "Tasa de mortalidad por lesiones debidas a accidentes de tráfico"
+  "title": "Death rate due to road traffic injuries"
 }

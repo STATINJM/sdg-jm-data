@@ -1,32 +1,23 @@
-Year,Type of Violence,Unit,Value
-2011,Aggravated Assault,Number,269
-2012,Aggravated Assault,Number,678
-2013,Aggravated Assault,Number,599
-2014,Aggravated Assault,Number,691
-2017,Aggravated Assault,Number,434
-2018,Aggravated Assault,Number,385
-2019,Aggravated Assault,Number,392
-2020,Aggravated Assault,Number,402
-2021,Aggravated Assault,Number,355
-2022,Aggravated Assault,Number,333
-2011,Total Sexual Violence,Number,2009
-2012,Total Sexual Violence,Number,2936
-2013,Total Sexual Violence,Number,2656
-2014,Total Sexual Violence,Number,2271
-2015,Total Sexual Violence,Number,2211
-2018,Total Sexual Violence,Number,1786
-2019,Total Sexual Violence,Number,2073
-2020,Total Sexual Violence,Number,1895
-2021,Total Sexual Violence,Number,1794
-2022,Total Sexual Violence,Number,1664
-2011,Rape,Number,845
-2012,Rape,Number,948
-2013,Rape,Number,814
-2014,Rape,Number,701
-2015,Rape,Number,596
-2017,Rape,Number,518
-2018,Rape,Number,546
-2019,Rape,Number,570
-2020,Rape,Number,553
-2021,Rape,Number,493
-2022,Rape,Number,498
+Year,Type of Assault,Value
+2017,Aggravated Assault,434
+2017,Rape,518
+2018,Aggravated Assault,385
+2018,Rape,530
+2019,Aggravated Assault,392
+2019,Rape,561
+2020,Aggravated Assault,414
+2020,Rape,527
+2011,Aggravated Assault,269
+2011,Total Sexual Violence,2009
+2011,Rape,845
+2012,Aggravated Assault,678
+2012,Total Sexual Violence,2936
+2012,Rape,948
+2013,Aggravated Assault,599
+2013,Total Sexual Violence,2656
+2013,Rape,814
+2014,Aggravated Assault,691
+2014,Total Sexual Violence,2271
+2014,Rape,701
+2015,Total Sexual Violence,2211
+2015,Rape,596

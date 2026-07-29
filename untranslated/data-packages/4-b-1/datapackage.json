@@ -12,21 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Official Development Assistance Flows for Scholarships (USD)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Official Development Assistance Flows for Scholarships (USD)",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
@@ -34,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "4-b-1",
-  "title": "global_indicators.4-b-1-title"
+  "title": "Volume of official development assistance flows for scholarships"
 }

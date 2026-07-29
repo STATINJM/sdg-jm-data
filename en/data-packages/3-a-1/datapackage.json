@@ -12,42 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of Persons 15-49 years who Currently use or Smoked a Tobacco Product",
-                ""
-              ]
-            },
-            "title": "Indicator"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per cent",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",
@@ -60,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-a-1",
-  "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+  "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
 }

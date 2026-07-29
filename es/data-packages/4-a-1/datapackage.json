@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Año"
           },
           {
@@ -28,7 +28,7 @@
             "title": "School Type"
           },
           {
-            "name": "Infrastructure Type",
+            "name": "infrastructure Type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "Infrastructure Type"
+            "title": "infrastructure Type"
           },
           {
             "name": "Value",
@@ -55,5 +55,5 @@
   ],
   "profile": "data-package",
   "name": "4-a-1",
-  "title": "Proporción de escuelas que ofrecen servicios básicos, desglosada por tipo de servicio"
+  "title": "Proportion of schools offering basic services, by type of service"
 }

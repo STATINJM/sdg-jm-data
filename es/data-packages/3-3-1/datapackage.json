@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of newly diagnosed cases of HIV",
+                "Number of New HIV infections per 1000 uninfected population",
                 "Number of newly diagnosed cases of HIV",
-                "HIV prevalence among pregnant women 15-24 years",
+                "Proportion of newly diagnosed cases of HIV",
                 ""
               ]
             },
@@ -53,7 +53,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -62,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-1",
-  "title": "Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave"
+  "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
 }

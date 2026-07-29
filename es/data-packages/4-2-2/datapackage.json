@@ -16,45 +16,15 @@
             "title": "Año"
           },
           {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of children (one year before the official primary entry age attending an early childhood education programme)",
-                "Percentage of children (one year before the official primary entry age attending primary education)",
-                "Net attendance rate (adjusted)",
-                ""
-              ]
-            },
-            "title": "Description"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Geographic Location",
+            "name": "Geographical Region",
             "type": "string",
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Urban",
-                "GKMA",
-                "OUC",
-                "Rural",
                 ""
               ]
             },
-            "title": "Geographic Location"
+            "title": "Geographical Region"
           },
           {
             "name": "Value",
@@ -67,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-2",
-  "title": "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo"
+  "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
 }

@@ -24,11 +24,9 @@
                 "Using copy and paste tools to move or duplicate information in documents",
                 "Sending e-mails with files attached",
                 "Connecting or installing new devices",
-                "Finding/downloading or installing new software",
+                "Finding/ downloading or installing new software",
                 "Transferring files between a computer and other",
-                "Using basic mathematical formulae in spreadsheets",
-                "Creating electronic presentations with presentation software",
-                "Programming or coding in digital environments (e.g. computer software, app development)",
+                "Finding/downloading or installing new software",
                 ""
               ]
             },
@@ -48,7 +46,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

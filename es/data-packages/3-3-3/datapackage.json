@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Malaria incidence per 1000 population",
+                "Malaria incidence per 100.000 population",
                 ""
               ]
             },
             "title": "Malaria Indicator"
           },
           {
-            "name": "Geographical Region",
+            "name": "Geogaphical Region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Geographical Region"
+            "title": "Geogaphical Region"
           },
           {
             "name": "Value",
@@ -48,5 +48,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-3",
-  "title": "Incidencia de la malaria por cada 1.000 habitantes"
+  "title": "Malaria incidence per 1,000 population"
 }

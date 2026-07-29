@@ -15,26 +15,22 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "Geographical Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Male",
-                "Female",
+                "Jamaica",
                 ""
               ]
             }
           },
           {
-            "name": "quarter",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quarter 1",
-                "Quarter 2",
-                "Quarter 3",
-                "Quarter 4",
+                "Male",
+                "Female",
                 ""
               ]
             }
@@ -49,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "8-6-1",
-  "title": "global_indicators.8-6-1-title"
+  "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
 }

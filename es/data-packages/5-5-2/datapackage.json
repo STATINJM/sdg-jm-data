@@ -12,35 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of Female Managers",
-                "Total Managers",
-                "Proportion of Women in Managerial Positions",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "January Q1",
-                "April Q2",
-                "July Q3",
-                "October Q4",
-                ""
-              ]
-            },
-            "title": "Quarter"
           },
           {
             "name": "Value",
@@ -53,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-2",
-  "title": "Proporción de mujeres en cargos directivos"
+  "title": "Proportion of women in managerial positions"
 }

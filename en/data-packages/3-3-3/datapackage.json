@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Malaria incidence per 1000 population",
+                "Malaria incidence per 100.000 population",
                 ""
               ]
             },
             "title": "Malaria Indicator"
           },
           {
-            "name": "Geographical Region",
+            "name": "Geogaphical Region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Geographical Region"
+            "title": "Geogaphical Region"
           },
           {
             "name": "Value",

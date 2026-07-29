@@ -15,27 +15,16 @@
             "type": "integer"
           },
           {
-            "name": "Type of Species",
+            "name": "Type of species",
             "type": "string",
             "constraints": {
               "enum": [
                 "Mammals",
                 "Birds",
-                "Reptiles",
                 "Amphibians",
-                "Freshwater fish",
-                "Molluscs (land)*",
-                "Arthropods/ Invertebrates*",
-                "Plants*",
-                "Animals",
-                "Plants",
-                "Reptiles*",
-                "Fishes*",
-                "Molluscs*",
-                "Other Inverts*",
-                "Fungi*",
-                "Chromists*",
-                "Total",
+                "Conifers",
+                "Cycads",
+                "Cacti",
                 ""
               ]
             }
@@ -45,23 +34,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Critically Endangered",
+                "Endemic",
+                "Threatened",
+                "Extinct",
+                "Critical Endangered",
                 "Endangered",
                 "Vulnerable",
                 "Near Threatened",
-                "Total",
-                "Extinct",
-                "Extinct in the wild",
-                "Threatened",
                 "Data Deficient",
                 "Least Concern",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of specie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Animals",
+                "Plants",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }
@@ -69,5 +69,5 @@
   ],
   "profile": "data-package",
   "name": "15-5-1",
-  "title": "global_indicators.15-5-1-title"
+  "title": "Red List Index"
 }

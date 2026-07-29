@@ -16,23 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total Victims",
-                "Victim Rate",
-                "Type of Weapon - Gun",
-                "Type of Weapon - Sharp Instrument",
-                "Type of Weapon - Other",
-                "Situational Context - By Intimate Partner or Family Member",
-                "Situational Context - Committed by Others including Acquaintances",
-                ""
-              ]
-            },
-            "title": "Description"
-          },
-          {
             "name": "Geographical Region",
             "type": "string",
             "constraints": {
@@ -48,25 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
-                "Total",
+                "Female",
                 ""
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",
@@ -79,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "16-1-1",
-  "title": "Número de víctimas de homicidios intencionales por cada 100.000 habitantes, desglosado por sexo y edad"
+  "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
 }

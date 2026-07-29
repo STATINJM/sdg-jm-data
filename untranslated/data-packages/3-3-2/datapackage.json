@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tuberculosis incidence per 100,000 population",
+                "Tubercolosis incidence per 100.000 population",
                 ""
               ]
             }
@@ -36,7 +36,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
@@ -44,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-2",
-  "title": "global_indicators.3-3-2-title"
+  "title": "Tuberculosis incidence per 100,000 population"
 }

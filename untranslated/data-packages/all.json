@@ -21,22 +21,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tourism direct GDP as a proportion of total GDP",
-                "Tourism direct GVA as a proportion of total GVA",
-                "Tourism  GDP (direct)",
-                "Tourism GVA (direct)",
                 "Growth rate of Tourism direct GDP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per cent",
-                "JMD Mn",
+                "Tourism direct GDP as a proportion of total GDP",
                 ""
               ]
             }
@@ -47,65 +33,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-9-1-title"
-    },
-    {
-      "path": "10-c-1/data.csv",
-      "name": "10-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fee",
-                "Exchange Rate Margin (%)",
-                "Total Cost (%)",
-                "Total Cost CAD",
-                "Total Cost USD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geographical Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Canada",
-                "United States",
-                "United Kingdom",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Bank",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.10-c-1-title"
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "9-1-2/data.csv",
@@ -126,7 +54,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of Air Passenger Movement",
                 "Freight Movement by Air",
                 "Freight Movement by Water",
                 ""
@@ -138,7 +65,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number (000)",
                 "('000 tonnes)",
                 ""
               ]
@@ -146,11 +72,11 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.9-1-2-title"
+      "title": "Passenger and freight volumes, by mode of transport"
     },
     {
       "path": "15-4-1/data.csv",
@@ -184,7 +110,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-4-1-title"
+      "title": "Coverage by protected areas of important sites for mountain biodiversity"
     },
     {
       "path": "16-1-4/data.csv",
@@ -240,7 +166,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-1-4-title"
+      "title": "Proportion of population that feel safe walking alone around the area they live"
     },
     {
       "path": "6-6-1/data.csv",
@@ -257,7 +183,7 @@
             "type": "integer"
           },
           {
-            "name": "Category",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
@@ -272,12 +198,11 @@
             }
           },
           {
-            "name": "Unit",
+            "name": "Geographic Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per cent",
-                "Km2",
+                "Jamaica",
                 ""
               ]
             }
@@ -288,7 +213,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-6-1-title"
+      "title": "Change in the extent of water-related ecosystems over time"
     },
     {
       "path": "17-18-1/data.csv",
@@ -332,7 +257,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-1-title"
+      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
     },
     {
       "path": "6-1-1/data.csv",
@@ -353,10 +278,10 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Rural Area",
                 "Jamaica",
                 "GKMA",
                 "Other Urban Centres",
-                "Rural Area",
                 ""
               ]
             }
@@ -381,7 +306,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-1-1-title"
+      "title": "Proportion of population using safely managed drinking water services"
     },
     {
       "path": "13-1-3/data.csv",
@@ -427,7 +352,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-3-title"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "8-10-1/data.csv",
@@ -470,7 +395,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-10-1-title"
+      "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
       "path": "13-1-1/data.csv",
@@ -524,7 +449,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-1-title"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "17-11-1/data.csv",
@@ -577,7 +502,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-11-1-title"
+      "title": "Developing countries’ and least developed countries’ share of global exports"
     },
     {
       "path": "3-2-2/data.csv",
@@ -619,7 +544,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-2-title"
+      "title": "Neonatal mortality rate"
     },
     {
       "path": "2-a-2/data.csv",
@@ -663,7 +588,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-a-2-title"
+      "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
     },
     {
       "path": "10-4-1/data.csv",
@@ -685,14 +610,14 @@
             "constraints": {
               "enum": [
                 "Compensation of Employees",
+                "Operating Surplus/Mixed Income",
                 "Consumption of Fixed Capital",
-                "Fixed Capital share of GDP",
+                "Taxes on Production & Imports",
+                "Less Subsidies on Production & Imports",
                 "Gross Domestic Product at Market Prices",
                 "Labour Share of GDP",
-                "Less Subsidies on Production & Imports",
-                "Operating Surplus/Mixed Income",
                 "Operating Surplus/Mixed Income share of GDP",
-                "Taxes on Production & Imports",
+                "Fixed Capital share of GDP",
                 ""
               ]
             }
@@ -702,8 +627,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "$ Million",
-                "Per cent",
+                "($ Million)",
+                "(Per cent)",
                 ""
               ]
             }
@@ -714,7 +639,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-4-1-title"
+      "title": "Labour share of GDP"
     },
     {
       "path": "17-8-1/data.csv",
@@ -759,7 +684,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-8-1-title"
+      "title": "Proportion of individuals using the Internet"
     },
     {
       "path": "4-4-1/data.csv",
@@ -784,11 +709,9 @@
                 "Using copy and paste tools to move or duplicate information in documents",
                 "Sending e-mails with files attached",
                 "Connecting or installing new devices",
-                "Finding/downloading or installing new software",
+                "Finding/ downloading or installing new software",
                 "Transferring files between a computer and other",
-                "Using basic mathematical formulae in spreadsheets",
-                "Creating electronic presentations with presentation software",
-                "Programming or coding in digital environments (e.g. computer software, app development)",
+                "Finding/downloading or installing new software",
                 ""
               ]
             }
@@ -806,11 +729,11 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.4-4-1-title"
+      "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
     },
     {
       "path": "4-1-1/data.csv",
@@ -831,19 +754,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Grade 4 Literacy Test",
-                "Grade 4 Numeracy Test",
-                "Grade 6 Achievement Test",
+                "Grade 4 PEP Literacy Test",
+                "Grade 4 PEP Numeracy Test",
                 "Grade 6 Primary Exit Profile (Mathematics)",
                 "Grade 6 Primary Exit Profile (Language Arts)",
-                "Grade 5 Primary Exit Profile (Language Arts)",
-                "Grade 5 Primary Exit Profile (Mathematics)",
-                "Percentage of children who correctly read 90% of words in a story",
-                "Percentage of children who successfully completed tasks of Number Reading ",
-                "Percentage of children who successfully completed tasks of Number Discrimination",
-                "Percentage of children who successfully completed tasks of Addition",
-                "Percentage of children who successfully completed tasks of Pattern recognition and completion",
-                "Percentage of children who demonstrate foundational numeracy skills",
+                "Grade 4 Literacy Test",
+                "Grade 4 Numeracy Test",
+                "Grade 6 Achievement Test (Language Arts)",
+                "Grade 6 Achievement Test (Mathematics)",
                 ""
               ]
             }
@@ -854,13 +772,10 @@
             "constraints": {
               "enum": [
                 "Proportion of students achieving mastery",
-                "Mean Score  (Language Arts)",
-                "(Language Arts)",
-                "(Mathematics)",
-                "Mean Score  (Mathematics)",
-                "Proportion of Students Developing Level",
-                "Proportion of Students Proficient and Highly Provicient Levels",
-                "Proportion of Students Highly Proficient Level",
+                "Proportion of Students at Developing Level",
+                "Proportion of Students at Proficient Level",
+                "Proportion of Students at Highly Proficient Level",
+                "Mean Score in Grade Six Achievement Test",
                 ""
               ]
             }
@@ -871,9 +786,8 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Grade 2-3",
-                "Grade 6",
-                "Grade 9/ 3rd Form",
+                "Male",
+                "Female",
                 ""
               ]
             }
@@ -885,18 +799,17 @@
               "enum": [
                 "Male",
                 "Female",
-                "Total",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.4-1-1-title"
+      "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
     },
     {
       "path": "3-9-3/data.csv",
@@ -917,8 +830,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of deaths by unintentional poisoning",
-                "Proportion of deaths by unintentional poisoning",
+                "Mortality rate attributed to unintentional poisoning",
                 ""
               ]
             }
@@ -939,7 +851,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-9-3-title"
+      "title": "Mortality rate attributed to unintentional poisoning"
     },
     {
       "path": "16-7-1/data.csv",
@@ -960,10 +872,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mayors",
-                "Councillors",
                 "Upper House",
                 "Lower House",
+                "Mayors",
+                "Councillors",
                 ""
               ]
             }
@@ -973,9 +885,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
                 "Total Number of Seats",
+                "Female",
+                "Females",
                 ""
               ]
             }
@@ -986,59 +899,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-7-1-title"
-    },
-    {
-      "path": "11-b-1/data.csv",
-      "name": "11-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "DRR Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National DRR Strategy Adoption Score",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Indicator Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global SDG Indicator",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per cent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.11-b-1-title"
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "8-1-1/data.csv",
@@ -1070,7 +931,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-1-1-title"
+      "title": "Annual growth rate of real GDP per capita"
     },
     {
       "path": "5-2-1/data.csv",
@@ -1091,18 +952,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verbal Violence",
-                "Physical Violence",
-                "Sexual Violence",
-                "Any type of Violence",
-                "Physical or Sexual Violence",
-                "All Three Types of Violence",
                 "Economic Violence",
                 "Emotional Violence",
+                "Physical Violence",
+                "Sexual Violence",
                 "Physical and or sexual Violence",
-                "Physical and/or Sexual Violence Violence",
+                "Physical and/or  Sexual Violence Violence",
                 "Physical and/or Sexual Violence",
-                "No Violence",
                 "None",
                 ""
               ]
@@ -1113,11 +969,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Lifetime Intimate Partner",
-                "Intimate Partner during Last 12 Months",
+                "Lifetime intimate Partner",
                 "Current Intimate Partner",
-                "Lifetime Partner",
-                "Current Partner",
+                "Lifetime",
+                "Current",
+                "Lifetime Higher",
                 ""
               ]
             }
@@ -1127,11 +983,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
-                "KMA",
-                "Other Urban Centres",
-                "Rural",
                 "Urban",
+                "Rural",
+                "Jamaica",
                 ""
               ]
             }
@@ -1141,16 +995,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Legally married",
-                "Common-law union",
-                "Visiting relationship",
-                "Previously married/partnered",
-                "Lowest",
-                "Second",
-                "Middle",
-                "Fourth",
-                "Highest",
                 "All Ever-partnered",
+                "21.7",
                 ""
               ]
             }
@@ -1160,9 +1006,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24",
-                "25-34",
-                "35-49",
                 "15-19",
                 "20-24",
                 "25-29",
@@ -1196,6 +1039,8 @@
             "constraints": {
               "enum": [
                 "19 or Older",
+                "18 or younger 45.0",
+                "18 or younger 16.0",
                 "18 or younger",
                 "18 or Younger",
                 ""
@@ -1208,7 +1053,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-2-1-title"
+      "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
       "path": "11-6-2/data.csv",
@@ -1222,7 +1067,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Pollutant",
@@ -1235,10 +1080,6 @@
                 "Lead",
                 "Total Volatile Organic Compounds",
                 "Carbon Monoxide",
-                "Carbon dioxide",
-                "Methane",
-                "Nitrous Oxide",
-                "Priority Air Pollutants",
                 ""
               ]
             }
@@ -1259,7 +1100,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-6-2-title"
+      "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
       "path": "1-2-1/data.csv",
@@ -1321,7 +1162,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-1-title"
+      "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
       "path": "5-2-2/data.csv",
@@ -1365,7 +1206,6 @@
                 "Attempted Intercource",
                 "Non-partner sexual harassment",
                 "Current Non-partner transactional sex",
-                "No Violence",
                 ""
               ]
             }
@@ -1377,6 +1217,7 @@
               "enum": [
                 "Lifetime Partner",
                 "Current Partner",
+                "Current  Partner",
                 ""
               ]
             }
@@ -1390,6 +1231,9 @@
                 "Support from partner/husband",
                 "Support from relatives and friends",
                 "No income/pension/ social services/other",
+                "Support  from partner/husband",
+                "Support  from relatives and friends",
+                "No income  /pension/ social services/other",
                 ""
               ]
             }
@@ -1411,7 +1255,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-2-2-title"
+      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
       "path": "2-2-2/data.csv",
@@ -1471,7 +1315,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-2-title"
+      "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
       "path": "9-c-1/data.csv",
@@ -1506,7 +1350,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-c-1-title"
+      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "3-1-2/data.csv",
@@ -1548,7 +1392,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-2-title"
+      "title": "Proportion of births attended by skilled health personnel"
     },
     {
       "path": "16-2-1/data.csv",
@@ -1573,10 +1417,6 @@
                 "Kingston Metropolitan Area",
                 "Other Towns",
                 "Rural Areas",
-                "Urban",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centres",
-                "Rural",
                 ""
               ]
             }
@@ -1597,13 +1437,12 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Psychological Aggression",
+                "Any Physical Punishment",
+                "Severe Physical Punishment",
                 "2-4 years",
                 "5-9 years",
                 "10-14 years",
-                "1-2 Years Old",
-                "3-4 Years Old",
-                "5-9 Years Old",
-                "10-14 Years Old",
                 ""
               ]
             }
@@ -1630,8 +1469,6 @@
                 "Psychological Aggression",
                 "Any Physical Punishment",
                 "Severe Physical Punishment",
-                "Only Non-violent Discipline",
-                "Any Violent Discipline Method",
                 ""
               ]
             }
@@ -1642,7 +1479,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-2-1-title"
+      "title": "Proportion of children aged 1–17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month"
     },
     {
       "path": "16-3-2/data.csv",
@@ -1663,6 +1500,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Unsentenced Adult",
+                "Unsentenced Juvenile",
                 "Unsentenced Detainees",
                 ""
               ]
@@ -1694,88 +1533,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-3-2-title"
-    },
-    {
-      "path": "6-3-2/data.csv",
-      "name": "6-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rivers (Reporting basin district area (in km²))",
-                "Groundwater (Reporting basin district area (in km²))",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "River",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "South Negril - Orange River",
-                "Lucea River",
-                "Great River",
-                "Montego River",
-                "Martha Brae",
-                "Rio-Bueno - White River",
-                "Rio Nuevo",
-                "Oracabessa - Pagee River",
-                "Rio Cobre",
-                "Black River",
-                "Deans Valley",
-                "Cabarita River",
-                "Wagwater River",
-                "Rio Minho",
-                "Gut-Alligator Hole",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Measurement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "159.37 km2",
-                "257.58 km2",
-                "345.38 km2",
-                "205.03 km2",
-                "732.58 km2",
-                "1563.07 km2",
-                "109.12 km2",
-                "168.26 km2",
-                "1249.88 km2",
-                "1311.91 km2",
-                "425.42 km2",
-                "290.10 km2",
-                "317.64 km2",
-                "796.77 km2",
-                "164.74 km2",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.6-3-2-title"
+      "title": "Unsentenced detainees as a proportion of overall prison population"
     },
     {
       "path": "5-5-1/data.csv",
@@ -1796,10 +1554,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mayors",
-                "Councillors",
                 "Upper House",
                 "Lower House",
+                "Mayors",
+                "Councillors",
                 ""
               ]
             }
@@ -1822,7 +1580,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-5-1-title"
+      "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
       "path": "1-1-1/data.csv",
@@ -1854,7 +1612,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-1-title"
+      "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
       "path": "11-5-2/data.csv",
@@ -1898,8 +1656,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cost - ($JB)",
-                "Impact - (%GDP)",
+                "Cost ($JB)",
+                "Impact (% GDP)",
                 ""
               ]
             }
@@ -1910,86 +1668,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-2-title"
-    },
-    {
-      "path": "4-b-1/data.csv",
-      "name": "4-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Official Development Assistance Flows for Scholarships (USD)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Official Development Assistance Flows for Scholarships (USD)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.4-b-1-title"
-    },
-    {
-      "path": "indicator-5-5-2/data.csv",
-      "name": "indicator-5-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of Female Managers",
-                "Total Managers",
-                "Proportion of Women in Managerial Positions",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "January Q1",
-                "April Q2",
-                "July Q3",
-                "October Q4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "indicator-5-5-2"
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "15-4-2/data.csv",
@@ -2006,26 +1685,25 @@
             "type": "integer"
           },
           {
-            "name": "Kapos Mountain Class",
+            "name": "Kapos mountain class",
             "type": "string",
             "constraints": {
               "enum": [
                 "k1",
-                "all",
                 "k2",
                 "k3",
                 "k4",
                 "k5",
-                "k6",
                 ""
               ]
             }
           },
           {
-            "name": "IPCC Class",
+            "name": "Ipcc class",
             "type": "string",
             "constraints": {
               "enum": [
+                "Forest",
                 "Cropland",
                 "Grassland",
                 "Wetland",
@@ -2033,7 +1711,6 @@
                 "Other Land",
                 "MGCI",
                 "MGCI All",
-                "Forest",
                 "MGC",
                 ""
               ]
@@ -2047,6 +1724,8 @@
                 "(%)",
                 "(km2 '000)",
                 "(Area %)",
+                "(km2 ‘000)",
+                "(area %)",
                 ""
               ]
             }
@@ -2068,7 +1747,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-4-2-title"
+      "title": "(a) Mountain Green Cover Index and (b) proportion of degraded mountain land"
     },
     {
       "path": "10-5-2/data.csv",
@@ -2144,11 +1823,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Owned Land",
-                "Leased Land",
-                "Rented Land",
-                "Rent Free Land",
-                "Squatted Land",
+                "Owned",
+                "Leased",
+                "Rented",
+                "Rent Free",
+                "Squatted",
                 ""
               ]
             }
@@ -2159,59 +1838,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-1-1-title"
-    },
-    {
-      "path": "7-b-1/data.csv",
-      "name": "7-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hydro Technology",
-                "Solar",
-                "Wind",
-                "Net Billing (Solar)",
-                "Other arrangements",
-                "Total",
-                "Generating Capacity",
-                "Population",
-                "Renewable Energy Watts Per Capita",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MW",
-                "Watts",
-                "Renewable Energy Watts Per Capita",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.7-b-1-title"
+      "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
     },
     {
       "path": "10-1-1/data.csv",
@@ -2243,7 +1870,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-1-1-title"
+      "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
     },
     {
       "path": "4-6-1/data.csv",
@@ -2265,6 +1892,10 @@
             "constraints": {
               "enum": [
                 "English A Only",
+                "Mathematics Only",
+                "English A and Mathematics",
+                "English A and/or Mathematics",
+                "Per cent of Cohort",
                 ""
               ]
             }
@@ -2287,40 +1918,32 @@
               "enum": [
                 "Jamaica",
                 "Kingston",
-                "St Andrew",
-                "St Thomas",
+                "St  Andrew",
+                "St  Thomas",
                 "Portland",
-                "St Mary",
-                "St Ann",
+                "St  Mary",
+                "St  Ann",
                 "Trelawny",
-                "St James",
+                "St  James",
                 "Hanover",
                 "Westmoreland",
-                "St Elizabeth",
+                "St  Elizabeth",
                 "Manchester",
                 "Clarendon",
-                "St Catherine",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
+                "St  Catherine",
+                "Female",
+                "Male",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.4-6-1-title"
+      "title": "Youth/adult literacy rate"
     },
     {
       "path": "10-5-1/data.csv",
@@ -2341,7 +1964,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Financial soundness indicators",
+                "Assets per employee (Total assets to number of employees) J$(000)",
+                "Liquid assets to total liabilities",
+                "Net premium to Capital",
+                "Capital to Assets",
+                "Receivables to gross premiums",
+                "(Real estate + unquoted equities + debtors) to total assets",
+                "Equities to total assets",
+                "Risk retention ratio (net premium/gross premium)",
+                "Net technical reserves to average of net claims paid in last 3 years",
+                "Return on assets",
+                "Net claims to net premium earned",
+                "Total expenses to net premium written",
+                "Combined ratio = loss + expenses ratios",
+                "Investment income to net premium",
+                "Return on Equity",
+                "Gross Premium to number of employees J$(000)",
+                "Capital to Technical Reserves",
+                "Net technical reserves to average of net premiums received in last 3yrs",
+                "Investment income to investment assets",
+                "Gross Premium to number of employees",
+                "Assets per employee (Total assets to number of employees)",
+                "Duration of assets and liabilities -Domestic Bonds",
+                "Duration of assets and liabilities - Global Bonds",
+                "Regulatory capital to risk-weighted assets",
+                "Tier 1 capital to risk-weighted assets",
+                "Non-performing loans (net) to capital",
+                "Non-performing loans to total loans",
+                "Return on equity",
+                "Interest margin to income",
+                "Non-interest expenses to income",
+                "Liquid assets to total assets",
+                "Duration on assets -Domestic Bonds",
+                "Duration on assets- Global Bonds",
+                "NOP to capital (Regulatory)",
+                "Expenses to net premium (expense ratio)",
                 ""
               ]
             }
@@ -2368,44 +2025,48 @@
                 "(Real estate + unquoted equities + debtors) to total assets",
                 "Receivables to gross premiums",
                 "Equities to total assets",
-                "Net technical reserves to net claims paid in last 3 years",
-                "Risk retention ratio (net premium to gross premium)",
-                "Gross premium to number of employees J$(000)",
-                "Assets per employee J$(000)",
-                "Net Claims to net premium (loss ratio)",
-                "Total expenses to net premium (expense ratio)",
-                "Combined ratio (loss + expense ratio)",
-                "Investment Income to net premium",
+                "Net technical reserves to average of net claims paid in last 3 years",
+                "Risk retention ratio (net premium/gross premium)",
+                "Gross Premium to number of employees J$(000)",
+                "Assets per employee (Total assets to number of employees) J$(000)",
+                "Net claims to net premium earned",
+                "Total expenses to net premium written",
+                "Combined ratio = loss + expenses ratios",
+                "Investment income to net premium",
                 "Return on Equity",
                 "Liquid assets to total liabilities",
-                "Capital to technical reserves",
-                "Net technical reserves to net premium paid in last 3 years",
+                "Capital to Technical Reserves",
+                "Net technical reserves to average of net premiums received in last 3yrs",
+                "Gross Premium to number of employees",
+                "Assets per employee (Total assets to number of employees)",
                 "Expenses to net premium (expense ratio)",
-                "Investment Income to investment assets",
+                "Investment income to investment assets",
+                "Duration of assets and liabilities -Domestic Bonds",
+                "Duration of assets and liabilities - Global Bonds",
                 ""
               ]
             }
           },
           {
-            "name": "Institution Type",
+            "name": "Type of  institution",
             "type": "string",
             "constraints": {
               "enum": [
-                "Deposit-taking Institution",
-                "Securities Dealers",
                 "General Insurance",
                 "Life Insurance",
+                "Deposit-taking Institution",
+                "Securities Dealers",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.10-5-1-title"
+      "title": "Financial Soundness Indicators"
     },
     {
       "path": "1-5-1/data.csv",
@@ -2510,52 +2171,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-1-title"
-    },
-    {
-      "path": "11-b-2/data.csv",
-      "name": "11-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "DRR Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of local governments that have adopted and implemented local DRR strategies in line with national strategies",
-                "Total Number of local governments",
-                "Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Per cent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.11-b-2-title"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "3-5-1/data.csv",
@@ -2577,7 +2193,7 @@
             "constraints": {
               "enum": [
                 "Percentage who received at least one treatment intervention in their lifetime",
-                "Percentage of persons who did not receive drug treatment within the past 12 months",
+                "Percntage of persons who did not receive drug treatment within the past 12 months",
                 ""
               ]
             }
@@ -2625,7 +2241,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-1-title"
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     },
     {
       "path": "1-5-2/data.csv",
@@ -2679,7 +2295,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-2-title"
+      "title": "Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)"
     },
     {
       "path": "14-1-1/data.csv",
@@ -2733,7 +2349,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-1-1-title"
+      "title": "(a) Index of coastal eutrophication; and (b) plastic debris density"
     },
     {
       "path": "3-6-1/data.csv",
@@ -2774,6 +2390,20 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Kingston",
+                "St Andrew",
+                "St Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St. Catherine",
                 "Jamaica",
                 ""
               ]
@@ -2785,7 +2415,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-6-1-title"
+      "title": "Death rate due to road traffic injuries"
     },
     {
       "path": "3-b-2/data.csv",
@@ -2829,60 +2459,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-b-2-title"
-    },
-    {
-      "path": "3-a-1/data.csv",
-      "name": "3-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of Persons 15-49 years who Currently use or Smoked a Tobacco Product",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per cent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-a-1-title"
+      "title": "Total net official development assistance to medical research and basic health sectors"
     },
     {
       "path": "8-2-1/data.csv",
@@ -2914,7 +2491,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-2-1-title"
+      "title": "Annual growth rate of real GDP per employed person"
     },
     {
       "path": "11-2-1/data.csv",
@@ -2962,7 +2539,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-2-1-title"
+      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
     },
     {
       "path": "1-3-1/data.csv",
@@ -2983,12 +2560,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons Registered with the National Insurance Scheme",
                 "Population covered by PATH",
-                "Indoor Persons Registered on Poor Relief Programme",
+                "Persons Registered with the National Insurance Scheme",
                 "Registered with Jamaica Drugs for the Elderly Programme",
                 "Registered with the National Health Fund",
                 "Outdoor Persons Registered on Poor Relief Programme",
+                "Indoor Persons Registered on Poor Relief Programme",
                 ""
               ]
             }
@@ -2999,24 +2576,6 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centre",
-                "Rural",
-                "St Catherine",
-                "Kingston & St Andrew",
-                "St Thomas",
-                "Portland",
-                "St Mary",
-                "St Ann",
-                "Trelawny",
-                "St James",
-                "Hanover",
-                "Westmoreland",
-                "St Elizabeth",
-                "Manchester",
-                "Clarendon",
-                "Urban",
-                "Other Urban Centres",
                 ""
               ]
             }
@@ -3029,16 +2588,6 @@
                 "Male",
                 "Female",
                 "Total",
-                "Children",
-                "Adult",
-                "Persons with disabilities",
-                "Elderly",
-                "Pregnant and Lactating Women",
-                "Poorest",
-                "Second",
-                "Middle",
-                "Fourth",
-                "Richest",
                 ""
               ]
             }
@@ -3048,59 +2597,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per cent",
+                "%",
                 "Number",
-                "per 100,000 population",
                 "per 100.000 population",
-                "Per cent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.1-3-1-title"
-    },
-    {
-      "path": "16-2-2/data.csv",
-      "name": "16-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Disaggregation Level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                "Total",
-                "17 Years and Under",
-                "18 Years and Older",
-                "Type of Exploitation - Sexual",
-                "Type of Exploitation - Labour",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per 100,000 population",
                 ""
               ]
             }
@@ -3111,72 +2610,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-2-2-title"
-    },
-    {
-      "path": "16-4-1/data.csv",
-      "name": "16-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of cases investigated",
-                "Number of cases prosecuted",
-                "Number of persons convicted",
-                "Amount of proceeds seized or frozen",
-                "Amount of proceeds forfeited",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disaggregation Level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Offenses committed within the home jurisdiction",
-                "Offenses committed in foreign jurisdictions",
-                "Offenses committed both in home and foreign jurisdictions",
-                "Origin country cannot be identified",
-                "Total Number of Cases Investigated",
-                "Total Number of Persons Prosecuted",
-                "Total Number of Persons Convicted",
-                "Total Amount of Proceeds Seized or Frozen",
-                "Total Amount of Proceeds Forfeited",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "J$",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-4-1-title"
+      "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
     },
     {
       "path": "5-3-1/data.csv",
@@ -3222,7 +2656,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-1-title"
+      "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
       "path": "4-5-1/data.csv",
@@ -3239,42 +2673,49 @@
             "type": "integer"
           },
           {
-            "name": "Ratio",
+            "name": "School Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Girls Adjusted Net Attendance Ratio (NAR) Primary School",
-                "Boys Adjusted Net Attendance Ratio (NAR) Primary School",
-                "Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School",
-                "Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School",
-                "Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School",
-                "Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School",
-                "Girls Adjusted Net Attendance Ratio (NAR) Secondary School",
-                "Boys Adjusted Net Attendance Ratio (NAR) Secondary School",
-                "GPI for Adjusted Ratio (NAR) Primary School",
-                "GPI for Adjusted Ratio (NAR) Lower Secondary School",
-                "GPI for Adjusted Ratio (NAR) Upper Secondary School",
-                "GPI for Adjusted Ratio (NAR) Secondary School",
+                "Primary School",
+                "Secondary School",
                 ""
               ]
             }
           },
           {
-            "name": "Geographical Region",
+            "name": "Index",
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
-                "GKMA",
+                "Adjusted Net Attendance Ratio (NAR)",
+                "GPI for Adjusted Ratio (NAR)",
+                "GPI for Adjusted Ratio  (NAR)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Girls",
+                "Boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographic Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Other Towns",
-                "Urban Area",
-                "Rural Area",
-                "KMA",
-                "Other Urban Centre",
-                "Urban",
-                "Rural",
                 "Urban Total",
-                "OUC",
+                "Rural",
+                "Jamaica",
+                "KMA",
                 ""
               ]
             }
@@ -3295,11 +2736,11 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.4-5-1-title"
+      "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
     },
     {
       "path": "7-1-1/data.csv",
@@ -3334,7 +2775,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-1-title"
+      "title": "Proportion of population with access to electricity"
     },
     {
       "path": "4-2-1/data.csv",
@@ -3361,7 +2802,6 @@
                 "Learning",
                 "Early Childhood Development Index Score",
                 "Number of children age 36-59 months",
-                "Percentage who are developmentally on track",
                 ""
               ]
             }
@@ -3373,7 +2813,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "Total",
                 ""
               ]
             }
@@ -3387,8 +2826,6 @@
                 "Other Towns",
                 "Urban",
                 "Rural",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centres",
                 ""
               ]
             }
@@ -3400,9 +2837,6 @@
               "enum": [
                 "36-47 months",
                 "48-59 months",
-                "Age 2 years old",
-                "Age 3 years old",
-                "Age 4 years old",
                 ""
               ]
             }
@@ -3428,6 +2862,7 @@
                 "Middle",
                 "Fourth",
                 "Richest",
+                "Total",
                 ""
               ]
             }
@@ -3438,7 +2873,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-2-1-title"
+      "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
     },
     {
       "path": "3-5-2/data.csv",
@@ -3491,7 +2926,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-5-2-title"
+      "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
       "path": "11-7-2/data.csv",
@@ -3508,23 +2943,13 @@
             "type": "integer"
           },
           {
-            "name": "Type of Violence",
+            "name": "Type of Assault",
             "type": "string",
             "constraints": {
               "enum": [
                 "Aggravated Assault",
-                "Total Sexual Violence",
                 "Rape",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
+                "Total Sexual Violence",
                 ""
               ]
             }
@@ -3535,7 +2960,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-7-2-title"
+      "title": "Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
     },
     {
       "path": "1-5-3/data.csv",
@@ -3567,49 +2992,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-3-title"
-    },
-    {
-      "path": "3-3-4/data.csv",
-      "name": "3-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Hepatitis B Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hepatitis B incidence per 100,000 population",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geographical Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Jamaica",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-3-4-title"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "2-5-2/data.csv",
@@ -3678,7 +3061,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-5-2-title"
+      "title": "Proportion of local breeds classified as being at risk of extinction"
     },
     {
       "path": "17-19-2/data.csv",
@@ -3710,7 +3093,7 @@
           }
         ]
       },
-      "title": "Total population for Census Year"
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "6-4-2/data.csv",
@@ -3752,49 +3135,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-4-2-title"
-    },
-    {
-      "path": "16-4-2/data.csv",
-      "name": "16-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Seized Arms with Illicit Origin Traced",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.16-4-2-title"
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
       "path": "4-3-1/data.csv",
@@ -3839,7 +3180,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-3-1-title"
+      "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
       "path": "5-b-1/data.csv",
@@ -3870,7 +3211,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
                 "Male",
                 "Female",
                 ""
@@ -3883,49 +3223,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-b-1-title"
-    },
-    {
-      "path": "6-a-1/data.csv",
-      "name": "6-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Amount of water- and sanitation-related official development assistance",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "US$M",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.6-a-1-title"
+      "title": "Proportion of individuals who own a mobile telephone, by sex"
     },
     {
       "path": "8-6-1/data.csv",
@@ -3942,26 +3240,22 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "Geographical Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Male",
-                "Female",
+                "Jamaica",
                 ""
               ]
             }
           },
           {
-            "name": "quarter",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Quarter 1",
-                "Quarter 2",
-                "Quarter 3",
-                "Quarter 4",
+                "Male",
+                "Female",
                 ""
               ]
             }
@@ -3972,7 +3266,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-6-1-title"
+      "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
       "path": "17-1-2/data.csv",
@@ -4018,73 +3312,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-1-2-title"
-    },
-    {
-      "path": "15-3-1/data.csv",
-      "name": "15-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Forest Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Forest area annual net change rate",
-                "Proportion of forest area located within legally-established protected areas",
-                "Proportion of forest area under a long-term forest management plan",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Forestry Department",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Indicator Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Global SDG Indicator",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per cent",
-                "Per cent of total forest cover",
-                "ha",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.15-3-1-title"
+      "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
       "path": "17-3-1/data.csv",
@@ -4130,52 +3358,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-3-1-title"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-Fatal Injuries",
-                "Fatal Injuries",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.8-8-1-title"
+      "title": "Additional financial resources mobilized for developing countries from multiple sources"
     },
     {
       "path": "3-8-2/data.csv",
@@ -4227,11 +3410,11 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.3-8-2-title"
+      "title": "Proportion of population with positive out-of-pocket household expenditures on health exceeding 40 per cent of household discretionary budget"
     },
     {
       "path": "15-5-1/data.csv",
@@ -4248,27 +3431,16 @@
             "type": "integer"
           },
           {
-            "name": "Type of Species",
+            "name": "Type of species",
             "type": "string",
             "constraints": {
               "enum": [
                 "Mammals",
                 "Birds",
-                "Reptiles",
                 "Amphibians",
-                "Freshwater fish",
-                "Molluscs (land)*",
-                "Arthropods/ Invertebrates*",
-                "Plants*",
-                "Animals",
-                "Plants",
-                "Reptiles*",
-                "Fishes*",
-                "Molluscs*",
-                "Other Inverts*",
-                "Fungi*",
-                "Chromists*",
-                "Total",
+                "Conifers",
+                "Cycads",
+                "Cacti",
                 ""
               ]
             }
@@ -4278,27 +3450,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Critically Endangered",
+                "Endemic",
+                "Threatened",
+                "Extinct",
+                "Critical Endangered",
                 "Endangered",
                 "Vulnerable",
                 "Near Threatened",
-                "Total",
-                "Extinct",
-                "Extinct in the wild",
-                "Threatened",
                 "Data Deficient",
                 "Least Concern",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of specie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Animals",
+                "Plants",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.15-5-1-title"
+      "title": "Red List Index"
     },
     {
       "path": "11-5-1/data.csv",
@@ -4319,109 +3502,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "May/June Flood Rains - Persons Affected",
-                "May/June Flood Rains - Persons Dead",
-                "May/June Flood Rains - Persons Injured",
-                "May/June Flood Rains - Persons Missing",
-                "Hurricane Ivan - Persons Affected",
-                "Hurricane Ivan - Persons Dead",
-                "Hurricane Ivan - Persons Injured",
-                "Hurricane Ivan - Persons Missing",
-                "Hurricane Dennis and Emily - Persons Affected",
-                "Hurricane Dennis and Emily - Persons Dead",
-                "Hurricane Dennis and Emily - Persons Injured",
-                "Hurricane Dennis and Emily - Persons Missing",
-                "Hurricane Wilma - Persons Affected",
-                "Hurricane Wilma - Persons Dead",
-                "Hurricane Wilma - Persons Injured",
-                "Hurricane Wilma - Persons Missing",
-                "Hurricane Dean - Persons Affected",
-                "Hurricane Dean - Persons Dead",
-                "Hurricane Dean - Persons Injured",
-                "Hurricane Dean - Persons Missing",
-                "Tropical Storm Gustav - Persons Affected",
-                "Tropical Storm Gustav - Persons Dead",
-                "Tropical Storm Gustav - Persons Injured",
-                "Tropical Storm Gustav - Persons Missing",
-                "Tropical Storm Nicole - Persons Affected",
-                "Tropical Storm Nicole - Persons Dead",
-                "Tropical Storm Nicole - Persons Injured",
-                "Tropical Storm Nicole - Persons Missing",
-                "Hurricane Sandy - Persons Affected",
-                "Hurricane Sandy - Persons Dead",
-                "Hurricane Sandy - Persons Injured",
-                "Hurricane Sandy - Persons Missing",
-                "March to June Rains - Persons Affected",
-                "March to June Rains - Persons Dead",
-                "March to June Rains - Persons Injured",
-                "March to June Rains - Persons Missing",
-                "January and May Rains - Persons Affected",
-                "January and May Rains - Persons Dead",
-                "Drought - Persons Affected",
-                "Drought - Persons Dead",
-                "Heavy rains from Tropical Storms Zeta and Eta - Persons Affected",
-                "Heavy rains from Tropical Storms Zeta and Eta - Persons Dead",
-                "Tropical Storms Elsa, Grace and Ida. - Persons Affected",
-                "Tropical Storms Elsa, Grace and Ida. - Persons Dead",
-                "Heavy rains January - February - Persons Affected",
-                "Heavy rains January - February - Persons Dead",
-                "Tropical Storms Ian September - Persons Affected",
-                "Tropical Storms Ian September - Persons Dead",
-                "Death due to fire - Kingston and St. Andrew",
-                "Death due to fire - St. Thomas",
-                "Death due to fire - Portland",
-                "Death due to fire - St Mary",
-                "Death due to fire - St Ann",
-                "Death due to fire - Trelawny",
-                "Death due to fire - St James",
-                "Death due to fire - Hanover",
-                "Death due to fire - Westmoreland",
-                "Death due to fire - St Elizabeth",
-                "Death due to fire - Manchester",
-                "Death due to fire - Clarendon",
-                "Death due to fire - St Catherine",
-                "Death due to fire - Total",
-                "Injuries due to fire - Kingston and St. Andrew",
-                "Injuries due to fire - St. Thomas",
-                "Injuries due to fire - Portland",
-                "Injuries due to fire - St Mary",
-                "Injuries due to fire - St Ann",
-                "Injuries due to fire - Trelawny",
-                "Injuries due to fire - St James",
-                "Injuries due to fire - Hanover",
-                "Injuries due to fire - Westmoreland",
-                "Injuries due to fire - St Elizabeth",
-                "Injuries due to fire - Manchester",
-                "Injuries due to fire - Clarendon",
-                "Injuries due to fire - St Catherine",
-                "Injuries due to fire - Total",
-                "Homeless due to fire - Kingston and St. Andrew",
-                "Homeless due to fire - St. Thomas",
-                "Homeless due to fire - Portland",
-                "Homeless due to fire - St Mary",
-                "Homeless due to fire - St Ann",
-                "Homeless due to fire - Trelawny",
-                "Homeless due to fire - St James",
-                "Homeless due to fire - Hanover",
-                "Homeless due to fire - Westmoreland",
-                "Homeless due to fire - St Elizabeth",
-                "Homeless due to fire - Manchester",
-                "Homeless due to fire - Clarendon",
-                "Homeless due to fire - St Catherine",
-                "Homeless due to fire - Total",
-                "Homeless Adults due to fire - Total Adults",
-                "Homeless Children due to fire - Total Children",
-                "Injuried Adults due to fire - Total Adults",
-                "Injuries Children due to fire - Total Children",
-                "Death of Adults due to Fire - Total Adults",
-                "Death of Children due to Fire - Total Children",
-                "Total number of homeless due to fire - Jamaica",
-                "Injuries due to fire - Jamaica",
-                "Death due to Fire - Jamaica",
-                "Total Number of Persons Affected - Jamaica",
-                "Persons affected per 100,000 population - Jamaica",
-                "Persons injured due to fire per 100,000 - Jamaica",
-                "Deaths from fire per 100,000 population - Jamaica",
+                "May/June Flood Rains",
+                "Hurricane Ivan",
+                "Hurricane Dennis and Emily",
+                "Hurricane Wilma",
+                "Hurricane Dean",
+                "Tropical Storm Gustav",
+                "Tropical Storm Nicole",
+                "Hurricane Sandy",
+                "March to June Rains",
                 ""
               ]
             }
@@ -4431,10 +3520,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100.000 Population",
-                "Persons affected per 100,000 population",
-                "Persons dead per 100,000 population",
-                "Number",
+                "Persons Affected Per 100.000 Population",
+                "Persons Dead per 100.000 population",
+                "Persons Injured per 100.000 population",
+                "Persons Missing per 100.000 population",
                 ""
               ]
             }
@@ -4445,59 +3534,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-5-1-title"
-    },
-    {
-      "path": "10-b-1/data.csv",
-      "name": "10-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Reported Amount",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "US$ Million",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PIOJ",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.10-b-1-title"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "9-2-1/data.csv",
@@ -4518,6 +3555,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Manufacturing value added as a proportion of total value added",
                 "Manufacturing value added as a proportion of GDP",
                 "Manufacturing value added per capita (US$)",
                 ""
@@ -4530,7 +3568,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-2-1-title"
+      "title": "Manufacturing value added as a proportion of GDP and per capita"
     },
     {
       "path": "3-c-1/data.csv",
@@ -4583,7 +3621,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-c-1-title"
+      "title": "Health worker density and distribution"
     },
     {
       "path": "16-1-3/data.csv",
@@ -4605,8 +3643,9 @@
             "constraints": {
               "enum": [
                 "Aggravated Assault",
-                "Total Sexual Violence",
+                "Shooting",
                 "Rape",
+                "Total Sexual Violence",
                 ""
               ]
             }
@@ -4617,7 +3656,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-1-3-title"
+      "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months"
     },
     {
       "path": "3-b-1/data.csv",
@@ -4656,14 +3695,6 @@
                 "All vaccinations excluding HIB",
                 "No vaccinations",
                 "Number of children age 18-29 months",
-                "Percentage of children age 12-23 months who received",
-                "Percentage of children age 24-35 months who received",
-                "Polio3",
-                "DPT3",
-                "Hib3",
-                "HepB 3",
-                "MMR 1",
-                "MMR 2",
                 ""
               ]
             }
@@ -4675,15 +3706,6 @@
               "enum": [
                 "Vaccinated at any time before the survey",
                 "Vaccinated by 12 months of age",
-                "BCG",
-                "Polio 1",
-                "Polio 2",
-                "Polio 3",
-                "DPT 1",
-                "DPT 2",
-                "DPT 3",
-                "Measles",
-                "Vaccinated between 12-23 months of age",
                 ""
               ]
             }
@@ -4696,9 +3718,6 @@
                 "Vaccination card",
                 "Mother's report",
                 "Either",
-                "Jamaica",
-                "Total Vaccinated",
-                "Total target Population",
                 ""
               ]
             }
@@ -4709,7 +3728,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-b-1-title"
+      "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
       "path": "16-1-1/data.csv",
@@ -4726,22 +3745,6 @@
             "type": "integer"
           },
           {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total Victims",
-                "Victim Rate",
-                "Type of Weapon - Gun",
-                "Type of Weapon - Sharp Instrument",
-                "Type of Weapon - Other",
-                "Situational Context - By Intimate Partner or Family Member",
-                "Situational Context - Committed by Others including Acquaintances",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Geographical Region",
             "type": "string",
             "constraints": {
@@ -4756,20 +3759,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Per 100,000 population",
+                "Female",
                 ""
               ]
             }
@@ -4780,7 +3771,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-1-1-title"
+      "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
     },
     {
       "path": "17-3-2/data.csv",
@@ -4842,7 +3833,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-3-2-title"
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
     },
     {
       "path": "15-1-2/data.csv",
@@ -4902,7 +3893,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-1-2-title"
+      "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
     },
     {
       "path": "16-3-1/data.csv",
@@ -4959,7 +3950,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-3-1-title"
+      "title": "Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms"
     },
     {
       "path": "14-5-1/data.csv",
@@ -5016,7 +4007,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-5-1-title"
+      "title": "Coverage of protected areas in relation to marine areas"
     },
     {
       "path": "7-1-2/data.csv",
@@ -5033,19 +4024,6 @@
             "type": "integer"
           },
           {
-            "name": "category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of Household that used Gas and Electricity for Cooking",
-                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for Cooking",
-                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for Lighting",
-                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for both Cooking and Lighting",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Geographical Region",
             "type": "string",
             "constraints": {
@@ -5054,7 +4032,6 @@
                 "Rural",
                 "Greater Kingston Metropolitan Area",
                 "Other Urban Centres",
-                "Urban",
                 ""
               ]
             }
@@ -5065,7 +4042,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-1-2-title"
+      "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
       "path": "12-2-2/data.csv",
@@ -5130,7 +4107,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-2-2-title"
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "8-5-2/data.csv",
@@ -5155,10 +4132,6 @@
                 "April",
                 "July",
                 "October",
-                "Quarter 1",
-                "Quarter 2",
-                "Quarter 3",
-                "Quarter 4",
                 ""
               ]
             }
@@ -5188,21 +4161,17 @@
                 "45-54",
                 "55-64",
                 "65 and over",
-                "Unemployment Rate",
-                "Youth (15-24 yrs)",
-                "Prime Working Age (25-54 yrs)",
-                "Unemployment Rate by Sociodemographic Characteristics",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.8-5-2-title"
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
       "path": "6-2-1/data.csv",
@@ -5223,17 +4192,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of Households with Exclusive Use of Toilet Facility",
                 "Water Closet Linked to Central Sewer Network",
-                "Water Closet Not Linked to Sewer",
-                "Pit Laterine",
-                "Other",
                 "Water Closet Linked to Offsite Disposal System",
                 "Water Closet Linked to Onsite Disposal System",
-                "Percentage of household members with a handwashing facility where water and soap or detergent are presen",
-                "Percentage of household members using improved sanitation facilities which are not shared",
-                "Percentage of household members in households with improved on-site sanitation facilities from which waste has never been emptied or has been emptied and buried in a covered pit",
-                "Percentage of household members using an improved on-site sanitation facility from which a service provider has removed waste for treatment off-site",
+                "Pit Laterine",
+                "Other",
+                "Water Closet Not Linked to Sewer",
                 ""
               ]
             }
@@ -5244,28 +4208,9 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "GKMA",
-                "Other Urban Town",
-                "Rural Area",
                 "Greater Kingston Metropolitan Area",
                 "Other Urban Centre",
-                "Urban",
-                "OUC",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Wealth Index Quintiles",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Poorest",
-                "Second",
-                "Middle",
-                "Fourth",
-                "Richest",
+                "Rural Area",
                 ""
               ]
             }
@@ -5276,7 +4221,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-2-1-title"
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "3-7-1/data.csv",
@@ -5307,9 +4252,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
                 "Rural Area",
-                "GKMA",
+                "KMA",
                 "Other Towns",
                 ""
               ]
@@ -5337,7 +4281,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-7-1-title"
+      "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
     },
     {
       "path": "6-5-1/data.csv",
@@ -5358,8 +4302,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Degree of integrated water resources management implementation (0–100) in Jamaica of which:",
-                "Degree of integrated water resources management implementation in the \"enabling environment\"",
+                "Degree of integrated water resources management implementation (0–100) in Jamaica",
+                "Degree of integrated water resources management implementation in the enabling environment",
                 "Degree of integrated water resources management implementation within institutions",
                 "Degree of integrated water resources management implementation within management instruments",
                 "Degree of integrated water resources management implementation in financing",
@@ -5373,41 +4317,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-5-1-title"
-    },
-    {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Other economic activities (services) (NACE/ISIC 45-99)",
-                "Private households",
-                "Domestic wastewater generated (sum of other economic and private)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.6-3-1-title"
+      "title": "Degree of integrated water resources management"
     },
     {
       "path": "17-6-2/data.csv",
@@ -5471,7 +4381,6 @@
             "constraints": {
               "enum": [
                 "Mortality rate attributed to cardiovascular disease cancer diabetes or chronic respiratory disease",
-                "Mortality attributed to cardiovascular disease cancer diabetes or chronic respiratory disease (Number)",
                 ""
               ]
             }
@@ -5492,7 +4401,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-4-1-title"
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
       "path": "3-d-1/data.csv",
@@ -5546,7 +4455,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-d-1-title"
+      "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
     },
     {
       "path": "4-a-1/data.csv",
@@ -5560,7 +4469,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "School Type",
@@ -5574,7 +4483,7 @@
             }
           },
           {
-            "name": "Infrastructure Type",
+            "name": "infrastructure Type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5595,7 +4504,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-a-1-title"
+      "title": "Proportion of schools offering basic services, by type of service"
     },
     {
       "path": "17-4-1/data.csv",
@@ -5629,7 +4538,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-4-1-title"
+      "title": "Debt service as a proportion of exports of goods, services and primary income"
     },
     {
       "path": "17-1-1/data.csv",
@@ -5674,7 +4583,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-1-1-title"
+      "title": "Total government revenue as a proportion of GDP, by source"
     },
     {
       "path": "11-3-1/data.csv",
@@ -5731,111 +4640,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-3-1-title"
-    },
-    {
-      "path": "15-a-1/data.csv",
-      "name": "15-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Environmental Conservation Expenditure",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Indicator Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proxy",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "US$ Million",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.15-a-1-title"
-    },
-    {
-      "path": "3-7-2/data.csv",
-      "name": "3-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Adolescent birth rate (aged 10-14 years; aged 15-19 years)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geographical Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Jamaica",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per 1,000 women in the specified age group",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-7-2-title"
+      "title": "Ratio of land consumption rate to population growth rate"
     },
     {
       "path": "3-3-2/data.csv",
@@ -5856,7 +4661,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tuberculosis incidence per 100,000 population",
+                "Tubercolosis incidence per 100.000 population",
                 ""
               ]
             }
@@ -5873,11 +4678,11 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.3-3-2-title"
+      "title": "Tuberculosis incidence per 100,000 population"
     },
     {
       "path": "1-5-4/data.csv",
@@ -5922,7 +4727,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-5-4-title"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
       "path": "2-1-1/data.csv",
@@ -5957,7 +4762,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-1-title"
+      "title": "Prevalence of undernourishment"
     },
     {
       "path": "12-5-1/data.csv",
@@ -6019,7 +4824,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-5-1-title"
+      "title": "National recycling rate, tons of material recycled"
     },
     {
       "path": "1-a-2/data.csv",
@@ -6063,7 +4868,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-2-title"
+      "title": "Proportion of total government spending on essential services (education, health and social protection)"
     },
     {
       "path": "3-1-1/data.csv",
@@ -6106,7 +4911,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-1-1-title"
+      "title": "Maternal mortality ratio"
     },
     {
       "path": "2-1-2/data.csv",
@@ -6161,7 +4966,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-2-title"
+      "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
       "path": "14-2-1/data.csv",
@@ -6230,7 +5035,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-2-1-title"
+      "title": "Number of countries using ecosystem-based approaches to managing marine areas"
     },
     {
       "path": "16-9-1/data.csv",
@@ -6252,17 +5057,6 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Male",
-                "Female",
-                "Urban",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centres",
-                "Rural",
-                "0-11 Months",
-                "12-23 Months",
-                "24-35 Months",
-                "36-47 Months",
-                "48-59 Months",
                 ""
               ]
             }
@@ -6273,66 +5067,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-9-1-title"
-    },
-    {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Type of school",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary school",
-                "Lower Secondary",
-                "Upper Secondary",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geographical region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centres",
-                "Rural",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "4-1-2"
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
       "path": "9-a-1/data.csv",
@@ -6366,7 +5101,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-a-1-title"
+      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
     },
     {
       "path": "8-3-1/data.csv",
@@ -6421,11 +5156,11 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.8-3-1-title"
+      "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
       "path": "7-2-1/data.csv",
@@ -6442,7 +5177,7 @@
             "type": "integer"
           },
           {
-            "name": "Source of Primary Energy Supply",
+            "name": "Source of primary energy supply",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6451,10 +5186,12 @@
                 "Wind",
                 "Coal",
                 "Bagasse",
-                "Natural Gas",
-                "Solar",
                 "Total Alternative Energy",
                 "Total",
+                "% Renewable Share",
+                "Natural Gas",
+                "Solar",
+                "Fuelwood",
                 "Per cent Renewable Share",
                 ""
               ]
@@ -6465,8 +5202,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "'000 boe",
-                "%",
+                "('000boe)",
+                "per cent",
+                "('000 boe)",
+                "(%)",
                 ""
               ]
             }
@@ -6477,7 +5216,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-2-1-title"
+      "title": "Renewable energy share in the total final energy consumption"
     },
     {
       "path": "4-c-1/data.csv",
@@ -6491,7 +5230,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Educational Level",
@@ -6501,18 +5240,7 @@
                 "Pre-Primary",
                 "Primary",
                 "Secondary",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Both Sexes",
-                "Male",
-                "Female",
+                "Pre Primary (Public Schools only)",
                 ""
               ]
             }
@@ -6523,7 +5251,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-c-1-title"
+      "title": "Proportion of teachers with the minimum required qualifications, by education leveli"
     },
     {
       "path": "15-1-1/data.csv",
@@ -6565,7 +5293,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-1-1-title"
+      "title": "Forest area as a proportion of total land area"
     },
     {
       "path": "4-2-2/data.csv",
@@ -6582,39 +5310,11 @@
             "type": "integer"
           },
           {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of children (one year before the official primary entry age attending an early childhood education programme)",
-                "Percentage of children (one year before the official primary entry age attending primary education)",
-                "Net attendance rate (adjusted)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Male",
-                "Female",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geographic Location",
+            "name": "Geographical Region",
             "type": "string",
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Urban",
-                "GKMA",
-                "OUC",
-                "Rural",
                 ""
               ]
             }
@@ -6625,54 +5325,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-2-2-title"
-    },
-    {
-      "path": "5-5-2/data.csv",
-      "name": "5-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of Female Managers",
-                "Total Managers",
-                "Proportion of Women in Managerial Positions",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Quarter",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "January Q1",
-                "April Q2",
-                "July Q3",
-                "October Q4",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-5-2-title"
+      "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
       "path": "2-5-1/data.csv",
@@ -6715,7 +5368,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-5-1-title"
+      "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
     },
     {
       "path": "3-4-2/data.csv",
@@ -6746,6 +5399,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Kingston",
+                "St. Andrew",
                 "Jamaica",
                 "Kingston & St Andrew",
                 "St Thomas",
@@ -6791,7 +5446,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-4-2-title"
+      "title": "Suicide mortality rate"
     },
     {
       "path": "3-3-1/data.csv",
@@ -6812,9 +5467,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of newly diagnosed cases of HIV",
+                "Number of New HIV infections per 1000 uninfected population",
                 "Number of newly diagnosed cases of HIV",
-                "HIV prevalence among pregnant women 15-24 years",
+                "Proportion of newly diagnosed cases of HIV",
                 ""
               ]
             }
@@ -6842,11 +5497,11 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.3-3-1-title"
+      "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
       "path": "3-3-3/data.csv",
@@ -6867,13 +5522,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Malaria incidence per 1000 population",
+                "Malaria incidence per 100.000 population",
                 ""
               ]
             }
           },
           {
-            "name": "Geographical Region",
+            "name": "Geogaphical Region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6888,49 +5543,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-3-title"
-    },
-    {
-      "path": "3-9-2/data.csv",
-      "name": "3-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.3-9-2-title"
+      "title": "Malaria incidence per 1,000 population"
     },
     {
       "path": "1-4-2/data.csv",
@@ -6980,7 +5593,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-2-title"
+      "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
     },
     {
       "path": "9-2-2/data.csv",
@@ -7027,7 +5640,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-2-2-title"
+      "title": "Manufacturing employment as a proportion of total employment"
     },
     {
       "path": "11-6-1/data.csv",
@@ -7073,7 +5686,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-6-1-title"
+      "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
     },
     {
       "path": "8-7-1/data.csv",
@@ -7094,36 +5707,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of boys in Child Labour",
-                "Proportion of Girls in Child Labour",
-                "Proportion of Children in Child Labour (Total)",
-                "Proportion of Children 5-12 years in Child Labour",
-                "Proportion of Children 13-14 years in Child Labour",
-                "Proportion of Children 15-17 years in Child Labour",
-                "Child Labour Urban Area",
-                "Child Labour Rural Area",
-                "Proportion of Boys doing Hazardous Work (%)",
-                "Proportion of Girls doing Hazardous Work (%)",
-                "Total Children doing Hazardous Work (%)",
-                "Proportion of children 5-12 years doing Hazardous Work",
-                "Proportion of children 13-14 years doing Hazardous Work",
-                "Proportion of children 15-17 years doing Hazardous Work",
-                "Proportion of children Urban Areas doing Hazardous Work",
-                "Proportion of children Rural Areas doing Hazardous Work",
-                "Proportion of Boys in Child Labour other than Hazardous Work",
-                "Proportion of Girls in Child Labour other than Hazardous Work",
-                "Proportion of Child Labour other than Hazardous Work (Total)",
-                "Proprtion of Children 5-12 years in Child Labour other than Hazardous Work",
-                "Proprtion of Children 13-14 years in Child Labour other than Hazardous Work",
-                "Proprtion of Children 15-17 years in Child Labour other than Hazardous Work",
-                "Proprtion of Children in Urban Areas in Child Labour other than Hazardous Work",
-                "Proprtion of Children in Rural Areas in Child Labour other than Hazardous Work",
-                "Percentage of Children aged 5-17 Years in Child Labour",
-                "Percentage of Children aged 5-17 Years in Child Labour - Poorest",
-                "Percentage of Children aged 5-17 Years in Child Labour - Second",
-                "Percentage of Children aged 5-17 Years in Child Labour - Middle",
-                "Percentage of Children aged 5-17 Years in Child Labour - Fourth",
-                "Percentage of Children aged 5-17 Years in Child Labour - Richest",
+                "Child Labour",
+                "Hazardous Work (%)",
+                "Child Labour other than Hazardous Work",
                 ""
               ]
             }
@@ -7136,8 +5722,6 @@
                 "Boy",
                 "Girl",
                 "Total",
-                "Male",
-                "Female",
                 ""
               ]
             }
@@ -7150,9 +5734,6 @@
                 "5-12 years",
                 "13-14 years",
                 "15-17 years",
-                "5-11",
-                "12-14",
-                "15-17",
                 ""
               ]
             }
@@ -7164,9 +5745,6 @@
               "enum": [
                 "Urban",
                 "Rural Area",
-                "Jamaica",
-                "GKMA",
-                "OUC",
                 ""
               ]
             }
@@ -7177,7 +5755,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-7-1-title"
+      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
       "path": "8-10-2/data.csv",
@@ -7210,7 +5788,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-10-2-title"
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
     },
     {
       "path": "3-2-1/data.csv",
@@ -7252,7 +5830,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-2-1-title"
+      "title": "Under‑5 mortality rate"
     },
     {
       "path": "9-1-1/data.csv",
@@ -7284,7 +5862,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-1-1-title"
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "16-5-1/data.csv",
@@ -7360,7 +5938,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-5-1-title"
+      "title": "Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
     },
     {
       "path": "12-4-2/data.csv",
@@ -7404,7 +5982,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-4-2-title"
+      "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
       "path": "2-2-1/data.csv",
@@ -7463,7 +6041,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-1-title"
+      "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age"
     },
     {
       "path": "15-7-1/data.csv",
@@ -7485,7 +6063,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-7-1-title"
+      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
     },
     {
       "path": "16-a-1/data.csv",
@@ -7507,7 +6085,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-a-1-title"
+      "title": "Existence of independent national human rights institutions in compliance with the Paris Principles"
     },
     {
       "path": "6-2-1b/data.csv",
@@ -7551,7 +6129,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-a-2-title"
+      "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
     },
     {
       "path": "16-7-2/data.csv",
@@ -7573,7 +6151,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-7-2-title"
+      "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
     },
     {
       "path": "14-a-1/data.csv",
@@ -7595,7 +6173,29 @@
           }
         ]
       },
-      "title": "global_indicators.14-a-1-title"
+      "title": "Proportion of total research budget allocated to research in the field of marine technology"
+    },
+    {
+      "path": "10-b-1/data.csv",
+      "name": "10-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "17-10-1/data.csv",
@@ -7617,7 +6217,29 @@
           }
         ]
       },
-      "title": "global_indicators.17-10-1-title"
+      "title": "Worldwide weighted tariff-average"
+    },
+    {
+      "path": "16-4-2/data.csv",
+      "name": "16-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
     },
     {
       "path": "13-2-2/data.csv",
@@ -7639,7 +6261,7 @@
           }
         ]
       },
-      "title": "13-2-2"
+      "title": "Total greenhouse gas emissions per year"
     },
     {
       "path": "10-3-1/data.csv",
@@ -7661,7 +6283,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-3-1-title"
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
     },
     {
       "path": "2-b-1/data.csv",
@@ -7683,7 +6305,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-b-1-title"
+      "title": "Agricultural export subsidies"
     },
     {
       "path": "17-9-1/data.csv",
@@ -7705,7 +6327,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-9-1-title"
+      "title": "Dollar value of official development assistance committed to developing countries"
     },
     {
       "path": "14-7-1/data.csv",
@@ -7727,7 +6349,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-7-1-title"
+      "title": "Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries"
     },
     {
       "path": "16-5-2/data.csv",
@@ -7749,7 +6371,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-5-2-title"
+      "title": "Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
     },
     {
       "path": "17-15-1/data.csv",
@@ -7771,7 +6393,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-15-1-title"
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation"
     },
     {
       "path": "10-7-2/data.csv",
@@ -7793,7 +6415,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-7-2-title"
+      "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
     },
     {
       "path": "15-c-1/data.csv",
@@ -7815,7 +6437,51 @@
           }
         ]
       },
-      "title": "global_indicators.15-c-1-title"
+      "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
+    },
+    {
+      "path": "11-b-1/data.csv",
+      "name": "11-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
+    },
+    {
+      "path": "16-2-2/data.csv",
+      "name": "16-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
     },
     {
       "path": "3-8-1/data.csv",
@@ -7837,7 +6503,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-8-1-title"
+      "title": "Coverage of essential health services"
     },
     {
       "path": "5-6-1/data.csv",
@@ -7859,7 +6525,29 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-1-title"
+      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+    },
+    {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of women in managerial positions"
     },
     {
       "path": "2-3-2/data.csv",
@@ -7881,7 +6569,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-3-2-title"
+      "title": "Average income of small-scale food producers, by sex and indigenous status"
     },
     {
       "path": "7-a-1/data.csv",
@@ -7903,7 +6591,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-a-1-title"
+      "title": "International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems"
     },
     {
       "path": "17-18-2/data.csv",
@@ -7925,7 +6613,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-2-title"
+      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
     },
     {
       "path": "8-4-1/data.csv",
@@ -7947,7 +6635,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-4-1-title"
+      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
       "path": "17-6-1/data.csv",
@@ -7969,7 +6657,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-6-1-title"
+      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed"
     },
     {
       "path": "15-9-1/data.csv",
@@ -7991,7 +6679,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-9-1-title"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
     },
     {
       "path": "9-b-1/data.csv",
@@ -8013,7 +6701,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-b-1-title"
+      "title": "Proportion of medium and high-tech industry value added in total value added"
     },
     {
       "path": "16-6-2/data.csv",
@@ -8035,7 +6723,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-6-2-title"
+      "title": "Proportion of population satisfied with their last experience of public services"
     },
     {
       "path": "15-8-1/data.csv",
@@ -8057,7 +6745,29 @@
           }
         ]
       },
-      "title": "global_indicators.15-8-1-title"
+      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+    },
+    {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
       "path": "1-a-3/data.csv",
@@ -8101,7 +6811,29 @@
           }
         ]
       },
-      "title": "global_indicators.12-c-1-title"
+      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
+    },
+    {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
       "path": "10-4-2/data.csv",
@@ -8123,7 +6855,7 @@
           }
         ]
       },
-      "title": "10-4-2"
+      "title": "Redistributive impact of fiscal policy on the Gini index"
     },
     {
       "path": "1-2-2/data.csv",
@@ -8145,7 +6877,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-2-title"
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
       "path": "3-d-2/data.csv",
@@ -8167,7 +6899,7 @@
           }
         ]
       },
-      "title": "3-d-2"
+      "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organismsi"
     },
     {
       "path": "8-8-2/data.csv",
@@ -8189,7 +6921,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-8-2-title"
+      "title": "Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status"
     },
     {
       "path": "15-b-1/data.csv",
@@ -8211,7 +6943,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-b-1-title"
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "11-3-2/data.csv",
@@ -8233,7 +6965,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-3-2-title"
+      "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
     },
     {
       "path": "11-a-1/data.csv",
@@ -8255,7 +6987,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-a-1-title"
+      "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
     },
     {
       "path": "5-c-1/data.csv",
@@ -8277,7 +7009,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-c-1-title"
+      "title": "Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment"
     },
     {
       "path": "12-a-1/data.csv",
@@ -8299,7 +7031,29 @@
           }
         ]
       },
-      "title": "global_indicators.12-a-1-title"
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+    },
+    {
+      "path": "16-4-1/data.csv",
+      "name": "16-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Total value of inward and outward illicit financial flows (in current United States dollars)"
     },
     {
       "path": "10-6-1/data.csv",
@@ -8321,7 +7075,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-6-1-title"
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "9-3-2/data.csv",
@@ -8343,7 +7097,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-3-2-title"
+      "title": "Proportion of small-scale industries with a loan or line of credit"
     },
     {
       "path": "5-a-1/data.csv",
@@ -8365,7 +7119,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-a-1-title"
+      "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
     },
     {
       "path": "17-13-1/data.csv",
@@ -8387,7 +7141,29 @@
           }
         ]
       },
-      "title": "global_indicators.17-13-1-title"
+      "title": "Macroeconomic Dashboard"
+    },
+    {
+      "path": "3-9-2/data.csv",
+      "name": "3-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
     },
     {
       "path": "13-2-1/data.csv",
@@ -8409,7 +7185,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-2-1-title"
+      "title": "Number of countries with reports under the Paris Agreement, as submitted to the secretariat of the United Nations Framework Convention on Climate Change"
     },
     {
       "path": "9-5-1/data.csv",
@@ -8431,7 +7207,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-5-1-title"
+      "title": "Research and development expenditure as a proportion of GDP"
     },
     {
       "path": "3-b-3/data.csv",
@@ -8453,7 +7229,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-b-3-title"
+      "title": "Health product access index"
     },
     {
       "path": "17-17-1/data.csv",
@@ -8475,7 +7251,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-17-1-title"
+      "title": "Amount in United States dollars committed to public-private partnerships for infrastructure"
     },
     {
       "path": "17-7-1/data.csv",
@@ -8497,7 +7273,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-7-1-title"
+      "title": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "16-10-2/data.csv",
@@ -8519,7 +7295,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-10-2-title"
+      "title": "Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
     },
     {
       "path": "10-7-3/data.csv",
@@ -8541,7 +7317,7 @@
           }
         ]
       },
-      "title": "10-7-3"
+      "title": "Number of people who died or disappeared in the process of migration towards an international destinationi"
     },
     {
       "path": "17-2-1/data.csv",
@@ -8563,7 +7339,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-2-1-title"
+      "title": "Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)"
     },
     {
       "path": "13-a-1/data.csv",
@@ -8585,7 +7361,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-a-1-title"
+      "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
     },
     {
       "path": "1-b-1/data.csv",
@@ -8607,7 +7383,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-b-1-title"
+      "title": "Pro-poor public social spending"
     },
     {
       "path": "16-10-1/data.csv",
@@ -8629,7 +7405,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-10-1-title"
+      "title": "Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
     },
     {
       "path": "6-4-1/data.csv",
@@ -8651,7 +7427,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-4-1-title"
+      "title": "Change in water-use efficiency over time"
     },
     {
       "path": "17-18-3/data.csv",
@@ -8673,7 +7449,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-18-3-title"
+      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
       "path": "16-1-2/data.csv",
@@ -8695,7 +7471,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-1-2-title"
+      "title": "Conflict-related deaths per 100,000 population, by sex, age and cause"
     },
     {
       "path": "2-4-1/data.csv",
@@ -8717,7 +7493,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-4-1-title"
+      "title": "Proportion of agricultural area under productive and sustainable agriculture"
     },
     {
       "path": "7-3-1/data.csv",
@@ -8739,7 +7515,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-3-1-title"
+      "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
       "path": "9-3-1/data.csv",
@@ -8761,7 +7537,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-3-1-title"
+      "title": "Proportion of small-scale industries in total industry value added, based on (a) international classification and (b) national classifications"
     },
     {
       "path": "1-a-1/data.csv",
@@ -8783,7 +7559,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-a-1-title"
+      "title": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "9-5-2/data.csv",
@@ -8805,7 +7581,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-5-2-title"
+      "title": "Researchers (in full-time equivalent) per million inhabitants"
     },
     {
       "path": "16-3-3/data.csv",
@@ -8827,7 +7603,7 @@
           }
         ]
       },
-      "title": "16-3-3"
+      "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
     },
     {
       "path": "14-4-1/data.csv",
@@ -8849,7 +7625,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-4-1-title"
+      "title": "Proportion of fish stocks within biologically sustainable levels"
     },
     {
       "path": "14-6-1/data.csv",
@@ -8871,7 +7647,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-6-1-title"
+      "title": "Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing"
     },
     {
       "path": "9-4-1/data.csv",
@@ -8893,7 +7669,7 @@
           }
         ]
       },
-      "title": "global_indicators.9-4-1-title"
+      "title": "CO2 emission per unit of value added"
     },
     {
       "path": "16-8-1/data.csv",
@@ -8915,7 +7691,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-8-1-title"
+      "title": "Proportion of members and voting rights of developing countries in international organizations"
     },
     {
       "path": "12-3-1/data.csv",
@@ -8937,7 +7713,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-3-1-title"
+      "title": "(a) Food loss index and (b) food waste index"
     },
     {
       "path": "3-3-5/data.csv",
@@ -8959,7 +7735,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-3-5-title"
+      "title": "Number of people requiring interventions against neglected tropical diseases"
     },
     {
       "path": "2-c-1/data.csv",
@@ -8981,7 +7757,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-c-1-title"
+      "title": "Indicator of food price anomalies"
     },
     {
       "path": "11-4-1/data.csv",
@@ -9003,7 +7779,73 @@
           }
         ]
       },
-      "title": "global_indicators.11-4-1-title"
+      "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
+    },
+    {
+      "path": "4-b-1/data.csv",
+      "name": "4-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Volume of official development assistance flows for scholarships"
+    },
+    {
+      "path": "11-b-2/data.csv",
+      "name": "11-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+    },
+    {
+      "path": "3-a-1/data.csv",
+      "name": "3-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
       "path": "16-6-1/data.csv",
@@ -9025,7 +7867,29 @@
           }
         ]
       },
-      "title": "global_indicators.16-6-1-title"
+      "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+    },
+    {
+      "path": "15-a-1/data.csv",
+      "name": "15-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments"
     },
     {
       "path": "16-2-3/data.csv",
@@ -9047,7 +7911,7 @@
           }
         ]
       },
-      "title": "global_indicators.16-2-3-title"
+      "title": "Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18"
     },
     {
       "path": "13-1-2/data.csv",
@@ -9069,7 +7933,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-1-2-title"
+      "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
       "path": "12-1-1/data.csv",
@@ -9091,7 +7955,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-1-1-title"
+      "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
     },
     {
       "path": "14-3-1/data.csv",
@@ -9113,7 +7977,29 @@
           }
         ]
       },
-      "title": "global_indicators.14-3-1-title"
+      "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations"
+    },
+    {
+      "path": "10-c-1/data.csv",
+      "name": "10-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Remittance costs as a proportion of the amount remitted"
     },
     {
       "path": "6-b-1/data.csv",
@@ -9135,7 +8021,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-b-1-title"
+      "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
     },
     {
       "path": "15-6-1/data.csv",
@@ -9157,7 +8043,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-6-1-title"
+      "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
     },
     {
       "path": "1-4-1/data.csv",
@@ -9179,7 +8065,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-1-title"
+      "title": "Proportion of population living in households with access to basic services"
     },
     {
       "path": "14-c-1/data.csv",
@@ -9201,7 +8087,7 @@
           }
         ]
       },
-      "title": "global_indicators.14-c-1-title"
+      "title": "Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources"
     },
     {
       "path": "12-b-1/data.csv",
@@ -9223,7 +8109,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-b-1-title"
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
       "path": "13-3-2/data.csv",
@@ -9267,7 +8153,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-14-1-title"
+      "title": "Number of countries with mechanisms in place to enhance policy coherence of sustainable development"
     },
     {
       "path": "5-1-1/data.csv",
@@ -9289,7 +8175,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-1-1-title"
+      "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex"
     },
     {
       "path": "8-5-1/data.csv",
@@ -9311,7 +8197,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-5-1-title"
+      "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
       "path": "11-c-1/data.csv",
@@ -9333,7 +8219,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-c-1-title"
+      "title": "Total official development assistance and other official flows in support of urban infrastructure or urban infrastructure projects, by sector"
     },
     {
       "path": "2-3-1/data.csv",
@@ -9355,7 +8241,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-3-1-title"
+      "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
     },
     {
       "path": "17-16-1/data.csv",
@@ -9377,7 +8263,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-16-1-title"
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
       "path": "12-7-1/data.csv",
@@ -9399,7 +8285,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-7-1-title"
+      "title": "Number of countries implementing sustainable public procurement policies and action plans"
     },
     {
       "path": "10-2-1/data.csv",
@@ -9421,7 +8307,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-2-1-title"
+      "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
     },
     {
       "path": "2-2-3/data.csv",
@@ -9443,7 +8329,7 @@
           }
         ]
       },
-      "title": "2-2-3"
+      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
     },
     {
       "path": "15-70-1/data.csv",
@@ -9487,7 +8373,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-12-1-title"
+      "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
     },
     {
       "path": "12-8-1/data.csv",
@@ -9509,7 +8395,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-8-1-title"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "14-b-1/data.csv",
@@ -9531,7 +8417,51 @@
           }
         ]
       },
-      "title": "global_indicators.14-b-1-title"
+      "title": "Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries"
+    },
+    {
+      "path": "6-a-1/data.csv",
+      "name": "6-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+    },
+    {
+      "path": "7-b-1/data.csv",
+      "name": "7-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
     },
     {
       "path": "17-5-1/data.csv",
@@ -9553,7 +8483,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-5-1-title"
+      "title": "Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries"
     },
     {
       "path": "17-19-1/data.csv",
@@ -9575,7 +8505,7 @@
           }
         ]
       },
-      "title": "global_indicators.17-19-1-title"
+      "title": "Dollar value of all resources made available to strengthen statistical capacity in developing countries"
     },
     {
       "path": "5-6-2/data.csv",
@@ -9597,7 +8527,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-6-2-title"
+      "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
     },
     {
       "path": "10-7-4/data.csv",
@@ -9619,7 +8549,7 @@
           }
         ]
       },
-      "title": "10-7-4"
+      "title": "Proportion of the population who are refugees, by country of origin"
     },
     {
       "path": "12-6-1/data.csv",
@@ -9641,7 +8571,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-6-1-title"
+      "title": "Number of companies publishing sustainability reports"
     },
     {
       "path": "5-4-1/data.csv",
@@ -9663,7 +8593,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-4-1-title"
+      "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
     },
     {
       "path": "8-9-2/data.csv",
@@ -9685,7 +8615,29 @@
           }
         ]
       },
-      "title": "global_indicators.8-9-2-title"
+      "title": "Employed persons in the tourism industries"
+    },
+    {
+      "path": "3-3-4/data.csv",
+      "name": "3-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Hepatitis B incidence per 100,000 population"
     },
     {
       "path": "10-7-1/data.csv",
@@ -9707,7 +8659,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-7-1-title"
+      "title": "Recruitment cost borne by employee as a proportion of monthly income earned in country of destination"
     },
     {
       "path": "16-b-1/data.csv",
@@ -9729,7 +8681,51 @@
           }
         ]
       },
-      "title": "global_indicators.16-b-1-title"
+      "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law"
+    },
+    {
+      "path": "3-7-2/data.csv",
+      "name": "3-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
+    },
+    {
+      "path": "15-3-1/data.csv",
+      "name": "15-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of land that is degraded over total land area"
     },
     {
       "path": "6-5-2/data.csv",
@@ -9751,7 +8747,7 @@
           }
         ]
       },
-      "title": "global_indicators.6-5-2-title"
+      "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
     },
     {
       "path": "12-4-1/data.csv",
@@ -9773,7 +8769,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-4-1-title"
+      "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
     },
     {
       "path": "12-2-1/data.csv",
@@ -9795,7 +8791,7 @@
           }
         ]
       },
-      "title": "global_indicators.12-2-1-title"
+      "title": "Material footprint, material footprint per capita, and material footprint per GDP"
     },
     {
       "path": "4-7-1/data.csv",
@@ -9817,7 +8813,7 @@
           }
         ]
       },
-      "title": "global_indicators.4-7-1-title"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "2-a-1/data.csv",
@@ -9839,7 +8835,51 @@
           }
         ]
       },
-      "title": "global_indicators.2-a-1-title"
+      "title": "The agriculture orientation index for government expenditures"
+    },
+    {
+      "path": "8-8-1/data.csv",
+      "name": "8-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+    },
+    {
+      "path": "6-3-2/data.csv",
+      "name": "6-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Proportion of bodies of water with good ambient water quality"
     },
     {
       "path": "3-9-1/data.csv",
@@ -9861,7 +8901,7 @@
           }
         ]
       },
-      "title": "global_indicators.3-9-1-title"
+      "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
       "path": "15-2-1/data.csv",
@@ -9883,7 +8923,7 @@
           }
         ]
       },
-      "title": "global_indicators.15-2-1-title"
+      "title": "Progress towards sustainable forest management"
     },
     {
       "path": "10-a-1/data.csv",
@@ -9905,7 +8945,7 @@
           }
         ]
       },
-      "title": "global_indicators.10-a-1-title"
+      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
     },
     {
       "path": "5-3-2/data.csv",
@@ -9927,7 +8967,7 @@
           }
         ]
       },
-      "title": "global_indicators.5-3-2-title"
+      "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
       "path": "13-3-1/data.csv",
@@ -9949,7 +8989,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-3-1-title"
+      "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
     },
     {
       "path": "8-4-2/data.csv",
@@ -9971,7 +9011,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-4-2-title"
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "13-b-1/data.csv",
@@ -9993,7 +9033,7 @@
           }
         ]
       },
-      "title": "global_indicators.13-b-1-title"
+      "title": "Number of least developed countries and small island developing States with reports under the Paris Agreement, as submitted to the secretariat of the United Nations Framework Convention on Climate Change"
     },
     {
       "path": "8-a-1/data.csv",
@@ -10015,7 +9055,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-a-1-title"
+      "title": "Aid for Trade commitments and disbursements"
     },
     {
       "path": "8-b-1/data.csv",
@@ -10037,7 +9077,7 @@
           }
         ]
       },
-      "title": "global_indicators.8-b-1-title"
+      "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
     },
     {
       "path": "11-7-1/data.csv",
@@ -10059,7 +9099,51 @@
           }
         ]
       },
-      "title": "global_indicators.11-7-1-title"
+      "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Prevalence of minimum dietary diversity, by population group (children aged 6 to 23.9 months and non-pregnant women aged 15 to 49 years)"
+    },
+    {
+      "path": "11-5-3/data.csv",
+      "name": "11-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "(a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters"
     }
   ]
 }

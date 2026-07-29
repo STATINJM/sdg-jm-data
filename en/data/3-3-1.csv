@@ -1,50 +1,18 @@
 Year,HIV Indicators,Geographical Region,Sex,Value
-2014,Proportion of newly diagnosed cases of HIV,Jamaica,,0.44
-2015,Proportion of newly diagnosed cases of HIV,Jamaica,,0.5
-2016,Proportion of newly diagnosed cases of HIV,Jamaica,,0.5
-2017,Proportion of newly diagnosed cases of HIV,Jamaica,,0.5
-2018,Proportion of newly diagnosed cases of HIV,Jamaica,,0.5
-2019,Proportion of newly diagnosed cases of HIV,Jamaica,,0.5
-2020,Proportion of newly diagnosed cases of HIV,Jamaica,,0.5
-2021,Proportion of newly diagnosed cases of HIV,Jamaica,,0.6
-2022,Proportion of newly diagnosed cases of HIV,Jamaica,,0.5
-2023,Proportion of newly diagnosed cases of HIV,Jamaica,,0.4
-2013,Number of newly diagnosed cases of HIV,Jamaica,,1266
-2014,Number of newly diagnosed cases of HIV,Jamaica,,1189
-2015,Number of newly diagnosed cases of HIV,Jamaica,,1062
-2016,Number of newly diagnosed cases of HIV,Jamaica,,1241
-2017,Number of newly diagnosed cases of HIV,Jamaica,,1197
-2018,Number of newly diagnosed cases of HIV,Jamaica,,1165
-2019,Number of newly diagnosed cases of HIV,Jamaica,,1092
-2020,Number of newly diagnosed cases of HIV,Jamaica,,927
-2021,Number of newly diagnosed cases of HIV,Jamaica,,786
-2022,Number of newly diagnosed cases of HIV,Jamaica,,771
-2019,Number of newly diagnosed cases of HIV,,Male,573
-2020,Number of newly diagnosed cases of HIV,,Male,473
-2021,Number of newly diagnosed cases of HIV,,Male,387
-2022,Number of newly diagnosed cases of HIV,,Male,384
-2019,Number of newly diagnosed cases of HIV,,Female,519
-2020,Number of newly diagnosed cases of HIV,,Female,454
-2021,Number of newly diagnosed cases of HIV,,Female,399
-2022,Number of newly diagnosed cases of HIV,,Female,387
+2014,Number of New HIV infections per 1000 uninfected population,Jamaica,,0.44
+2015,Number of New HIV infections per 1000 uninfected population,Jamaica,,0.39
+2016,Number of New HIV infections per 1000 uninfected population,Jamaica,,0.45
+2017,Number of New HIV infections per 1000 uninfected population,Jamaica,,0.44
+2018,Number of New HIV infections per 1000 uninfected population,Jamaica,,0.43
+2014,Number of newly diagnosed cases of HIV,Jamaica,,1189.0
 2014,Proportion of newly diagnosed cases of HIV,,Male,49.2
-2015,Proportion of newly diagnosed cases of HIV,,Male,51.1
-2016,Proportion of newly diagnosed cases of HIV,,Male,53.3
-2017,Proportion of newly diagnosed cases of HIV,,Male,51.9
-2018,Proportion of newly diagnosed cases of HIV,,Male,n.a
-2019,Proportion of newly diagnosed cases of HIV,,Male,52.50
-2020,Proportion of newly diagnosed cases of HIV,,Male,51.00
-2021,Proportion of newly diagnosed cases of HIV,,Male,49.20
-2022,Proportion of newly diagnosed cases of HIV,,Male,49.80
 2014,Proportion of newly diagnosed cases of HIV,,Female,50.8
+2015,Number of newly diagnosed cases of HIV,Jamaica,,1062.0
+2015,Proportion of newly diagnosed cases of HIV,,Male,51.1
 2015,Proportion of newly diagnosed cases of HIV,,Female,48.9
-2016,Proportion of newly diagnosed cases of HIV,,Female,46.7
+2016,Number of newly diagnosed cases of HIV,Jamaica,,1241.0
+2016,Proportion of newly diagnosed cases of HIV,,Male,53.3
+2016,Proportion of newly diagnosed cases of HIV,,Female,45.7
+2017,Number of newly diagnosed cases of HIV,Jamaica,,1197.0
+2017,Proportion of newly diagnosed cases of HIV,,Male,51.9
 2017,Proportion of newly diagnosed cases of HIV,,Female,48.1
-2018,Proportion of newly diagnosed cases of HIV,,Female,n.a
-2019,Proportion of newly diagnosed cases of HIV,,Female,47.50
-2020,Proportion of newly diagnosed cases of HIV,,Female,49.00
-2021,Proportion of newly diagnosed cases of HIV,,Female,50.80
-2022,Proportion of newly diagnosed cases of HIV,,Female,50.20
-2021,HIV prevalence among pregnant women 15-24 years,,,0.011
-2022,HIV prevalence among pregnant women 15-24 years,,,0.011
-2023,HIV prevalence among pregnant women 15-24 years,,,0.011

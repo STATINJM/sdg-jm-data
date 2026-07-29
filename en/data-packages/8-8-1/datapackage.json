@@ -12,37 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
           },
           {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-Fatal Injuries",
-                "Fatal Injuries",
-                ""
-              ]
-            },
-            "title": "Type"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                "Total",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

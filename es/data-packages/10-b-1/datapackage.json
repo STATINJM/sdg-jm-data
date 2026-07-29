@@ -12,41 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Reported Amount",
-                ""
-              ]
-            },
-            "title": "Category"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "US$ Million",
-                ""
-              ]
-            },
-            "title": "Unit"
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PIOJ",
-                ""
-              ]
-            },
-            "title": "Source"
           },
           {
             "name": "Value",
@@ -59,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "10-b-1",
-  "title": "Corrientes totales de recursos para el desarrollo, desglosadas por país receptor y país donante y por tipo de corriente (por ejemplo, asistencia oficial para el desarrollo, inversión extranjera directa y otras corrientes)"
+  "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
 }

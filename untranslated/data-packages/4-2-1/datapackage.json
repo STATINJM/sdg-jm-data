@@ -25,7 +25,6 @@
                 "Learning",
                 "Early Childhood Development Index Score",
                 "Number of children age 36-59 months",
-                "Percentage who are developmentally on track",
                 ""
               ]
             }
@@ -37,7 +36,6 @@
               "enum": [
                 "Male",
                 "Female",
-                "Total",
                 ""
               ]
             }
@@ -51,8 +49,6 @@
                 "Other Towns",
                 "Urban",
                 "Rural",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centres",
                 ""
               ]
             }
@@ -64,9 +60,6 @@
               "enum": [
                 "36-47 months",
                 "48-59 months",
-                "Age 2 years old",
-                "Age 3 years old",
-                "Age 4 years old",
                 ""
               ]
             }
@@ -92,6 +85,7 @@
                 "Middle",
                 "Fourth",
                 "Richest",
+                "Total",
                 ""
               ]
             }
@@ -106,5 +100,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-1",
-  "title": "global_indicators.4-2-1-title"
+  "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
 }

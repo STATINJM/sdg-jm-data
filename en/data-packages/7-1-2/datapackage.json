@@ -16,20 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of Household that used Gas and Electricity for Cooking",
-                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for Cooking",
-                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for Lighting",
-                "Proportion of Population with Primary Reliance on Clean Fuels and Technology for both Cooking and Lighting",
-                ""
-              ]
-            },
-            "title": "category"
-          },
-          {
             "name": "Geographical Region",
             "type": "string",
             "constraints": {
@@ -38,7 +24,6 @@
                 "Rural",
                 "Greater Kingston Metropolitan Area",
                 "Other Urban Centres",
-                "Urban",
                 ""
               ]
             },

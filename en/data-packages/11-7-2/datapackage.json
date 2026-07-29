@@ -16,28 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "Type of Violence",
+            "name": "Type of Assault",
             "type": "string",
             "constraints": {
               "enum": [
                 "Aggravated Assault",
-                "Total Sexual Violence",
                 "Rape",
+                "Total Sexual Violence",
                 ""
               ]
             },
-            "title": "Type of Violence"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                ""
-              ]
-            },
-            "title": "Unit"
+            "title": "Type of Assault"
           },
           {
             "name": "Value",
@@ -50,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "11-7-2",
-  "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+  "title": "Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
 }

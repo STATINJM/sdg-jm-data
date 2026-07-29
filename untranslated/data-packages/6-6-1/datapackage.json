@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Category",
+            "name": "Indicators",
             "type": "string",
             "constraints": {
               "enum": [
@@ -30,12 +30,11 @@
             }
           },
           {
-            "name": "Unit",
+            "name": "Geographic Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Per cent",
-                "Km2",
+                "Jamaica",
                 ""
               ]
             }
@@ -50,5 +49,5 @@
   ],
   "profile": "data-package",
   "name": "6-6-1",
-  "title": "global_indicators.6-6-1-title"
+  "title": "Change in the extent of water-related ecosystems over time"
 }

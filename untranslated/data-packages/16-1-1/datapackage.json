@@ -15,22 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total Victims",
-                "Victim Rate",
-                "Type of Weapon - Gun",
-                "Type of Weapon - Sharp Instrument",
-                "Type of Weapon - Other",
-                "Situational Context - By Intimate Partner or Family Member",
-                "Situational Context - Committed by Others including Acquaintances",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Geographical Region",
             "type": "string",
             "constraints": {
@@ -45,20 +29,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
                 "Male",
-                "Total",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number",
-                "Per 100,000 population",
+                "Female",
                 ""
               ]
             }
@@ -73,5 +45,5 @@
   ],
   "profile": "data-package",
   "name": "16-1-1",
-  "title": "global_indicators.16-1-1-title"
+  "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
 }

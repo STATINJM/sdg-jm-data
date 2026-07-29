@@ -1,3 +1,5 @@
 From,To
-Ratio,Geographical Region
-Ratio,Wealth Index Quintiles
+School Type,Index
+Index,Sex
+Index,Geographic Area
+Index,Wealth Index Quintiles

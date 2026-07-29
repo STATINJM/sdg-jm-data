@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Source of Primary Energy Supply",
+            "name": "Source of primary energy supply",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,10 +24,12 @@
                 "Wind",
                 "Coal",
                 "Bagasse",
-                "Natural Gas",
-                "Solar",
                 "Total Alternative Energy",
                 "Total",
+                "% Renewable Share",
+                "Natural Gas",
+                "Solar",
+                "Fuelwood",
                 "Per cent Renewable Share",
                 ""
               ]
@@ -38,8 +40,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "'000 boe",
-                "%",
+                "('000boe)",
+                "per cent",
+                "('000 boe)",
+                "(%)",
                 ""
               ]
             }
@@ -54,5 +58,5 @@
   ],
   "profile": "data-package",
   "name": "7-2-1",
-  "title": "global_indicators.7-2-1-title"
+  "title": "Renewable energy share in the total final energy consumption"
 }

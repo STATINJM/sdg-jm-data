@@ -1,1 +1,1 @@
-{"data":{"Year":[2019,2020,2021,2022],"Hepatitis B Indicator":["Hepatitis B incidence per 100,000 population","Hepatitis B incidence per 100,000 population","Hepatitis B incidence per 100,000 population","Hepatitis B incidence per 100,000 population"],"Geographical Region":["Jamaica","Jamaica","Jamaica","Jamaica"],"Value":[24,10,13,37]},"edges":{"From":["Hepatitis B Indicator"],"To":["Geographical Region"]}}
+{"data":[],"edges":[]}

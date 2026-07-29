@@ -12,31 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Hepatitis B Indicator",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hepatitis B incidence per 100,000 population",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geographical Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Jamaica",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
@@ -44,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-4",
-  "title": "global_indicators.3-3-4-title"
+  "title": "Hepatitis B incidence per 100,000 population"
 }

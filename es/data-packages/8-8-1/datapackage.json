@@ -12,37 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
           },
           {
-            "name": "Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Non-Fatal Injuries",
-                "Fatal Injuries",
-                ""
-              ]
-            },
-            "title": "Type"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                "Total",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -51,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "8-8-1",
-  "title": "Lesiones ocupacionales mortales y no mortales por cada 100.000 trabajadores, desglosadas por sexo y estatus migratorio"
+  "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
 }

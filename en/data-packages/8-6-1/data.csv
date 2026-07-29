@@ -1,28 +1,7 @@
-Year,Sex,quarter,Value
-2013,Total,Quarter 1,30.3
-2013,Male,Quarter 1,24.6
-2013,Female,Quarter 1,36.1
-2015,Total,Quarter 1,34.9
-2015,Male,Quarter 1,38.8
-2015,Female,Quarter 1,31.2
-2024,Total,Quarter 1,20.5
-2024,Male,Quarter 1,19.8
-2024,Female,Quarter 1,21.3
-2024,Total,Quarter 2,19.1
-2024,Male,Quarter 2,19.4
-2024,Female,Quarter 2,18.8
-2024,Total,Quarter 3,25.2
-2024,Male,Quarter 3,25.3
-2024,Female,Quarter 3,25.1
-2024,Total,Quarter 4,22.2
-2024,Male,Quarter 4,21.0
-2024,Female,Quarter 4,23.5
-2025,Total,Quarter 1,21.5
-2025,Male,Quarter 1,21.9
-2025,Female,Quarter 1,21.1
-2025,Total,Quarter 2,17.7
-2025,Male,Quarter 2,17.4
-2025,Female,Quarter 2,18.0
-2025,Total,Quarter 3,25.5
-2025,Male,Quarter 3,23.9
-2025,Female,Quarter 3,27.1
+Year,Geographical Region,Sex,Value
+2013,Jamaica,,30.3
+2013,Jamaica,Male,24.6
+2013,Jamaica,Female,36.1
+2015,Jamaica,,34.9
+2015,Jamaica,Male,38.8
+2015,Jamaica,Female,31.2

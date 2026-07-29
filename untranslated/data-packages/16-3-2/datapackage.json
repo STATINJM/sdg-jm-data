@@ -19,6 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Unsentenced Adult",
+                "Unsentenced Juvenile",
                 "Unsentenced Detainees",
                 ""
               ]
@@ -54,5 +56,5 @@
   ],
   "profile": "data-package",
   "name": "16-3-2",
-  "title": "global_indicators.16-3-2-title"
+  "title": "Unsentenced detainees as a proportion of overall prison population"
 }

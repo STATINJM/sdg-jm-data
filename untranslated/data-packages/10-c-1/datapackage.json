@@ -12,43 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Fee",
-                "Exchange Rate Margin (%)",
-                "Total Cost (%)",
-                "Total Cost CAD",
-                "Total Cost USD",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geographical Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Canada",
-                "United States",
-                "United Kingdom",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Source",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "World Bank",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
@@ -60,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "10-c-1",
-  "title": "global_indicators.10-c-1-title"
+  "title": "Remittance costs as a proportion of the amount remitted"
 }

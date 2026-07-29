@@ -12,36 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Disaggregation Level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                "Total",
-                "17 Years and Under",
-                "18 Years and Older",
-                "Type of Exploitation - Sexual",
-                "Type of Exploitation - Labour",
-                ""
-              ]
-            },
-            "title": "Disaggregation Level"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",

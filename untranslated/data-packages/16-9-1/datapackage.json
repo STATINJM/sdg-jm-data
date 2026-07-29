@@ -20,17 +20,6 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Male",
-                "Female",
-                "Urban",
-                "Greater Kingston Metropolitan Area",
-                "Other Urban Centres",
-                "Rural",
-                "0-11 Months",
-                "12-23 Months",
-                "24-35 Months",
-                "36-47 Months",
-                "48-59 Months",
                 ""
               ]
             }
@@ -45,5 +34,5 @@
   ],
   "profile": "data-package",
   "name": "16-9-1",
-  "title": "global_indicators.16-9-1-title"
+  "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
 }

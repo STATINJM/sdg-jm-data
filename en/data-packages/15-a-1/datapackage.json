@@ -12,41 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Description",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Environmental Conservation Expenditure",
-                ""
-              ]
-            },
-            "title": "Description"
-          },
-          {
-            "name": "Indicator Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proxy",
-                ""
-              ]
-            },
-            "title": "Indicator Type"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "US$ Million",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",
