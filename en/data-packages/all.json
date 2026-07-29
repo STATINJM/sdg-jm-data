@@ -3224,12 +3224,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population covered by PATH",
                 "Persons Registered with the National Insurance Scheme",
+                "Population covered by PATH",
+                "Indoor Persons Registered on Poor Relief Programme",
                 "Registered with Jamaica Drugs for the Elderly Programme",
                 "Registered with the National Health Fund",
                 "Outdoor Persons Registered on Poor Relief Programme",
-                "Indoor Persons Registered on Poor Relief Programme",
                 ""
               ]
             },
@@ -3241,6 +3241,24 @@
             "constraints": {
               "enum": [
                 "Jamaica",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban Centre",
+                "Rural",
+                "St Catherine",
+                "Kingston & St Andrew",
+                "St Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "Urban",
+                "Other Urban Centres",
                 ""
               ]
             },
@@ -3254,6 +3272,16 @@
                 "Male",
                 "Female",
                 "Total",
+                "Children",
+                "Adult",
+                "Persons with disabilities",
+                "Elderly",
+                "Pregnant and Lactating Women",
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
                 ""
               ]
             },
@@ -3264,9 +3292,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "per cent",
                 "Number",
+                "per 100,000 population",
                 "per 100.000 population",
+                "Per cent",
                 ""
               ]
             },
@@ -3274,7 +3304,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

@@ -1,4 +1,4 @@
 From,To
-Type of Benefit,Geographic Region
-Geographic Region,Unit
+Unit,Type of Benefit
+Unit,Geographic Region
 Unit,Population Group

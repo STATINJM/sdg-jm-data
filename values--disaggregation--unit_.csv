@@ -6,7 +6,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 ('000 tonnes),3,2
 ('000 Tonnes),10,1
 (1000 ha),3,1
-%,29,6
+%,25,5
 (Area %),2,1
 Cumulative Mean Beach Width (m),9,1
 Density (per 10.000 population),11,1
@@ -22,17 +22,18 @@ $ Million,6,1
 (Neonatal Mortality Ratio),1,1
 Number (000),1,1
 Number of Sites,9,1
-Number,97,7
+Number,147,7
 per 100 000 population,16,1
 (per 100 inhabitants),1,1
 per 100.000 adults,2,1
-"per 100,000 population",3,1
+"per 100,000 population",17,2
 "Per 100,000 population",8,1
 Per 100.000 Population,36,1
-per 100.000 population,2,2
+per 100.000 population,15,2
 (Per cent),2,1
 (per cent),3,1
-Per cent,9,4
+Per cent,21,5
+per cent,24,1
 "Persons affected per 100,000 population",6,1
 "Persons dead per 100,000 population",6,1
 (Proportion of Births),2,2
