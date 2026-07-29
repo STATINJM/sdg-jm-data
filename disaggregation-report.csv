@@ -7,7 +7,7 @@ Area of Residence,1,5
 Category of Child Labour,1,30
 Category of E-waste,1,2
 Category of International Health Regulations,1,13
-Category,12,29
+Category,13,35
 category,1,4
 Description,4,29
 Descriptor,1,8
@@ -109,7 +109,7 @@ Type of Violence,2,3
 Type of Waste Collected,1,13
 Type of waste composition,1,10
 unit,1,2
-Unit,41,46
+Unit,42,47
 Vaccination Indicator,1,26
 Watershed,1,5
 Wealth Index Quintiles,3,5
