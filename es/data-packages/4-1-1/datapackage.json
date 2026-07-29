@@ -20,14 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Grade 4 PEP Literacy Test",
-                "Grade 4 PEP Numeracy Test",
-                "Grade 6 Primary Exit Profile (Mathematics)",
-                "Grade 6 Primary Exit Profile (Language Arts)",
                 "Grade 4 Literacy Test",
                 "Grade 4 Numeracy Test",
-                "Grade 6 Achievement Test (Language Arts)",
-                "Grade 6 Achievement Test (Mathematics)",
+                "Grade 6 Achievement Test",
+                "Grade 6 Primary Exit Profile (Mathematics)",
+                "Grade 6 Primary Exit Profile (Language Arts)",
+                "Grade 5 Primary Exit Profile (Language Arts)",
+                "Grade 5 Primary Exit Profile (Mathematics)",
+                "Percentage of children who correctly read 90% of words in a story",
+                "Percentage of children who successfully completed tasks of Number Reading ",
+                "Percentage of children who successfully completed tasks of Number Discrimination",
+                "Percentage of children who successfully completed tasks of Addition",
+                "Percentage of children who successfully completed tasks of Pattern recognition and completion",
+                "Percentage of children who demonstrate foundational numeracy skills",
                 ""
               ]
             },
@@ -39,10 +44,13 @@
             "constraints": {
               "enum": [
                 "Proportion of students achieving mastery",
-                "Proportion of Students at Developing Level",
-                "Proportion of Students at Proficient Level",
-                "Proportion of Students at Highly Proficient Level",
-                "Mean Score in Grade Six Achievement Test",
+                "Mean Score  (Language Arts)",
+                "(Language Arts)",
+                "(Mathematics)",
+                "Mean Score  (Mathematics)",
+                "Proportion of Students Developing Level",
+                "Proportion of Students Proficient and Highly Provicient Levels",
+                "Proportion of Students Highly Proficient Level",
                 ""
               ]
             },
@@ -54,8 +62,9 @@
             "constraints": {
               "enum": [
                 "Jamaica",
-                "Male",
-                "Female",
+                "Grade 2-3",
+                "Grade 6",
+                "Grade 9/ 3rd Form",
                 ""
               ]
             },
@@ -68,6 +77,7 @@
               "enum": [
                 "Male",
                 "Female",
+                "Total",
                 ""
               ]
             },
@@ -75,7 +85,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -84,5 +94,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
+  "title": "Proporción de niños, niñas y adolescentes que, a) en los cursos segundo y tercero, b) al final de la enseñanza primaria y c) al final de la enseñanza secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, desglosada por sexo"
 }

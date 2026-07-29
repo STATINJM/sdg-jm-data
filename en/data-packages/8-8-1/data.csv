@@ -1,1 +1,30 @@
-Year,Value
+Year,Type,Sex,Value
+2018,Non-Fatal Injuries,Male,239
+2018,Non-Fatal Injuries,Female,43
+2018,Fatal Injuries,Total,1
+2018,Fatal Injuries,Male,1
+2018,Fatal Injuries,Female,0
+2019,Non-Fatal Injuries,Total,181
+2019,Non-Fatal Injuries,Male,145
+2019,Non-Fatal Injuries,Female,36
+2019,Fatal Injuries,Total,4
+2019,Fatal Injuries,Male,4
+2019,Fatal Injuries,Female,0
+2020,Non-Fatal Injuries,Total,241
+2020,Non-Fatal Injuries,Male,185
+2020,Non-Fatal Injuries,Female,56
+2020,Fatal Injuries,Total,6
+2020,Fatal Injuries,Male,6
+2020,Fatal Injuries,Female,0
+2021,Non-Fatal Injuries,Total,234
+2021,Non-Fatal Injuries,Male,180
+2021,Non-Fatal Injuries,Female,54
+2021,Fatal Injuries,Total,5
+2021,Fatal Injuries,Male,5
+2021,Fatal Injuries,Female,0
+2022,Non-Fatal Injuries,Total,210
+2022,Non-Fatal Injuries,Male,166
+2022,Non-Fatal Injuries,Female,44
+2022,Fatal Injuries,Total,2
+2022,Fatal Injuries,Male,2
+2022,Fatal Injuries,Female,0

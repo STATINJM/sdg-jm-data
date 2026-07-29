@@ -15,13 +15,23 @@
             "type": "integer"
           },
           {
-            "name": "Type of Assault",
+            "name": "Type of Violence",
             "type": "string",
             "constraints": {
               "enum": [
                 "Aggravated Assault",
-                "Rape",
                 "Total Sexual Violence",
+                "Rape",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
                 ""
               ]
             }
@@ -36,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "11-7-2",
-  "title": "Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
+  "title": "global_indicators.11-7-2-title"
 }

@@ -20,10 +20,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Upper House",
-                "Lower House",
                 "Mayors",
                 "Councillors",
+                "Upper House",
+                "Lower House",
                 ""
               ]
             },
@@ -53,5 +53,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-1",
-  "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
+  "title": "Proporción de escaños ocupados por mujeres en a) los parlamentos nacionales y b) los gobiernos locales"
 }

@@ -12,8 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of cases investigated",
+                "Number of cases prosecuted",
+                "Number of persons convicted",
+                "Amount of proceeds seized or frozen",
+                "Amount of proceeds forfeited",
+                ""
+              ]
+            },
+            "title": "Description"
+          },
+          {
+            "name": "Disaggregation Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Offenses committed within the home jurisdiction",
+                "Offenses committed in foreign jurisdictions",
+                "Offenses committed both in home and foreign jurisdictions",
+                "Origin country cannot be identified",
+                "Total Number of Cases Investigated",
+                "Total Number of Persons Prosecuted",
+                "Total Number of Persons Convicted",
+                "Total Amount of Proceeds Seized or Frozen",
+                "Total Amount of Proceeds Forfeited",
+                ""
+              ]
+            },
+            "title": "Disaggregation Level"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "J$",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

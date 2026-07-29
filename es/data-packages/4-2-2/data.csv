@@ -1,8 +1,29 @@
-Year,Geographical Region,Value
-2010,Jamaica,99.0
-2012,Jamaica,99.9
-2013,Jamaica,98.5
-2014,Jamaica,99.5
-2015,Jamaica,99.2
-2016,Jamaica,94.2
-2017,Jamaica,98.0
+Year,Description,Sex,Geographic Location,Value
+2010,,,Jamaica,99.0
+2012,,,Jamaica,99.9
+2013,,,Jamaica,98.5
+2014,,,Jamaica,99.5
+2015,,,Jamaica,99.2
+2016,,,Jamaica,94.2
+2017,,,Jamaica,98.0
+2022,Percentage of children (one year before the official primary entry age attending an early childhood education programme),Total,,64.8
+2022,Percentage of children (one year before the official primary entry age attending an early childhood education programme),Male,,62.1
+2022,Percentage of children (one year before the official primary entry age attending an early childhood education programme),Female,,67.4
+2022,Percentage of children (one year before the official primary entry age attending an early childhood education programme),,Urban,68.3
+2022,Percentage of children (one year before the official primary entry age attending an early childhood education programme),,GKMA,65.2
+2022,Percentage of children (one year before the official primary entry age attending an early childhood education programme),,OUC,71.7
+2022,Percentage of children (one year before the official primary entry age attending an early childhood education programme),,Rural,61.1
+2022,Percentage of children (one year before the official primary entry age attending primary education),Total,,28.6
+2022,Percentage of children (one year before the official primary entry age attending primary education),Male,,31.8
+2022,Percentage of children (one year before the official primary entry age attending primary education),Female,,25.4
+2022,Percentage of children (one year before the official primary entry age attending primary education),,Urban,25.3
+2022,Percentage of children (one year before the official primary entry age attending primary education),,GKMA,30.2
+2022,Percentage of children (one year before the official primary entry age attending primary education),,OUC,19.8
+2022,Percentage of children (one year before the official primary entry age attending primary education),,Rural,32.0
+2022,Net attendance rate (adjusted),Total,,93.3
+2022,Net attendance rate (adjusted),Male,,93.9
+2022,Net attendance rate (adjusted),Female,,92.8
+2022,Net attendance rate (adjusted),,Urban,93.6
+2022,Net attendance rate (adjusted),,GKMA,95.4
+2022,Net attendance rate (adjusted),,OUC,91.5
+2022,Net attendance rate (adjusted),,Rural,93.1

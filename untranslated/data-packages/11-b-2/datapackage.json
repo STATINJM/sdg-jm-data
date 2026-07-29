@@ -12,11 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "DRR Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of local governments that have adopted and implemented local DRR strategies in line with national strategies",
+                "Total Number of local governments",
+                "Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Per cent",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -24,5 +47,5 @@
   ],
   "profile": "data-package",
   "name": "11-b-2",
-  "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
+  "title": "global_indicators.11-b-2-title"
 }

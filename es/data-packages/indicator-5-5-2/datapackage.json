@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Female Managers",
+                "Total Managers",
+                "Proportion of Women in Managerial Positions",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Quarter",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "January Q1",
+                "April Q2",
+                "July Q3",
+                "October Q4",
+                ""
+              ]
+            },
+            "title": "Quarter"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "indicator-5-5-2",
+  "title": "indicator-5-5-2"
+}

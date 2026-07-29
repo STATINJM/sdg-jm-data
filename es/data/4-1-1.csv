@@ -1,115 +1,229 @@
 Year,Name of test,Descriptor,Geographical region,Sex,Value
-2019,Grade 4 PEP Literacy Test,Proportion of students achieving mastery,Jamaica,,83.1
-2019,Grade 4 PEP Literacy Test,Proportion of students achieving mastery,,Male,76.7
-2019,Grade 4 PEP Literacy Test,Proportion of students achieving mastery,,Female,89.7
-2019,Grade 4 PEP Numeracy Test,Proportion of students achieving mastery,Jamaica,,74.3
-2019,Grade 4 PEP Numeracy Test,Proportion of students achieving mastery,,Male,67.7
-2019,Grade 4 PEP Numeracy Test,Proportion of students achieving mastery,,Female,81.1
-2019,Grade 4 PEP Literacy Test,Proportion of students achieving mastery,Jamaica,,83.1
-2019,Grade 4 PEP Literacy Test,Proportion of students achieving mastery,,Male,76.7
-2019,Grade 4 PEP Literacy Test,Proportion of students achieving mastery,,Female,89.7
-2019,Grade 4 PEP Numeracy Test,Proportion of students achieving mastery,Jamaica,,74.3
-2019,Grade 4 PEP Numeracy Test,Proportion of students achieving mastery,,Male,67.7
-2019,Grade 4 PEP Numeracy Test,Proportion of students achieving mastery,,Female,81.1
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Developing Level,Jamaica,,51.5
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Developing Level,Male,,55.4
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Developing Level,Female,,47.4
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Proficient Level,Jamaica,,34.5
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Proficient Level,Male,,28.5
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Proficient Level,Female,,40.9
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Highly Proficient Level,Jamaica,,6.5
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Highly Proficient Level,Male,,5.4
-2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Highly Proficient Level,Female,,7.7
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Developing Level,Jamaica,,35.9
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Developing Level,Male,,41.5
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Developing Level,Female,,30.0
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Proficient Level,Jamaica,,46.2
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Proficient Level,Male,,38.4
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Proficient Level,Female,,54.5
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Highly Proficient Level,Jamaica,,8.6
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Highly Proficient Level,Male,,6.7
-2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Highly Proficient Level,Female,,10.7
 2010,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,66.9
-2010,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,56.4
-2010,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,77.5
 2011,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,71.4
-2011,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,61.5
-2011,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,81.6
 2012,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,73.8
-2012,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,64.7
-2012,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,83.2
 2013,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,76.4
-2013,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,67.9
-2013,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,85.2
 2014,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,77.2
-2014,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,68.3
-2014,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,86.3
 2015,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,86.3
-2015,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,79.9
-2015,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,92.5
 2016,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,80.3
-2016,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,72.3
-2016,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,88.2
 2017,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,84.5
-2017,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,78.0
-2017,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,90.9
 2018,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,82.8
+2019,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,83.1
+2022,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,59.8
+2023,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,63.4
+2024,Grade 4 Literacy Test,Proportion of students achieving mastery,Jamaica,,65.1
+2010,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,56.4
+2011,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,61.5
+2012,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,64.7
+2013,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,67.9
+2014,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,68.3
+2015,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,79.9
+2016,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,72.3
+2017,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,78.0
 2018,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,75.5
+2019,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,76.7
+2022,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,50.1
+2023,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,54.3
+2024,Grade 4 Literacy Test,Proportion of students achieving mastery,,Male,56.8
+2010,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,77.5
+2011,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,81.6
+2012,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,83.2
+2013,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,85.2
+2014,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,86.3
+2015,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,92.5
+2016,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,88.2
+2017,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,90.6
 2018,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,90.3
+2019,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,89.7
+2022,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,69.7
+2023,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,72.7
+2024,Grade 4 Literacy Test,Proportion of students achieving mastery,,Female,73.4
 2012,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,54.0
-2012,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Male,47.0
-2012,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,62.0
 2013,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,58.0
-2013,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Male,50.0
-2013,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,67.0
 2014,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,57.5
-2014,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Male,50.2
-2014,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,65.0
 2015,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,63.6
-2015,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Male,56.2
-2015,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,70.8
 2016,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,59.8
-2016,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Male,53.1
-2016,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,66.5
 2017,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,66.4
-2017,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Male,60.2
-2017,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,72.7
 2018,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,65.6
-2018,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Male,58.9
+2019,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,74.3
+2022,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,72.4
+2023,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,64.7
+2024,Grade 4 Numeracy Test,Proportion of students achieving mastery,Jamaica,,69.9
+2012,Grade 4 Numeracy Test,,,Male,47.0
+2013,Grade 4 Numeracy Test,,,Male,50.0
+2014,Grade 4 Numeracy Test,,,Male,50.2
+2015,Grade 4 Numeracy Test,,,Male,56.2
+2016,Grade 4 Numeracy Test,,,Male,53.1
+2017,Grade 4 Numeracy Test,,,Male,60.2
+2018,Grade 4 Numeracy Test,,,Male,58.9
+2019,Grade 4 Numeracy Test,,,Male,67.7
+2022,Grade 4 Numeracy Test,,,Male,66.1
+2023,Grade 4 Numeracy Test,,,Male,59.8
+2024,Grade 4 Numeracy Test,,,Male,64.9
+2012,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,62.0
+2013,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,67.0
+2014,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,65.0
+2015,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,70.8
+2016,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,66.5
+2017,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,72.7
 2018,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,72.5
-2016,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,Jamaica,,64.0
-2016,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,,Male,60.0
-2016,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,,Female,68.0
-2017,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,Jamaica,,66.0
-2017,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,,Male,62.0
-2017,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,,Female,70.0
-2018,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,Jamaica,,67.0
-2018,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,,Male,62.0
-2018,Grade 6 Achievement Test (Language Arts),Mean Score in Grade Six Achievement Test,,Female,71.0
-2016,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,Jamaica,,57.0
-2016,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,,Male,55.0
-2016,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,,Female,60.0
-2017,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,Jamaica,,59.0
-2017,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,,Male,57.0
-2017,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,,Female,61.0
-2018,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,Jamaica,,61.0
-2018,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,,Male,59.0
-2018,Grade 6 Achievement Test (Mathematics),Mean Score in Grade Six Achievement Test,,Female,63.0
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Developing Level,Jamaica,,43.5
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Developing Level,Male,,46.8
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Developing Level,Female,,40.1
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Proficient Level,Jamaica,,45.9
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Proficient Level,Male,,41.0
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Proficient Level,Female,,51.0
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Highly Proficient Level,Jamaica,,4.9
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Highly Proficient Level,Male,,4.2
-2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students at Highly Proficient Level,Female,,5.6
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Developing Level,Jamaica,,22.0
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Developing Level,Male,,30.1
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Developing Level,Female,,13.6
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Proficient Level,Jamaica,,62.7
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Proficient Level,Male,,56.7
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Proficient Level,Female,,69.0
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Highly Proficient Level,Jamaica,,14.4
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Highly Proficient Level,Male,,11.8
-2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students at Highly Proficient Level,Female,,17.0
+2019,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,81.1
+2022,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,78.9
+2023,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,69.7
+2024,Grade 4 Numeracy Test,Proportion of students achieving mastery,,Female,74.9
+2016,Grade 6 Achievement Test,Mean Score  (Language Arts),Jamaica,,64.0
+2017,Grade 6 Achievement Test,Mean Score  (Language Arts),Jamaica,,66.0
+2018,Grade 6 Achievement Test,Mean Score  (Language Arts),Jamaica,,67.0
+2016,Grade 6 Achievement Test,(Language Arts),,Male,60.0
+2017,Grade 6 Achievement Test,(Language Arts),,Male,62.0
+2018,Grade 6 Achievement Test,(Language Arts),,Male,62.0
+2016,Grade 6 Achievement Test,Mean Score  (Language Arts),,Female,68.0
+2017,Grade 6 Achievement Test,Mean Score  (Language Arts),,Female,70.0
+2018,Grade 6 Achievement Test,Mean Score  (Language Arts),,Female,71.0
+2016,Grade 6 Achievement Test,(Mathematics),Jamaica,,57.0
+2017,Grade 6 Achievement Test,(Mathematics),Jamaica,,59.0
+2018,Grade 6 Achievement Test,(Mathematics),Jamaica,,61.0
+2016,Grade 6 Achievement Test,Mean Score  (Mathematics),,Male,55.0
+2017,Grade 6 Achievement Test,Mean Score  (Mathematics),,Male,57.0
+2018,Grade 6 Achievement Test,Mean Score  (Mathematics),,Male,59.0
+2016,Grade 6 Achievement Test,Mean Score  (Mathematics),,Female,60.0
+2017,Grade 6 Achievement Test,Mean Score  (Mathematics),,Female,61.0
+2018,Grade 6 Achievement Test,Mean Score  (Mathematics),,Female,63.0
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Developing Level,Jamaica,,51.5
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Developing Level,,Male,55.4
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Developing Level,,Female,47.4
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,41.0
+2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,45.9
+2023,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,49.3
+2024,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,60.4
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Male,33.9
+2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Male,41.0
+2023,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Male,44.4
+2024,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Male,54.5
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Female,48.6
+2022,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Female,51.0
+2023,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Female,54.4
+2024,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Female,66.5
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Highly Proficient Level,Jamaica,,6.5
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Highly Proficient Level,,Male,5.4
+2019,Grade 6 Primary Exit Profile (Mathematics),Proportion of Students Highly Proficient Level,,Female,7.7
+2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Developing Level,Jamaica,,35.9
+2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Developing Level,,Male,41.5
+2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Developing Level,,Female,30.0
+2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,54.7
+2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,62.7
+2023,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,54.4
+2024,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,66.8
+2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Male,45.1
+2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Male,56.7
+2023,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Male,47.4
+2024,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Male,58.2
+2019,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Female,65.1
+2022,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Female,69.0
+2023,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Female,61.6
+2024,Grade 6 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Female,75.6
+2019,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,59.4
+2022,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,50.2
+2023,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,48.5
+2024,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,67.6
+2019,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Male,50.3
+2022,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Male,41.4
+2023,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Male,39.2
+2024,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Male,59.2
+2019,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Female,68.7
+2022,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Female,59.4
+2023,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Female,58.0
+2024,Grade 5 Primary Exit Profile (Language Arts),Proportion of Students Proficient and Highly Provicient Levels,,Female,76.2
+2019,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,49.0
+2022,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,42.3
+2023,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,25.3
+2024,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,Jamaica,,46.7
+2019,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Male,43.3
+2022,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Male,37.4
+2023,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Male,22.6
+2024,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Male,40.6
+2019,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Female,54.7
+2022,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Female,47.3
+2023,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Female,28.0
+2024,Grade 5 Primary Exit Profile (Mathematics),Proportion of Students Proficient and Highly Provicient Levels,,Female,52.9
+2022,Percentage of children who correctly read 90% of words in a story,,Grade 2-3,Male,45.0
+2022,Percentage of children who correctly read 90% of words in a story,,Grade 2-3,Male,37.1
+2022,Percentage of children who correctly read 90% of words in a story,,Grade 2-3,Male,37.6
+2022,Percentage of children who correctly read 90% of words in a story,,Grade 2-3,Male,34.6
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 2-3,Female,54.1
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 2-3,Female,47.7
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 2-3,Female,47.4
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 2-3,Female,44.7
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 2-3,Total,50.4
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 2-3,Total,43.3
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 2-3,Total,43.3
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 2-3,Total,40.5
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 6,Male,82
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 6,Male,67.9
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 6,Male,80
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 6,Male,67.6
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 6,Female,94.2
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 6,Female,82.1
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 6,Female,83.8
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 6,Female,78.5
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 6,Total,87.9
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 6,Total,74.7
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 6,Total,81.9
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 6,Total,72.9
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 9/ 3rd Form,Male,91.6
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 9/ 3rd Form,Male,72.9
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 9/ 3rd Form,Male,83.1
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 9/ 3rd Form,Male,70.3
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 9/ 3rd Form,Female,(94.4)
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 9/ 3rd Form,Female,(85.7)
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 9/ 3rd Form,Female,(92.4)
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 9/ 3rd Form,Female,(83.7)
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 9/ 3rd Form,Total,93.2
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 9/ 3rd Form,Total,80.3
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 9/ 3rd Form,Total,88.4
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 9/ 3rd Form,Total,78.0
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 2-3,Male,59.6
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 2-3,Male,74
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 2-3,Male,53.8
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 2-3,Male,37.4
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 2-3,Male,28.6
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 2-3,Female,63.6
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 2-3,Female,76.7
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 2-3,Female,63.0
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 2-3,Female,37.5
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 2-3,Female,29.1
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 2-3,Total,62.0
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 2-3,Total,75.6
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 2-3,Total,59.2
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 2-3,Total,37.4
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 2-3,Total,28.9
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 6,Male,86.6
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 6,Male,94.5
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 6,Male,80.1
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 6,Male,69.7
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 6,Male,65.3
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 6,Female,94.4
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 6,Female,93
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 6,Female,76.8
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 6,Female,74.9
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 6,Female,62.1
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 6,Total,90.4
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 6,Total,93.8
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 6,Total,78.5
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 6,Total,72.2
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 6,Total,63.7
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 9/ 3rd Form,Male,(96.8)
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 9/ 3rd Form,Male,(97.0)
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 9/ 3rd Form,Male,(82.9)
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 9/ 3rd Form,Male,(72.4)
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 9/ 3rd Form,Male,(66.0)
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 9/ 3rd Form,Female,(98.2)
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 9/ 3rd Form,Female,(98.7)
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 9/ 3rd Form,Female,(96.5)
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 9/ 3rd Form,Female,(86.6)
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 9/ 3rd Form,Female,(84.8)
+2022,Percentage of children who successfully completed tasks of Number Reading ,,Grade 9/ 3rd Form,Total,97.6
+2022,Percentage of children who successfully completed tasks of Number Discrimination,,Grade 9/ 3rd Form,Total,97.9
+2022,Percentage of children who successfully completed tasks of Addition,,Grade 9/ 3rd Form,Total,90.7
+2022,Percentage of children who successfully completed tasks of Pattern recognition and completion,,Grade 9/ 3rd Form,Total,80.5
+2022,Percentage of children who demonstrate foundational numeracy skills,,Grade 9/ 3rd Form,Total,76.8

@@ -37,6 +37,14 @@
                 "All vaccinations excluding HIB",
                 "No vaccinations",
                 "Number of children age 18-29 months",
+                "Percentage of children age 12-23 months who received",
+                "Percentage of children age 24-35 months who received",
+                "Polio3",
+                "DPT3",
+                "Hib3",
+                "HepB 3",
+                "MMR 1",
+                "MMR 2",
                 ""
               ]
             }
@@ -48,6 +56,15 @@
               "enum": [
                 "Vaccinated at any time before the survey",
                 "Vaccinated by 12 months of age",
+                "BCG",
+                "Polio 1",
+                "Polio 2",
+                "Polio 3",
+                "DPT 1",
+                "DPT 2",
+                "DPT 3",
+                "Measles",
+                "Vaccinated between 12-23 months of age",
                 ""
               ]
             }
@@ -60,6 +77,9 @@
                 "Vaccination card",
                 "Mother's report",
                 "Either",
+                "Jamaica",
+                "Total Vaccinated",
+                "Total target Population",
                 ""
               ]
             }
@@ -74,5 +94,5 @@
   ],
   "profile": "data-package",
   "name": "3-b-1",
-  "title": "Proportion of the target population covered by all vaccines included in their national programme"
+  "title": "global_indicators.3-b-1-title"
 }

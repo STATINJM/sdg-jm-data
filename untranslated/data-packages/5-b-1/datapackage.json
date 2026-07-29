@@ -29,6 +29,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Male",
                 "Female",
                 ""
@@ -45,5 +46,5 @@
   ],
   "profile": "data-package",
   "name": "5-b-1",
-  "title": "Proportion of individuals who own a mobile telephone, by sex"
+  "title": "global_indicators.5-b-1-title"
 }

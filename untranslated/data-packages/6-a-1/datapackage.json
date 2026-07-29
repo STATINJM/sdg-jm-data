@@ -12,7 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Amount of water- and sanitation-related official development assistance",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "US$M",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +44,5 @@
   ],
   "profile": "data-package",
   "name": "6-a-1",
-  "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+  "title": "global_indicators.6-a-1-title"
 }

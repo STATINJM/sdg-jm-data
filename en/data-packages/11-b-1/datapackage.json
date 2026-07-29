@@ -12,8 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "DRR Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National DRR Strategy Adoption Score",
+                ""
+              ]
+            },
+            "title": "DRR Indicator"
+          },
+          {
+            "name": "Indicator Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global SDG Indicator",
+                ""
+              ]
+            },
+            "title": "Indicator Type"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per cent",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

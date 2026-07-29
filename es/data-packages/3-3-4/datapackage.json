@@ -12,12 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Hepatitis B Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hepatitis B incidence per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Hepatitis B Indicator"
+          },
+          {
+            "name": "Geographical Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jamaica",
+                ""
+              ]
+            },
+            "title": "Geographical Region"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +48,5 @@
   ],
   "profile": "data-package",
   "name": "3-3-4",
-  "title": "Hepatitis B incidence per 100,000 population"
+  "title": "Incidencia de la hepatitis B por cada 100.000 habitantes"
 }

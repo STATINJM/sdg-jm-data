@@ -12,12 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Seized Arms with Illicit Origin Traced",
+                ""
+              ]
+            },
+            "title": "Description"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +48,5 @@
   ],
   "profile": "data-package",
   "name": "16-4-2",
-  "title": "Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+  "title": "Proporción de armas incautadas, encontradas o entregadas cuyo origen o contexto ilícitos han sido determinados o establecidos por una autoridad competente, de conformidad con los instrumentos internacionales"
 }

@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Indicators",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,18 +29,19 @@
                 ""
               ]
             },
-            "title": "Indicators"
+            "title": "Category"
           },
           {
-            "name": "Geographic Region",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Jamaica",
+                "Per cent",
+                "Km2",
                 ""
               ]
             },
-            "title": "Geographic Region"
+            "title": "Unit"
           },
           {
             "name": "Value",
@@ -53,5 +54,5 @@
   ],
   "profile": "data-package",
   "name": "6-6-1",
-  "title": "Change in the extent of water-related ecosystems over time"
+  "title": "Cambio en la extensión de los ecosistemas relacionados con el agua con el paso del tiempo"
 }

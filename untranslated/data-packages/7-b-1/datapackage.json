@@ -12,7 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydro Technology",
+                "Solar",
+                "Wind",
+                "Net Billing (Solar)",
+                "Other arrangements",
+                "Total",
+                "Generating Capacity",
+                "Population",
+                "Renewable Energy Watts Per Capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MW",
+                "Watts",
+                "Renewable Energy Watts Per Capita",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +54,5 @@
   ],
   "profile": "data-package",
   "name": "7-b-1",
-  "title": "Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)"
+  "title": "global_indicators.7-b-1-title"
 }

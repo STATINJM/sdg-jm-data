@@ -29,8 +29,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kingston",
-                "St. Andrew",
                 "Jamaica",
                 "Kingston & St Andrew",
                 "St Thomas",
@@ -80,5 +78,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-2",
-  "title": "Suicide mortality rate"
+  "title": "global_indicators.3-4-2-title"
 }

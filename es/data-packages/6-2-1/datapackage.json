@@ -20,12 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of Households with Exclusive Use of Toilet Facility",
                 "Water Closet Linked to Central Sewer Network",
-                "Water Closet Linked to Offsite Disposal System",
-                "Water Closet Linked to Onsite Disposal System",
+                "Water Closet Not Linked to Sewer",
                 "Pit Laterine",
                 "Other",
-                "Water Closet Not Linked to Sewer",
+                "Water Closet Linked to Offsite Disposal System",
+                "Water Closet Linked to Onsite Disposal System",
+                "Percentage of household members with a handwashing facility where water and soap or detergent are presen",
+                "Percentage of household members using improved sanitation facilities which are not shared",
+                "Percentage of household members in households with improved on-site sanitation facilities from which waste has never been emptied or has been emptied and buried in a covered pit",
+                "Percentage of household members using an improved on-site sanitation facility from which a service provider has removed waste for treatment off-site",
                 ""
               ]
             },
@@ -37,13 +42,33 @@
             "constraints": {
               "enum": [
                 "Jamaica",
+                "GKMA",
+                "Other Urban Town",
+                "Rural Area",
                 "Greater Kingston Metropolitan Area",
                 "Other Urban Centre",
-                "Rural Area",
+                "Urban",
+                "OUC",
+                "Rural",
                 ""
               ]
             },
             "title": "Geographical Region"
+          },
+          {
+            "name": "Wealth Index Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
+                ""
+              ]
+            },
+            "title": "Wealth Index Quintiles"
           },
           {
             "name": "Value",
@@ -56,5 +81,5 @@
   ],
   "profile": "data-package",
   "name": "6-2-1",
-  "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
+  "title": "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón"
 }

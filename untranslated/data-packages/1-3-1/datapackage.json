@@ -19,12 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population covered by PATH",
                 "Persons Registered with the National Insurance Scheme",
+                "Population covered by PATH",
+                "Indoor Persons Registered on Poor Relief Programme",
                 "Registered with Jamaica Drugs for the Elderly Programme",
                 "Registered with the National Health Fund",
                 "Outdoor Persons Registered on Poor Relief Programme",
-                "Indoor Persons Registered on Poor Relief Programme",
                 ""
               ]
             }
@@ -35,6 +35,24 @@
             "constraints": {
               "enum": [
                 "Jamaica",
+                "Greater Kingston Metropolitan Area",
+                "Other Urban Centre",
+                "Rural",
+                "St Catherine",
+                "Kingston & St Andrew",
+                "St Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "Urban",
+                "Other Urban Centres",
                 ""
               ]
             }
@@ -47,6 +65,16 @@
                 "Male",
                 "Female",
                 "Total",
+                "Children",
+                "Adult",
+                "Persons with disabilities",
+                "Elderly",
+                "Pregnant and Lactating Women",
+                "Poorest",
+                "Second",
+                "Middle",
+                "Fourth",
+                "Richest",
                 ""
               ]
             }
@@ -56,16 +84,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "per cent",
                 "Number",
+                "per 100,000 population",
                 "per 100.000 population",
+                "Per cent",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
@@ -73,5 +103,5 @@
   ],
   "profile": "data-package",
   "name": "1-3-1",
-  "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+  "title": "global_indicators.1-3-1-title"
 }

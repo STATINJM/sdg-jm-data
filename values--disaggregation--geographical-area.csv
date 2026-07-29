@@ -1,17 +1,23 @@
 Value,Disaggregation combinations using this value,Number of indicators
+0-11 Months,1,1
+12-23 Months,1,1
+24-35 Months,1,1
+36-47 Months,1,1
+48-59 Months,1,1
 Clarendon,1,1
-Greater Kingston Metropolitan Area,5,1
+Female,1,1
+Greater Kingston Metropolitan Area,9,3
 Hanover,1,1
 Jamaica,21,7
 Kingston Metropolitan Area,3,1
 Kingston & St Andrew,1,1
-Kingston,1,1
+Male,1,1
 Manchester,1,1
 Other Towns,3,1
-Other Urban Centres,5,1
+Other Urban Centres,9,3
 Portland,1,1
 Rural Areas,8,2
-St. Andrew,1,1
+Rural,4,2
 St Ann,1,1
 St Catherine,1,1
 St Elizabeth,1,1
@@ -19,4 +25,5 @@ St James,1,1
 St Mary,1,1
 St Thomas,1,1
 Trelawny,1,1
+Urban,4,2
 Westmoreland,1,1

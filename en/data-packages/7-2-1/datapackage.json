@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Source of primary energy supply",
+            "name": "Source of Primary Energy Supply",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,27 +25,23 @@
                 "Wind",
                 "Coal",
                 "Bagasse",
-                "Total Alternative Energy",
-                "Total",
-                "% Renewable Share",
                 "Natural Gas",
                 "Solar",
-                "Fuelwood",
+                "Total Alternative Energy",
+                "Total",
                 "Per cent Renewable Share",
                 ""
               ]
             },
-            "title": "Source of primary energy supply"
+            "title": "Source of Primary Energy Supply"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "('000boe)",
-                "per cent",
-                "('000 boe)",
-                "(%)",
+                "'000 boe",
+                "%",
                 ""
               ]
             },

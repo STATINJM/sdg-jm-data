@@ -19,6 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number of Air Passenger Movement",
                 "Freight Movement by Air",
                 "Freight Movement by Water",
                 ""
@@ -30,6 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Number (000)",
                 "('000 tonnes)",
                 ""
               ]
@@ -37,7 +39,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
@@ -45,5 +47,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-2",
-  "title": "Passenger and freight volumes, by mode of transport"
+  "title": "global_indicators.9-1-2-title"
 }

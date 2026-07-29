@@ -1,108 +1,114 @@
 Disaggregation,Number of indicators,Number of values
-Age at First Union,2,6
-Age Group,11,47
-Age group,1,8
+Age at First Union,2,4
+Age Group,11,57
+Age group,1,12
 Agency,1,2
-Area of Residence,1,2
-Category of Child Labour,1,3
+Area of Residence,1,5
+Category of Child Labour,1,30
 Category of E-waste,1,2
 Category of International Health Regulations,1,13
-Category,9,23
-Descriptor,1,5
-Development Type,1,6
-Educational Level,1,4
+Category,10,26
+category,1,4
+Description,4,29
+Descriptor,1,8
+Development Type,1,7
+Disaggregation Level,2,12
+DRR Strategy Score,1,1
+Educational Level,1,3
 Educational Status,1,4
 Enrolment Status,1,2
-Event,4,15
+Event,4,117
 Financial Institution,1,2
 Financial institution,1,2
-Financial soundness indicators-deposit-taking institution,1,35
-Financial soundness indicators,1,35
-Form of Sexual Violence,1,10
-Form of Violence,1,8
-GDP (Tourism),1,2
-Geogaphical Region,4,1
-Geographic Area,1,5
-Geographic Location,1,4
+Financial soundness indicators-deposit-taking institution,1,31
+Financial soundness indicators,1,1
+Form of Sexual Violence,1,11
+Form of Violence,1,13
+GDP (Tourism),1,5
+Gender,1,3
+Geogaphical Region,3,1
+Geographic Location,2,9
 Geographic region,1,1
-Geographic Region,5,4
-Geographical Area,7,21
-Geographical Region,26,25
-Geographical region,3,5
+Geographic Region,5,21
+Geographical Area,7,28
+Geographical Region,27,16
+Geographical region,4,8
 Geographical Regions,3,7
-Group,1,2
+Group,1,10
 HIV Indicators,1,3
 House of Parliament,1,4
 House of Parliament/Local Government Representative,1,4
 ICT Infrastructure and Access Indicators,1,4
-ICT Skill,1,7
-Index,1,3
+ICT Skill,1,9
 Indicator for harmful drug,1,1
 Indicator for road traffic injuries,1,1
 Indicator Treatment Intervention,1,2
-Indicator,5,5
-infrastructure Type,1,7
-Ipcc class,1,9
-Kapos mountain class,1,5
+Indicator Type,1,1
+Indicator,5,6
+Infrastructure Type,1,7
+Institution Type,1,4
+IPCC Class,1,9
+Kapos Mountain Class,1,7
 Land Use or Cover Classification,1,17
 Location of Shelter,1,5
-Main Source of Income,1,7
+Main Source of Income,1,4
 Malaria Indicator,1,1
-Manufacturing Indicator,1,3
+Manufacturing Indicator,1,2
 Ministry,1,3
-Mode of transport,1,2
+Mode of transport,1,3
 Monitored Area,1,26
-Mortality Indictor,1,1
-Name of test,1,8
+Mortality Indictor,1,2
+Name of test,1,13
 Name of Weather Event,1,30
-Parish,3,24
-Partner Status,2,8
-Pollutant,1,6
-Population Group,1,3
+Parish,3,22
+Partner Status,2,5
+Pollutant,1,10
+Population Group,1,13
 Preschool attendance,1,2
 Proportion of bribery Incident,1,1
-Quarter,3,4
+Quarter,4,12
+quarter,1,4
+Ratio,1,12
 Reasons for not accessing the treatment,1,7
 Region,1,3
 Safety at time of day,1,2
-School Type,2,4
-Sex,24,10
-Source of primary energy supply,1,12
-Source of Vaccination Record,1,3
+School Type,1,2
+Sex,25,7
+Source of Primary Energy Supply,1,10
+Source of Vaccination Record,1,6
 Status of Corruption Charges,1,4
 Status,1,10
 Strategy Measure,1,3
-Subject,1,5
+Subject,1,1
 Tenure,1,5
-Time Vaccinated,1,2
+Time Vaccinated,1,11
 Tubercolosis Indicator,1,1
-Type of Assault,1,3
 Type of Benefit,1,6
 Type of bribe,1,2
 Type of Crime,1,16
 Type of debt,1,3
-Type of Detainee,1,3
+Type of Detainee,1,1
 Type of Development Assistance,2,5
 Type of Effect,1,21
 Type of employment,1,3
 Type of Facility. Proteted Area,1,14
 Type of GDP by Income at Market Prices,1,9
 Type of Health Worker,1,11
-Type of  institution,1,4
 Type of Land Tenure,1,6
 Type of mineral,1,20
 Type of Official International Support,1,3
-Type of Punishment,1,3
+Type of Punishment,1,5
 Type of Rate,1,3
-Type of specie,1,2
-Type of species,1,6
-Type of Toilet Facility,1,6
+Type of school,1,3
+Type of Species,1,17
+Type of Toilet Facility,1,11
 Type of Transpotation,1,7
-Type of Violence,1,4
+Type of Violence,2,3
 Type of Waste Collected,1,13
 Type of waste composition,1,10
-Unit,37,47
-Vaccination Indicator,1,18
+unit,1,2
+Unit,41,46
+Vaccination Indicator,1,26
 Watershed,1,5
-Wealth Index Quintiles,2,6
+Wealth Index Quintiles,3,5
 Wealth Quintile,2,9

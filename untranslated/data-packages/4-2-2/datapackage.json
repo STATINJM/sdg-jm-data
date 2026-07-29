@@ -15,11 +15,39 @@
             "type": "integer"
           },
           {
-            "name": "Geographical Region",
+            "name": "Description",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of children (one year before the official primary entry age attending an early childhood education programme)",
+                "Percentage of children (one year before the official primary entry age attending primary education)",
+                "Net attendance rate (adjusted)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geographic Location",
             "type": "string",
             "constraints": {
               "enum": [
                 "Jamaica",
+                "Urban",
+                "GKMA",
+                "OUC",
+                "Rural",
                 ""
               ]
             }
@@ -34,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-2",
-  "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+  "title": "global_indicators.4-2-2-title"
 }

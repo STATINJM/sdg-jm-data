@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015,2016,2017,2018,2019,2020,2021],"Description":["Seized Arms with Illicit Origin Traced","Seized Arms with Illicit Origin Traced","Seized Arms with Illicit Origin Traced","Seized Arms with Illicit Origin Traced","Seized Arms with Illicit Origin Traced","Seized Arms with Illicit Origin Traced","Seized Arms with Illicit Origin Traced"],"Unit":["Number","Number","Number","Number","Number","Number","Number"],"Value":[575,648,862,720,666,625,704]},"edges":{"From":["Description"],"To":["Unit"]}}

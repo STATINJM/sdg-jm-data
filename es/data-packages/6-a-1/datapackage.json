@@ -12,8 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Amount of water- and sanitation-related official development assistance",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "US$M",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",
@@ -26,5 +48,5 @@
   ],
   "profile": "data-package",
   "name": "6-a-1",
-  "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan"
+  "title": "Volumen de la asistencia oficial para el desarrollo destinada al agua y el saneamiento que forma parte de un plan de gastos coordinados por el gobierno"
 }

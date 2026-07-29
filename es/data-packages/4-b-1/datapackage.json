@@ -12,12 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Official Development Assistance Flows for Scholarships (USD)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official Development Assistance Flows for Scholarships (USD)",
+                ""
+              ]
+            },
+            "title": "Official Development Assistance Flows for Scholarships (USD)"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "4-b-1",
-  "title": "Volume of official development assistance flows for scholarships"
+  "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
 }

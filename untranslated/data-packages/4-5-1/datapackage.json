@@ -15,49 +15,42 @@
             "type": "integer"
           },
           {
-            "name": "School Type",
+            "name": "Ratio",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary School",
-                "Secondary School",
+                "Girls Adjusted Net Attendance Ratio (NAR) Primary School",
+                "Boys Adjusted Net Attendance Ratio (NAR) Primary School",
+                "Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School",
+                "Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School",
+                "Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School",
+                "Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School",
+                "Girls Adjusted Net Attendance Ratio (NAR) Secondary School",
+                "Boys Adjusted Net Attendance Ratio (NAR) Secondary School",
+                "GPI for Adjusted Ratio (NAR) Primary School",
+                "GPI for Adjusted Ratio (NAR) Lower Secondary School",
+                "GPI for Adjusted Ratio (NAR) Upper Secondary School",
+                "GPI for Adjusted Ratio (NAR) Secondary School",
                 ""
               ]
             }
           },
           {
-            "name": "Index",
+            "name": "Geographical Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Adjusted Net Attendance Ratio (NAR)",
-                "GPI for Adjusted Ratio (NAR)",
-                "GPI for Adjusted Ratio  (NAR)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Girls",
-                "Boys",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geographic Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Other Towns",
-                "Urban Total",
-                "Rural",
                 "Jamaica",
+                "GKMA",
+                "Other Towns",
+                "Urban Area",
+                "Rural Area",
                 "KMA",
+                "Other Urban Centre",
+                "Urban",
+                "Rural",
+                "Urban Total",
+                "OUC",
                 ""
               ]
             }
@@ -78,7 +71,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
@@ -86,5 +79,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1",
-  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
+  "title": "global_indicators.4-5-1-title"
 }
