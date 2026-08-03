@@ -13,7 +13,6 @@ General Government Revenue and Grants,1,1
 Gini Coefficient,1,1
 Groundwater (Reporting basin district area (in km²)),8,1
 Jamaica,1,1
-Jamaica's share of global exports of goods and services,1,1
 Lakes and rivers permanent water area change (%),1,1
 Lakes and rivers permanent water area (% of total land area),1,1
 Lakes and rivers permanent water area (square kilometres),1,1
@@ -25,6 +24,7 @@ Number of Female Managers,8,2
 % ODA / Central Government Expenditure,1,1
 Official Development Assistance (ODA),1,1
 Other economic activities (services) (NACE/ISIC 45-99),1,1
+Percentage of Tax Revenue to Central Government Expenditure,1,1
 Private households,1,1
 Proportion of Central Government Revenue to GDP,1,1
 Proportion of forest area located within legally-established protected areas,1,1
@@ -35,6 +35,5 @@ Remittance Inflows,1,1
 Rivers (Reporting basin district area (in km²)),12,1
 Sum of green cover classes,2,1
 Sum of other land cover classes,2,1
-% Tax Revenue/ Cenral Government Expenditure,1,1
 Tax Revenue,1,1
 Total Managers,8,2
