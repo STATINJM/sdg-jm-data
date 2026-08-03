@@ -19,9 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fiscal Year GDP",
                 "Central Government Revenue and Grants",
+                "Fiscal Year GDP",
                 "Proportion of Central Government Revenue to GDP",
+                "General Government Revenue and Grants",
                 ""
               ]
             }
@@ -32,7 +33,7 @@
             "constraints": {
               "enum": [
                 "(J$ Million)",
-                "(%)",
+                "(Per cent)",
                 ""
               ]
             }
