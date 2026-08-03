@@ -22,8 +22,8 @@
               "enum": [
                 "Official Development Assistance (ODA)",
                 "Foreign Direct Investment (FDI)",
-                "% ODA / Central Government Expenditure",
-                "% FDI / Central Government Expenditure",
+                "Percentage of ODA to Central Government Expenditure",
+                "Percentage of FDI to Central Government Expenditure",
                 ""
               ]
             },

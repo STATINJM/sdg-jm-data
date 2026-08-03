@@ -4,7 +4,6 @@ Central Government Expenditure,1,1
 Central Government Revenue and Grants,1,1
 Developing Countries,1,1
 Domestic wastewater generated (sum of other economic and private),1,1
-% FDI / Central Government Expenditure,1,1
 Fiscal Year GDP,1,1
 Foreign Direct Investment (FDI),1,1
 Forest area annual net change rate,1,1
@@ -21,9 +20,10 @@ Lakes and rivers seasonal water area (% of total land area),1,1
 Lakes and rivers seasonal water area (square kilometres),1,1
 Level of Water Stress,1,1
 Number of Female Managers,8,2
-% ODA / Central Government Expenditure,1,1
 Official Development Assistance (ODA),1,1
 Other economic activities (services) (NACE/ISIC 45-99),1,1
+Percentage of FDI to Central Government Expenditure,1,1
+Percentage of ODA to Central Government Expenditure,1,1
 Percentage of Tax Revenue to Central Government Expenditure,1,1
 Private households,1,1
 Proportion of Central Government Revenue to GDP,1,1
