@@ -1,37 +1,46 @@
-Year,Type of debt,Value
+Year,Type of Debt,Value
 2010,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,133.21
-2010,Publicly Issued External Debt Service Ratio (accrued),11.79
-2010,Publicly Issued External Debt Service Ratio (actual),11.79
 2011,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,131.45
-2011,Publicly Issued External Debt Service Ratio (accrued),17.71
-2011,Publicly Issued External Debt Service Ratio (actual),17.71
 2012,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,122.16
-2012,Publicly Issued External Debt Service Ratio (accrued),14.97
-2012,Publicly Issued External Debt Service Ratio (actual),14.97
 2013,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,124.5
-2013,Publicly Issued External Debt Service Ratio (accrued),14.85
-2013,Publicly Issued External Debt Service Ratio (actual),14.85
 2014,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,129.72
-2014,Publicly Issued External Debt Service Ratio (accrued),0.2
-2014,Publicly Issued External Debt Service Ratio (actual),0.2
-2015,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,157.76
-2015,Publicly Issued External Debt Service Ratio (accrued),0.19
-2015,Publicly Issued External Debt Service Ratio (actual),0.19
-2010,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,133.21
-2010,Publicly Issued External Debt Service Ratio (accrued),11.79
-2010,Publicly Issued External Debt Service Ratio (actual),11.79
-2011,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,131.45
-2011,Publicly Issued External Debt Service Ratio (accrued),17.71
-2011,Publicly Issued External Debt Service Ratio (actual),17.71
-2012,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,122.16
-2012,Publicly Issued External Debt Service Ratio (accrued),14.97
-2012,Publicly Issued External Debt Service Ratio (actual),14.97
-2013,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,124.5
-2013,Publicly Issued External Debt Service Ratio (accrued),14.85
-2013,Publicly Issued External Debt Service Ratio (actual),14.85
-2014,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,129.72
-2014,Publicly Issued External Debt Service Ratio (accrued),0.2
-2014,Publicly Issued External Debt Service Ratio (actual),0.2
-2015,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,157.76
-2015,Publicly Issued External Debt Service Ratio (accrued),0.19
-2015,Publicly Issued External Debt Service Ratio (actual),0.19
+2015,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,150.42
+2016,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,145.65
+2017,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,134.63
+2018,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,116.96
+2019,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,106.2
+2020,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,142.51
+2021,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,111.56
+2022,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,88.78
+2023,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,81.42
+2024,Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers,81.8
+2010,Publicly Issued External Debt Service Ratio (Accrued),11.79
+2011,Publicly Issued External Debt Service Ratio (Accrued),17.71
+2012,Publicly Issued External Debt Service Ratio (Accrued),14.97
+2013,Publicly Issued External Debt Service Ratio (Accrued),14.85
+2014,Publicly Issued External Debt Service Ratio (Accrued),20.39
+2015,Publicly Issued External Debt Service Ratio (Accrued),38.68
+2016,Publicly Issued External Debt Service Ratio (Accrued),13.41
+2017,Publicly Issued External Debt Service Ratio (Accrued),13.96
+2018,Publicly Issued External Debt Service Ratio (Accrued),11.48
+2019,Publicly Issued External Debt Service Ratio (Accrued),14.92
+2020,Publicly Issued External Debt Service Ratio (Accrued),13.92
+2021,Publicly Issued External Debt Service Ratio (Accrued),10.64
+2022,Publicly Issued External Debt Service Ratio (Accrued),10.45
+2023,Publicly Issued External Debt Service Ratio (Accrued),12.04
+2024,Publicly Issued External Debt Service Ratio (Accrued),14.01
+2010,Publicly Issued External Debt Service Ratio (Actual),11.79
+2011,Publicly Issued External Debt Service Ratio (Actual),17.71
+2012,Publicly Issued External Debt Service Ratio (Actual),14.97
+2013,Publicly Issued External Debt Service Ratio (Actual),14.85
+2014,Publicly Issued External Debt Service Ratio (Actual),20.39
+2015,Publicly Issued External Debt Service Ratio (Actual),38.68
+2016,Publicly Issued External Debt Service Ratio (Actual),13.41
+2017,Publicly Issued External Debt Service Ratio (Actual),13.96
+2018,Publicly Issued External Debt Service Ratio (Actual),11.48
+2019,Publicly Issued External Debt Service Ratio (Actual),14.92
+2020,Publicly Issued External Debt Service Ratio (Actual),13.92
+2021,Publicly Issued External Debt Service Ratio (Actual),10.64
+2022,Publicly Issued External Debt Service Ratio (Actual),10.45
+2023,Publicly Issued External Debt Service Ratio (Actual),12.04
+2024,Publicly Issued External Debt Service Ratio (Actual),14.01

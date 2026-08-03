@@ -15,13 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Type of debt",
+            "name": "Type of Debt",
             "type": "string",
             "constraints": {
               "enum": [
                 "Publicly Issued External Debt Outstanding/ Exports of Goods Services & Current Transfers",
-                "Publicly Issued External Debt Service Ratio (accrued)",
-                "Publicly Issued External Debt Service Ratio (actual)",
+                "Publicly Issued External Debt Service Ratio (Accrued)",
+                "Publicly Issued External Debt Service Ratio (Actual)",
                 ""
               ]
             }
