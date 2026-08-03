@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed Internet Broadband Subscriptions",
+                "Fixed Internet Broadband Subscriptions by Speed",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Speed Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Speed Band 1",
+                "Speed Band 2",
+                "Speed Band 3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100 inhabitants",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
