@@ -4820,7 +4820,7 @@
               "enum": [
                 "Remittance Inflows",
                 "GDP (Current)",
-                "Remittance as a  proportion of GDP",
+                "Remittance to GDP",
                 ""
               ]
             }
@@ -4831,6 +4831,7 @@
             "constraints": {
               "enum": [
                 "(US$Mn)",
+                "(Per cent)",
                 ""
               ]
             }

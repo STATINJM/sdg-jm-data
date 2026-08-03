@@ -1,40 +1,47 @@
 Year,Indicator,Name,Category,Unit,Value
 2009,,,Remittance Inflows,(US$Mn),1790.0
-2009,,,GDP (Current),(US$Mn),12067.0
-2009,,,Remittance as a  proportion of GDP,,14.8
 2010,,,Remittance Inflows,(US$Mn),1906.0
-2010,,,GDP (Current),(US$Mn),13199.0
-2010,,,Remittance as a  proportion of GDP,,14.4
 2011,,,Remittance Inflows,(US$Mn),2018.0
-2011,,,GDP (Current),(US$Mn),14408.0
-2011,,,Remittance as a  proportion of GDP,,14.0
 2012,,,Remittance Inflows,(US$Mn),2042.0
-2012,,,GDP (Current),(US$Mn),14790.0
-2012,,,Remittance as a  proportion of GDP,,13.8
 2013,,,Remittance Inflows,(US$Mn),2065.0
-2013,,,GDP (Current),(US$Mn),14183.0
-2013,,,Remittance as a  proportion of GDP,,14.6
 2014,,,Remittance Inflows,(US$Mn),2157.0
-2014,,,GDP (Current),(US$Mn),13852.0
-2014,,,Remittance as a  proportion of GDP,,15.6
-2015,,,Remittance Inflows,(US$Mn),2226.0
-2015,,,GDP (Current),(US$Mn),14137.0
-2015,,,Remittance as a  proportion of GDP,,15.7
-2016,,,Remittance Inflows,(US$Mn),2292.0
-2016,,,GDP (Current),(US$Mn),14074.0
-2016,,,Remittance as a  proportion of GDP,,16.3
-2017,,,Remittance Inflows,(US$Mn),2305.3
-2017,,,GDP (Current),(US$Mn),14809.0
-2017,,,Remittance as a  proportion of GDP,,15.6
-2018,,,Remittance Inflows,(US$Mn),2345.8
-2018,,,GDP (Current),(US$Mn),15728.0
-2018,,,Remittance as a  proportion of GDP,,14.9
-2019,,,Remittance Inflows,(US$Mn),2405.6
-2019,,,GDP (Current),(US$Mn),15857.8
-2019,,,Remittance as a  proportion of GDP,,15.2
-2020,,,Remittance Inflows,(US$Mn),2905.6
-2020,,,GDP (Current),(US$Mn),13835.6
-2020,,,Remittance as a  proportion of GDP,,21.0
-2021,,,Remittance Inflows,(US$Mn),3497.1
-2021,,,GDP (Current),(US$Mn),14638.7
-2021,,,Remittance as a  proportion of GDP,,23.9
+2015,,,Remittance Inflows,(US$Mn),2373.8
+2016,,,Remittance Inflows,(US$Mn),2439.7
+2017,,,Remittance Inflows,(US$Mn),2453.4
+2018,,,Remittance Inflows,(US$Mn),2493.9
+2019,,,Remittance Inflows,(US$Mn),2539.2
+2020,,,Remittance Inflows,(US$Mn),3038.6
+2021,,,Remittance Inflows,(US$Mn),3641.6
+2022,,,Remittance Inflows,(US$Mn),3588.3
+2023,,,Remittance Inflows,(US$Mn),3518.3
+2024,,,Remittance Inflows,(US$Mn),3491.6
+2009,,,GDP (Current),(US$Mn),12067.0
+2010,,,GDP (Current),(US$Mn),13199.0
+2011,,,GDP (Current),(US$Mn),14408.0
+2012,,,GDP (Current),(US$Mn),14792.0
+2013,,,GDP (Current),(US$Mn),14183.0
+2014,,,GDP (Current),(US$Mn),13892.0
+2015,,,GDP (Current),(US$Mn),14977.1
+2016,,,GDP (Current),(US$Mn),14886.2
+2017,,,GDP (Current),(US$Mn),15792.4
+2018,,,GDP (Current),(US$Mn),16849.7
+2019,,,GDP (Current),(US$Mn),17055.4
+2020,,,GDP (Current),(US$Mn),15019.8
+2021,,,GDP (Current),(US$Mn),15943.2
+2022,,,GDP (Current),(US$Mn),18837.6
+2023,,,GDP (Current),(US$Mn),21416.1
+2009,,,Remittance to GDP,(Per cent),14.8
+2010,,,Remittance to GDP,(Per cent),14.4
+2011,,,Remittance to GDP,(Per cent),14.0
+2012,,,Remittance to GDP,(Per cent),13.8
+2013,,,Remittance to GDP,(Per cent),14.6
+2014,,,Remittance to GDP,(Per cent),15.5
+2015,,,Remittance to GDP,(Per cent),15.85
+2016,,,Remittance to GDP,(Per cent),16.39
+2017,,,Remittance to GDP,(Per cent),15.54
+2018,,,Remittance to GDP,(Per cent),14.8
+2019,,,Remittance to GDP,(Per cent),14.89
+2020,,,Remittance to GDP,(Per cent),20.23
+2021,,,Remittance to GDP,(Per cent),22.84
+2022,,,Remittance to GDP,(Per cent),19.05
+2023,,,Remittance to GDP,(Per cent),16.43
