@@ -73,7 +73,9 @@ Indicator,Disaggregations,Number of disaggregations
 #3-7-1,"Geographical Region, Age Group, Indicator",3
 #3-7-2,"Unit, Geographical Region, Indicator",3
 #3-8-2,"Sex, Geographical Region, Indicator",3
+#3-9-2,"Unit, Indicator",2
 #3-9-3,"Geographical Region, Indicator",2
+#3-a-1,"Unit, Sex, Indicator",3
 #3-b-1,"Vaccination Indicator, Time Vaccinated, Source of Vaccination Record",3
 #3-b-2,"Unit, Type of Development Assistance",2
 #3-c-1,"Unit, Type of Health Worker",2
