@@ -1,4 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
+Amount of proceeds forfeited,5,1
+Amount of proceeds seized or frozen,5,1
 Amphibians,6,1
 Animals,12,1
 Arthropods/ Invertebrates*,5,1
@@ -13,7 +15,10 @@ Mammals,6,1
 Molluscs (land)*,5,1
 Molluscs*,1,1
 Net attendance rate (adjusted),7,1
+Number of cases investigated,5,1
+Number of cases prosecuted,5,1
 Number of local breeds kept in the country,1,1
+Number of persons convicted,5,1
 Number of transboundary breeds (including extinct ones),1,1
 Other Inverts*,1,1
 Percentage of children (one year before the official primary entry age attending an early childhood education programme),7,1

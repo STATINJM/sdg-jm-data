@@ -9,10 +9,10 @@ Category of E-waste,1,2
 Category of International Health Regulations,1,13
 Category,16,39
 category,1,4
-Description,5,34
+Description,6,39
 Descriptor,1,8
 Development Type,1,7
-Disaggregation Level,3,18
+Disaggregation Level,4,27
 DRR Indicator,2,4
 DRR Strategy Score,1,1
 Educational Level,1,3
@@ -115,7 +115,7 @@ Type of Waste Collected,1,13
 Type of waste composition,1,10
 Type,2,11
 unit,1,2
-Unit,51,53
+Unit,52,54
 Vaccination Indicator,1,26
 Watershed,1,5
 Wealth Index Quintiles,3,5

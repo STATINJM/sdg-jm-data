@@ -43,6 +43,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-2-2,"Unit, Disaggregation Level",2
 #16-3-1,"Geographical Area, Type of Crime",2
 #16-3-2,"Unit, Geographical Area, Type of Detainee",3
+#16-4-1,"Description, Unit, Disaggregation Level",3
 #16-5-1,"Unit, Geographical Area, Proportion of bribery Incident, Type of bribe, Status of Corruption Charges",5
 #16-7-1,"Sex, House of Parliament/Local Government Representative",2
 #16-9-1,Geographical Area,1

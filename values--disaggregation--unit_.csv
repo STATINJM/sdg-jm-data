@@ -13,6 +13,7 @@ Density (per 10.000 population),11,1
 (Health Index),16,1
 Hectares,11,1
 (J$ Million),7,3
+J$,10,1
 (km2 '000),2,1
 Km2,2,1
 Land Area ( ha),10,1
@@ -24,7 +25,7 @@ MW,7,1
 (Neonatal Mortality Ratio),1,1
 Number (000),1,1
 Number of Sites,9,1
-Number,150,9
+Number,165,10
 per 100 000 population,16,1
 (per 100 inhabitants),1,1
 "Per 1,000 women in the specified age group",1,1
