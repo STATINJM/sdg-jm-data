@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Developing Regions",
                 "Jamaica",
                 ""
               ]
@@ -39,11 +40,9 @@
           },
           {
             "name": "Category",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Developing Countries",
-                "Jamaica",
                 ""
               ]
             },
