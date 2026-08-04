@@ -4,6 +4,8 @@ Animals,12,1
 Arthropods/ Invertebrates*,5,1
 Birds,6,1
 Chromists*,1,1
+Exchange Rate Margin (%),3,1
+Fee,3,1
 Fishes*,1,1
 Freshwater fiah,5,1
 Fungi*,1,1
@@ -22,6 +24,9 @@ Reptiles,5,1
 Reptiles*,1,1
 Situational Context - By Intimate Partner or Family Member,1,1
 Situational Context - Committed by Others including Acquaintances,1,1
+Total Cost CAD,1,1
+Total Cost USD,2,1
+Total Cost (%),3,1
 Total Victims,3,1
 Total,1,1
 Type of Weapon - Gun,2,1

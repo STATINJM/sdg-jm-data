@@ -9,7 +9,7 @@ Category of E-waste,1,2
 Category of International Health Regulations,1,13
 Category,15,38
 category,1,4
-Description,4,29
+Description,5,34
 Descriptor,1,8
 Development Type,1,7
 Disaggregation Level,2,12
@@ -31,7 +31,7 @@ Geographic Location,2,9
 Geographic region,1,1
 Geographic Region,5,21
 Geographical Area,7,28
-Geographical Region,29,16
+Geographical Region,30,19
 Geographical region,4,8
 Geographical Regions,3,7
 Group,1,10
@@ -81,6 +81,7 @@ School Type,1,2
 Sex,27,7
 Source of Primary Energy Supply,1,10
 Source of Vaccination Record,1,6
+Source,1,1
 Status of Corruption Charges,1,4
 Status,1,10
 Strategy Measure,1,3

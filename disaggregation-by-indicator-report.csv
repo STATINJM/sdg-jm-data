@@ -11,6 +11,7 @@ Indicator,Disaggregations,Number of disaggregations
 #10-1-1,Category,1
 #10-4-1,"Unit, Type of GDP by Income at Market Prices",2
 #10-5-1,"Financial soundness indicators, Financial soundness indicators-deposit-taking institution, Institution Type",3
+#10-c-1,"Description, Geographical Region, Source",3
 #11-1-1,"Geographical Area, Tenure",2
 #11-2-1,"Geographic Region, Type of Transpotation",2
 #11-3-1,"Parish, Type of Rate",2
@@ -32,7 +33,7 @@ Indicator,Disaggregations,Number of disaggregations
 #15-4-1,Category,1
 #15-4-2,"Unit, Category, Kapos Mountain Class, IPCC Class",4
 #15-5-1,"Type of Species, Status",2
-#16-1-1,"Unit, Sex, Geographical Region, Description",4
+#16-1-1,"Description, Geographical Region, Unit, Sex",4
 #16-1-3,Type of Violence,1
 #16-1-4,"Region, Safety at time of day, Sex",3
 #16-2-1,"Sex, Wealth Quintile, Age Group, Geographical Area, Type of Punishment",5
@@ -48,31 +49,31 @@ Indicator,Disaggregations,Number of disaggregations
 #17-3-1,"Unit, Category",2
 #17-3-2,"Unit, Category",2
 #17-4-1,Type of Debt,1
-#17-6-2,"Unit, Geographical Region",2
+#17-6-2,"Geographical Region, Unit",2
 #17-8-1,"Sex, Geographical region",2
 #2-1-1,Geographical Regions,1
-#2-1-2,"Unit, Geographical Region, Indicator Type",3
+#2-1-2,"Geographical Region, Unit, Indicator Type",3
 #2-2-1,"Sex, Age Group, Geographical Regions",3
 #2-2-2,"Sex, Age Group, Geographical Regions",3
 #2-5-1,"Description, Disaggregation Level",2
 #2-5-2,"Description, Disaggregation Level",2
 #2-a-2,"Unit, Type of Development Assistance",2
-#3-1-1,"Unit, Geographical Region",2
-#3-1-2,"Unit, Geographical Region",2
-#3-2-1,"Unit, Geographical Region",2
-#3-2-2,"Unit, Geographical Region",2
-#3-3-1,"Sex, Geographical Region, HIV Indicators",3
+#3-1-1,"Geographical Region, Unit",2
+#3-1-2,"Geographical Region, Unit",2
+#3-2-1,"Geographical Region, Unit",2
+#3-2-2,"Geographical Region, Unit",2
+#3-3-1,"Geographical Region, Sex, HIV Indicators",3
 #3-3-2,"Geogaphical Region, Tubercolosis Indicator",2
 #3-3-3,"Geographical Region, Malaria Indicator",2
 #3-3-4,"Geographical Region, Hepatitis B Indicator",2
 #3-4-1,"Geogaphical Region, Mortality Indictor",2
 #3-4-2,"Unit, Sex, Indicator, Geographical Area",4
-#3-5-1,"Sex, Geographical Region, Indicator Treatment Intervention, Reasons for not accessing the treatment",4
+#3-5-1,"Geographical Region, Sex, Indicator Treatment Intervention, Reasons for not accessing the treatment",4
 #3-5-2,"Sex, Indicator for harmful drug, Geogaphical Region",3
-#3-6-1,"Unit, Geographical Region, Indicator for road traffic injuries",3
+#3-6-1,"Geographical Region, Unit, Indicator for road traffic injuries",3
 #3-7-1,"Geographical Region, Age Group, Indicator",3
-#3-7-2,"Unit, Geographical Region, Indicator",3
-#3-8-2,"Sex, Geographical Region, Indicator",3
+#3-7-2,"Geographical Region, Unit, Indicator",3
+#3-8-2,"Geographical Region, Sex, Indicator",3
 #3-9-2,"Unit, Indicator",2
 #3-9-3,"Geographical Region, Indicator",2
 #3-a-1,"Unit, Sex, Indicator",3
@@ -83,7 +84,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-1,"Sex, Geographical region, Name of test, Descriptor",4
 #4-1-2,"Sex, Geographical region, Type of school",3
 #4-2-1,"Sex, Age Group, Wealth Index Quintiles, Development Type, Geographic Location, Preschool attendance",6
-#4-2-2,"Sex, Geographic Location, Description",3
+#4-2-2,"Description, Sex, Geographic Location",3
 #4-3-1,"Age Group, Enrolment Status",2
 #4-4-1,"ICT Skill, Age Group",2
 #4-5-1,"Geographical Region, Ratio, Wealth Index Quintiles",3
@@ -96,12 +97,12 @@ Indicator,Disaggregations,Number of disaggregations
 #5-3-1,"Geographical Region, Age Group",2
 #5-5-1,"Sex, House of Parliament",2
 #5-5-2,"Category, Quarter",2
-#5-b-1,"Sex, Geographical Region",2
+#5-b-1,"Geographical Region, Sex",2
 #6-1-1,"Geographical Region, Wealth Quintile",2
 #6-2-1,"Geographical Region, Wealth Index Quintiles, Type of Toilet Facility",3
 #6-3-1,Category,1
 #6-3-2,"Category, River, Measurement",3
-#6-4-2,"Category, Geographical Region",2
+#6-4-2,"Geographical Region, Category",2
 #6-5-1,Indicators,1
 #6-6-1,"Unit, Category",2
 #6-a-1,"Unit, Category",2
