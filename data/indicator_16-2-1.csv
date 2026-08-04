@@ -1,10 +1,10 @@
 Year,Geographical Area,Sex,Age Group,Wealth Quintile,Type of Punishment,Value
-2011,,Male,Psychological Aggression,,,74.1
-2011,,Female,Psychological Aggression,,,69.5
-2011,,Male,Any Physical Punishment,,,71.4
-2011,,Female,Any Physical Punishment,,,65.2
-2011,,Male,Severe Physical Punishment,,,6.7
-2011,,Female,Severe Physical Punishment,,,4.7
+2011,,Male,,,Psychological Aggression,74.1
+2011,,Male,,,Any Physical Punishment,71.4
+2011,,Male,,,Severe Physical Punishment,6.7
+2011,,Female,,,Psychological Aggression,69.5
+2011,,Female,,,Any Physical Punishment,65.2
+2011,,Female,,,Severe Physical Punishment,4.7
 2011,Jamaica,,,,Psychological Aggression,71.9
 2011,Jamaica,,,,Any Physical Punishment,68.4
 2011,Jamaica,,,,Severe Physical Punishment,5.7
@@ -41,3 +41,51 @@ Year,Geographical Area,Sex,Age Group,Wealth Quintile,Type of Punishment,Value
 2011,,,,Richest,Psychological Aggression,64.2
 2011,,,,Richest,Any Physical Punishment,51.9
 2011,,,,Richest,Severe Physical Punishment,2.3
+2022,Jamaica,,,,Only Non-violent Discipline,13.1
+2022,,Male,,,Only Non-violent Discipline,12.3
+2022,,Female,,,Only Non-violent Discipline,13.9
+2022,Urban,,,,Only Non-violent Discipline,12.5
+2022,Greater Kingston Metropolitan Area,,,,Only Non-violent Discipline,12.5
+2022,Other Urban Centres,,,,Only Non-violent Discipline,12.5
+2022,Rural,,,,Only Non-violent Discipline,13.6
+2022,,,,Poorest,Only Non-violent Discipline,9.7
+2022,,,,Second,Only Non-violent Discipline,12.2
+2022,,,,Middle,Only Non-violent Discipline,11.4
+2022,,,,Fourth,Only Non-violent Discipline,15
+2022,,,,Richest,Only Non-violent Discipline,19.3
+2022,,,1-2 Years Old,,Only Non-violent Discipline,10.2
+2022,,,3-4 Years Old,,Only Non-violent Discipline,12
+2022,,,5-9 Years Old,,Only Non-violent Discipline,12.3
+2022,,,10-14 Years Old,,Only Non-violent Discipline,12.8
+2022,Jamaica,,,,Psychological Aggression,67.8
+2022,,Male,,,Psychological Aggression,67.4
+2022,,Female,,,Psychological Aggression,68.1
+2022,Urban,,,,Psychological Aggression,69.7
+2022,Greater Kingston Metropolitan Area,,,,Psychological Aggression,74.4
+2022,Other Urban Centres,,,,Psychological Aggression,63.8
+2022,Rural,,,,Psychological Aggression,65.7
+2022,,,,Poorest,Psychological Aggression,70.6
+2022,,,,Second,Psychological Aggression,67.2
+2022,,,,Middle,Psychological Aggression,73.2
+2022,,,,Fourth,Psychological Aggression,65.7
+2022,,,,Richest,Psychological Aggression,59.7
+2022,,,1-2 Years Old,,Psychological Aggression,57.1
+2022,,,3-4 Years Old,,Psychological Aggression,72.1
+2022,,,5-9 Years Old,,Psychological Aggression,72.8
+2022,,,10-14 Years Old,,Psychological Aggression,70.4
+2022,Jamaica,,,,Any Violent Discipline Method,76.0
+2022,,Male,,,Any Violent Discipline Method,76.5
+2022,,Female,,,Any Violent Discipline Method,75.6
+2022,Urban,,,,Any Violent Discipline Method,77.8
+2022,Greater Kingston Metropolitan Area,,,,Any Violent Discipline Method,81.8
+2022,Other Urban Centres,,,,Any Violent Discipline Method,72.7
+2022,Rural,,,,Any Violent Discipline Method,74.2
+2022,,,,Poorest,Any Violent Discipline Method,79.3
+2022,,,,Second,Any Violent Discipline Method,77.6
+2022,,,,Middle,Any Violent Discipline Method,78.3
+2022,,,,Fourth,Any Violent Discipline Method,75.1
+2022,,,,Richest,Any Violent Discipline Method,67
+2022,,,1-2 Years Old,,Any Violent Discipline Method,72.4
+2022,,,3-4 Years Old,,Any Violent Discipline Method,81.1
+2022,,,5-9 Years Old,,Any Violent Discipline Method,81.3
+2022,,,10-14 Years Old,,Any Violent Discipline Method,75.3

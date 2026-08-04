@@ -1,61 +1,151 @@
-Year,School Type,Index,Sex,Geographic Area,Wealth Index Quintiles,Value
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,Other Towns,,98.3
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,Urban Total,,98.5
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,Rural,,99.0
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,,Poorest,98.9
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,,Second,98.6
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,,Middle,97.9
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,,Fourth,99.2
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,,Richest,99.0
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,Jamaica,,97.2
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,KMA,,97.1
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,Other Towns,,98.2
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,Urban Total,,97.6
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,Rural,,96.8
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,,Poorest,96.0
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,,Second,97.9
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,,Middle,96.4
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,,Fourth,97.8
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Boys,,Richest,98.5
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,Jamaica,,92.3
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),,KMA,,95.5
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,Other Towns,,94.6
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,Urban Total,,95.2
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,Rural,,89.1
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,,Poorest,88.3
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,,Second,90.8
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,,Middle,93.9
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,,Fourth,92.3
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Girls,,Richest,97.9
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,Jamaica,,90.8
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,KMA,,93.1
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,Other Towns,,89.4
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,Urban Total,,91.6
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,Rural,,89.9
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,,Poorest,87.0
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,,Second,92.9
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,,Middle,87.3
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,,Fourth,92.6
-2011,Secondary School,Adjusted Net Attendance Ratio (NAR),Boys,,Richest,95.2
-2011,Primary School,GPI for Adjusted Ratio (NAR),,Jamaica,,1.02
-2011,Primary School,GPI for Adjusted Ratio  (NAR),,KMA,,1.01
-2011,Primary School,GPI for Adjusted Ratio  (NAR),,Other Towns,,1.00
-2011,Primary School,GPI for Adjusted Ratio  (NAR),,Urban Total,,1.01
-2011,Primary School,GPI for Adjusted Ratio (NAR),,Rural,,1.02
-2011,Primary School,GPI for Adjusted Ratio (NAR),,,Poorest,1.03
-2011,Primary School,GPI for Adjusted Ratio  (NAR),,,Second,1.01
-2011,Primary School,GPI for Adjusted Ratio (NAR),,,Middle,1.01
-2011,Primary School,GPI for Adjusted Ratio (NAR),,,Fourth,1.01
-2011,Primary School,GPI for Adjusted Ratio (NAR),,,Richest,1.01
-2011,Secondary School,GPI for Adjusted Ratio (NAR),,Jamaica,,1.02
-2011,Secondary School,GPI for Adjusted Ratio  (NAR),,KMA,,1.03
-2011,Secondary School,GPI for Adjusted Ratio  (NAR),,Other Towns,,1.06
-2011,Secondary School,GPI for Adjusted Ratio  (NAR),,Urban Total,,1.04
-2011,Secondary School,GPI for Adjusted Ratio (NAR),,Rural,,0.99
-2011,Secondary School,GPI for Adjusted Ratio (NAR),,,Poorest,1.02
-2011,Secondary School,GPI for Adjusted Ratio  (NAR),,,Second,0.98
-2011,Secondary School,GPI for Adjusted Ratio (NAR),,,Middle,1.08
-2011,Secondary School,GPI for Adjusted Ratio (NAR),,,Fourth,1.00
-2011,Secondary School,GPI for Adjusted Ratio (NAR),,,Richest,1.03
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),Girls,Jamaica,,98.7
-2011,Primary School,Adjusted Net Attendance Ratio (NAR),,KMA,,98.5
+Year,Ratio,Geographical Region,Wealth Index Quintiles,Value
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,Jamaica,,98.7
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,Jamaica,,96.8
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,GKMA,,98.5
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,GKMA,,97.6
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,Other Towns,,98.3
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,Other Towns,,95.7
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,Urban Area,,98.5
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,Urban Area,,96.7
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,Rural Area,,99.0
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,Rural Area,,97.0
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Poorest,98.9
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Poorest,94.5
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Second,98.6
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Second,96.4
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Middle,97.9
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Middle,98.7
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Fourth,99.2
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Fourth,97.3
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Richest,99
+2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Richest,98.4
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Jamaica,,97.2
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Jamaica,,94.2
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,KMA,,97.1
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,KMA,,93.9
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Other Towns,,98.2
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Other Towns,,97.4
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Urban Area,,97.6
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Urban Area,,95.6
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Rural Area,,96.8
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Rural Area,,93.2
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Poorest,96.0
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Poorest,91.1
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Second,97.9
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Second,96.0
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Middle,96.4
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Middle,93.6
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Fourth,97.8
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Fourth,93.3
+2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Richest,98.5
+2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,,Richest,97.9
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,Jamaica,,94.3
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,GKMA,,94.6
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,Other Urban Centre,,98.1
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,Urban,,96.3
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,Rural,,92.7
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Poorest,87.9
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Second,94.6
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Middle,95.5
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Fourth,97.7
+2022,Girls Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Richest,98.3
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,Jamaica,,89.2
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,KMA,,89.6
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,Other Towns,,88.5
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,Urban Total,,89.1
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,Rural,,89.3
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Poorest,81.3
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Second,89.5
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Middle,91.3
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Fourth,87.8
+2022,Boys Adjusted Net Attendance Ratio (NAR) Lower Secondary School,,Richest,97.4
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,Jamaica,,86.7
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,GKMA,,86.3
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,Other Urban Centre,,94.4
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,Urban,,90.4
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,Rural,,84.3
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Poorest,83.3
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Second,78.7
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Middle,90.6
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Fourth,94.1
+2022,Girls Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Richest,89.2
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,Jamaica,,77.6
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,KMA,,76.4
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,Other Towns,,78.8
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,Urban Total,,77.6
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,Rural,,77.8
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Poorest,65.4
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Second,71.3
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Middle,82.7
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Fourth,81.9
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Richest,(93.3)
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,Jamaica,,92.3
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,KMA,,95.5
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,Other Towns,,94.6
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,Urban Total,,95.2
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,Rural,,89.1
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,,Poorest,88.3
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,,Second,90.8
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,,Middle,93.9
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,,Fourth,92.3
+2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,,Richest,97.9
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,Jamaica,,90.8
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,KMA,,93.1
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,Other Towns,,89.4
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,Urban Total,,91.6
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,Rural,,89.9
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Poorest,87
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Second,92.9
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Middle,87.3
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Fourth,92.6
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Richest,95.2
+2011,GPI for Adjusted Ratio (NAR) Primary School,Jamaica,,1.02
+2022,GPI for Adjusted Ratio (NAR) Primary School,Jamaica,,1.03
+2011,GPI for Adjusted Ratio (NAR) Primary School,KMA,,1.01
+2022,GPI for Adjusted Ratio (NAR) Primary School,KMA,,1.04
+2011,GPI for Adjusted Ratio (NAR) Primary School,Other Towns,,1.00
+2022,GPI for Adjusted Ratio (NAR) Primary School,Other Towns,,0.98
+2011,GPI for Adjusted Ratio (NAR) Primary School,Urban Total,,1.01
+2022,GPI for Adjusted Ratio (NAR) Primary School,Urban Total,,1.01
+2011,GPI for Adjusted Ratio (NAR) Primary School,Rural,,1.02
+2022,GPI for Adjusted Ratio (NAR) Primary School,Rural,,1.04
+2011,GPI for Adjusted Ratio (NAR) Primary School,,Poorest,1.03
+2022,GPI for Adjusted Ratio (NAR) Primary School,,Poorest,1.04
+2011,GPI for Adjusted Ratio (NAR) Primary School,,Second,1.01
+2022,GPI for Adjusted Ratio (NAR) Primary School,,Second,1.00
+2011,GPI for Adjusted Ratio (NAR) Primary School,,Middle,1.01
+2022,GPI for Adjusted Ratio (NAR) Primary School,,Middle,1.05
+2011,GPI for Adjusted Ratio (NAR) Primary School,,Fourth,1.01
+2022,GPI for Adjusted Ratio (NAR) Primary School,,Fourth,1.04
+2011,GPI for Adjusted Ratio (NAR) Primary School,,Richest,1.01
+2022,GPI for Adjusted Ratio (NAR) Primary School,,Richest,1.01
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,Jamaica,,1.06
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,Urban,,1.08
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,GKMA,,1.06
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,OUC,,1.11
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,Rural,,1.04
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,,Poorest,1.08
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,,Second,1.06
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,,Middle,1.05
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,,Fourth,1.11
+2022,GPI for Adjusted Ratio (NAR) Lower Secondary School,,Richest,1.01
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,Jamaica,,1.12
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,Urban,,1.16
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,GKMA,,1.13
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,OUC,,1.2
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,Rural,,1.08
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,,Poorest,1.27
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,,Second,1.1
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,,Middle,1.1
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,,Fourth,1.15
+2022,GPI for Adjusted Ratio (NAR) Upper Secondary School,,Richest,-0.96
+2011,GPI for Adjusted Ratio (NAR) Secondary School,Jamaica,,1.02
+2011,GPI for Adjusted Ratio (NAR) Secondary School,KMA,,1.03
+2011,GPI for Adjusted Ratio (NAR) Secondary School,Other Towns,,1.06
+2011,GPI for Adjusted Ratio (NAR) Secondary School,Urban Total,,1.04
+2011,GPI for Adjusted Ratio (NAR) Secondary School,Rural,,0.99
+2011,GPI for Adjusted Ratio (NAR) Secondary School,,Poorest,1.02
+2011,GPI for Adjusted Ratio (NAR) Secondary School,,Second,0.98
+2011,GPI for Adjusted Ratio (NAR) Secondary School,,Middle,1.08
+2011,GPI for Adjusted Ratio (NAR) Secondary School,,Fourth,1.00
+2011,GPI for Adjusted Ratio (NAR) Secondary School,,Richest,1.03

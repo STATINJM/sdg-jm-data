@@ -1,31 +1,169 @@
-Year,Geographical Region,Sex,Value
-2019,Jamaica,,49.0
-2019,,Male,89.7
-2019,,Female,9.2
-2010,Jamaica,,53.6
-2010,,Male,97.5
-2010,,Female,10.6
-2011,Jamaica,,41.9
-2011,,Male,75.8
-2011,,Female,8.7
-2012,Jamaica,,40.1
-2012,,Male,71.0
-2012,,Female,9.8
-2013,Jamaica,,44.2
-2013,,Male,79.6
-2013,,Female,9.4
-2014,Jamaica,,36.9
-2014,,Male,65.9
-2014,,Female,7.4
-2015,Jamaica,,44.3
-2015,,Male,79.4
-2015,,Female,8.6
-2016,Jamaica,,49.6
-2016,,Male,88.5
-2016,,Female,10.0
-2017,Jamaica,,60.4
-2017,,Male,107.7
-2017,,Female,11.8
-2018,Jamaica,,47.2
-2018,,Male,84.1
-2018,,Female,9.6
+Year,Description,Geographical Region,Sex,Unit,Value
+2010,Total Victims,Jamaica,Female,Number,145
+2011,Total Victims,Jamaica,Female,Number,119
+2012,Total Victims,Jamaica,Female,Number,127
+2013,Total Victims,Jamaica,Female,Number,130
+2014,Total Victims,Jamaica,Female,Number,100
+2015,Total Victims,Jamaica,Female,Number,116
+2016,Total Victims,Jamaica,Female,Number,135
+2017,Total Victims,Jamaica,Female,Number,160
+2018,Total Victims,Jamaica,Female,Number,129
+2019,Total Victims,Jamaica,Female,Number,128
+2020,Total Victims,Jamaica,Female,Number,113
+2021,Total Victims,Jamaica,Female,Number,133
+2010,Total Victims,Jamaica,Male,Number,1302
+2011,Total Victims,Jamaica,Male,Number,1014
+2012,Total Victims,Jamaica,Male,Number,975
+2013,Total Victims,Jamaica,Male,Number,1072
+2014,Total Victims,Jamaica,Male,Number,905
+2015,Total Victims,Jamaica,Male,Number,1093
+2016,Total Victims,Jamaica,Male,Number,1219
+2017,Total Victims,Jamaica,Male,Number,1487
+2018,Total Victims,Jamaica,Male,Number,1160
+2019,Total Victims,Jamaica,Male,Number,1212
+2020,Total Victims,Jamaica,Male,Number,1220
+2021,Total Victims,Jamaica,Male,Number,1341
+2010,Total Victims,Jamaica,Total,Number,1447
+2011,Total Victims,Jamaica,Total,Number,1133
+2012,Total Victims,Jamaica,Total,Number,1102
+2013,Total Victims,Jamaica,Total,Number,1202
+2014,Total Victims,Jamaica,Total,Number,1005
+2015,Total Victims,Jamaica,Total,Number,1209
+2016,Total Victims,Jamaica,Total,Number,1354
+2017,Total Victims,Jamaica,Total,Number,1647
+2018,Total Victims,Jamaica,Total,Number,1289
+2019,Total Victims,Jamaica,Total,Number,1340
+2020,Total Victims,Jamaica,Total,Number,1333
+2021,Total Victims,Jamaica,Total,Number,1476
+2022,Total Victims,Jamaica,Total,Number,1511
+2010,Victim Rate,Jamaica,Total,"Per 100,000 population",53.6
+2011,Victim Rate,Jamaica,Total,"Per 100,000 population",41.9
+2012,Victim Rate,Jamaica,Total,"Per 100,000 population",40.1
+2013,Victim Rate,Jamaica,Total,"Per 100,000 population",44.2
+2014,Victim Rate,Jamaica,Total,"Per 100,000 population",36.9
+2015,Victim Rate,Jamaica,Total,"Per 100,000 population",44.5
+2016,Victim Rate,Jamaica,Total,"Per 100,000 population",49.8
+2017,Victim Rate,Jamaica,Total,"Per 100,000 population",60.5
+2018,Victim Rate,Jamaica,Total,"Per 100,000 population",47.2
+2019,Victim Rate,Jamaica,Total,"Per 100,000 population",49.0
+2020,Victim Rate,Jamaica,Total,"Per 100,000 population",48.8
+2021,Victim Rate,Jamaica,Total,"Per 100,000 population",54.0
+2022,Victim Rate,Jamaica,Total,"Per 100,000 population",55.3
+2023,Victim Rate,Jamaica,Total,"Per 100,000 population",51.4
+2024,Victim Rate,Jamaica,Total,"Per 100,000 population",41.9
+2010,Victim Rate,Jamaica,Male,"Per 100,000 population",97.5
+2011,Victim Rate,Jamaica,Male,"Per 100,000 population",75.8
+2012,Victim Rate,Jamaica,Male,"Per 100,000 population",71
+2013,Victim Rate,Jamaica,Male,"Per 100,000 population",79.6
+2014,Victim Rate,Jamaica,Male,"Per 100,000 population",65.9
+2015,Victim Rate,Jamaica,Male,"Per 100,000 population",81.3
+2016,Victim Rate,Jamaica,Male,"Per 100,000 population",90.5
+2017,Victim Rate,Jamaica,Male,"Per 100,000 population",110.3
+2018,Victim Rate,Jamaica,Male,"Per 100,000 population",84.1
+2019,Victim Rate,Jamaica,Male,"Per 100,000 population",89.7
+2020,Victim Rate,Jamaica,Male,"Per 100,000 population",90.3
+2021,Victim Rate,Jamaica,Male,"Per 100,000 population",99.2
+2022,Victim Rate,Jamaica,Male,"Per 100,000 population",102.4
+2023,Victim Rate,Jamaica,Male,"Per 100,000 population",94.9
+2024,Victim Rate,Jamaica,Male,"Per 100,000 population",78.8
+2010,Victim Rate,Jamaica,Female,"Per 100,000 population",10.6
+2011,Victim Rate,Jamaica,Female,"Per 100,000 population",8.7
+2012,Victim Rate,Jamaica,Female,"Per 100,000 population",9.8
+2013,Victim Rate,Jamaica,Female,"Per 100,000 population",9.4
+2014,Victim Rate,Jamaica,Female,"Per 100,000 population",7.4
+2015,Victim Rate,Jamaica,Female,"Per 100,000 population",8.6
+2016,Victim Rate,Jamaica,Female,"Per 100,000 population",10.0
+2017,Victim Rate,Jamaica,Female,"Per 100,000 population",11.6
+2018,Victim Rate,Jamaica,Female,"Per 100,000 population",9.6
+2019,Victim Rate,Jamaica,Female,"Per 100,000 population",9.2
+2020,Victim Rate,Jamaica,Female,"Per 100,000 population",9.6
+2021,Victim Rate,Jamaica,Female,"Per 100,000 population",9.6
+2022,Victim Rate,Jamaica,Female,"Per 100,000 population",9.0
+2023,Victim Rate,Jamaica,Female,"Per 100,000 population",8.8
+2024,Victim Rate,Jamaica,Female,"Per 100,000 population",5.9
+2018,Type of Weapon - Gun,Jamaica,Total,Number,1015
+2019,Type of Weapon - Gun,Jamaica,Total,Number,1119
+2020,Type of Weapon - Gun,Jamaica,Total,Number,1118
+2021,Type of Weapon - Gun,Jamaica,Total,Number,1251
+2022,Type of Weapon - Gun,Jamaica,Total,Number,1269
+2023,Type of Weapon - Gun,Jamaica,Total,Number,1192
+2024,Type of Weapon - Gun,Jamaica,Total,Number,969
+2018,Type of Weapon - Sharp Instrument,Jamaica,Total,Number,109
+2019,Type of Weapon - Sharp Instrument,Jamaica,Total,Number,84
+2020,Type of Weapon - Sharp Instrument,Jamaica,Total,Number,84
+2021,Type of Weapon - Sharp Instrument,Jamaica,Total,Number,91
+2022,Type of Weapon - Sharp Instrument,Jamaica,Total,Number,107
+2023,Type of Weapon - Sharp Instrument,Jamaica,Total,Number,88
+2024,Type of Weapon - Sharp Instrument,Jamaica,Total,Number,61
+2018,Type of Weapon - Other,Jamaica,Total,Number,167
+2019,Type of Weapon - Other,Jamaica,Total,Number,137
+2020,Type of Weapon - Other,Jamaica,Total,Number,131
+2021,Type of Weapon - Other,Jamaica,Total,Number,136
+2022,Type of Weapon - Other,Jamaica,Total,Number,140
+2023,Type of Weapon - Other,Jamaica,Total,Number,124
+2024,Type of Weapon - Other,Jamaica,Total,Number,112
+2010,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",40.7
+2011,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",29.3
+2012,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",28.7
+2013,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",32.5
+2014,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",26.3
+2015,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",36.0
+2016,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",40.3
+2017,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",49.2
+2018,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",37.1
+2019,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",41.0
+2020,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",40.9
+2021,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",45.7
+2022,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",46.3
+2023,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",35.5
+2024,Type of Weapon - Gun,Jamaica,Total,"Per 100,000 population",43.6
+2010,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",8.9
+2011,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",8.2
+2012,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",8.2
+2013,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",8
+2014,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",6.5
+2015,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",5.7
+2016,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",5.8
+2017,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",6.2
+2018,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",5.6
+2019,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",3.1
+2020,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",3.1
+2021,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",3.3
+2022,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",3.9
+2023,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",2.2
+2024,Type of Weapon - Sharp Instrument,Jamaica,Total,"Per 100,000 population",3.2
+2011,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",0
+2012,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",0.1
+2013,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",0.1
+2014,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",4.2
+2015,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",2.6
+2016,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",3.6
+2017,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",4.9
+2018,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",4.4
+2019,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",5.0
+2020,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",4.8
+2021,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",5.0
+2022,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",5.1
+2023,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",4.1
+2024,Type of Weapon - Other,Jamaica,Total,"Per 100,000 population",4.5
+2010,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",2.2
+2011,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",3.8
+2012,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",3.8
+2013,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",2.8
+2014,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",1.9
+2015,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",0.8
+2016,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",0.9
+2018,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",1.4
+2019,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",1.1
+2020,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",0.5
+2021,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",1.1
+2022,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",0.9
+2023,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",0.7
+2024,Situational Context - By Intimate Partner or Family Member,Jamaica,Total,"Per 100,000 population",0.3
+2018,Situational Context - Committed by Others including Acquaintances,Jamaica,Total,"Per 100,000 population",45.9
+2019,Situational Context - Committed by Others including Acquaintances,Jamaica,Total,"Per 100,000 population",49
+2020,Situational Context - Committed by Others including Acquaintances,Jamaica,Total,"Per 100,000 population",48.3
+2021,Situational Context - Committed by Others including Acquaintances,Jamaica,Total,"Per 100,000 population",52.9
+2022,Situational Context - Committed by Others including Acquaintances,Jamaica,Total,"Per 100,000 population",54.4
+2023,Situational Context - Committed by Others including Acquaintances,Jamaica,Total,"Per 100,000 population",50.7
+2024,Situational Context - Committed by Others including Acquaintances,Jamaica,Total,"Per 100,000 population",41.7

@@ -1,29 +1,33 @@
 Year,Category,Unit,Value
-2020,Official Development Assistance (ODA),(J$ Million),43812.0
-2020,Foreign Direct Investment (FDI),(J$ Million),46577
-2020,% ODA / Central Government Expenditure,(Per cent),7.0
-2020,% FDI / Central Government Expenditure,(Per cent),7.4
 2015,Official Development Assistance (ODA),(J$ Million),42103.0
-2015,Foreign Direct Investment (FDI),(J$ Million),108512.0
-2015,% ODA / Central Government Expenditure,(Per cent),9.1
-2015,% FDI / Central Government Expenditure,(Per cent),23.6
 2016,Official Development Assistance (ODA),(J$ Million),41634.0
-2016,Foreign Direct Investment (FDI),(J$ Million),116127.0
-2016,% ODA / Central Government Expenditure,(Per cent),8.3
-2016,% FDI / Central Government Expenditure,(Per cent),23.1
 2017,Official Development Assistance (ODA),(J$ Million),101045.0
-2017,Foreign Direct Investment (FDI),(J$ Million),114091.0
-2017,% ODA / Central Government Expenditure,(Per cent),18.3
-2017,% FDI / Central Government Expenditure,(Per cent),20.7
 2018,Official Development Assistance (ODA),(J$ Million),28629.0
-2018,Foreign Direct Investment (FDI),(J$ Million),100484.0
-2018,% ODA / Central Government Expenditure,(Per cent),4.7
-2018,% FDI / Central Government Expenditure,(Per cent),16.6
 2019,Official Development Assistance (ODA),(J$ Million),18912.0
+2020,Official Development Assistance (ODA),(J$ Million),43812.0
+2021,Official Development Assistance (ODA),(J$ Million),43197.0
+2022,Official Development Assistance (ODA),(J$ Million),25861.0
+2015,Foreign Direct Investment (FDI),(J$ Million),108512.0
+2016,Foreign Direct Investment (FDI),(J$ Million),116127.0
+2017,Foreign Direct Investment (FDI),(J$ Million),114091.0
+2018,Foreign Direct Investment (FDI),(J$ Million),100484.0
 2019,Foreign Direct Investment (FDI),(J$ Million),89310.0
-2019,% ODA / Central Government Expenditure,(Per cent),3.0
-2019,% FDI / Central Government Expenditure,(Per cent),14.2
-2021,Official Development Assistance (ODA),(J$ Million),43196.5
-2021,Foreign Direct Investment (FDI),(J$ Million),48594.2
-2021,% ODA / Central Government Expenditure,(Per cent),6.2
-2021,% FDI / Central Government Expenditure,(Per cent),7.0
+2020,Foreign Direct Investment (FDI),(J$ Million),37981.0
+2021,Foreign Direct Investment (FDI),(J$ Million),48594.0
+2022,Foreign Direct Investment (FDI),(J$ Million),49147.0
+2015,Percentage of ODA to Central Government Expenditure,(Per cent),9.1
+2016,Percentage of ODA to Central Government Expenditure,(Per cent),8.3
+2017,Percentage of ODA to Central Government Expenditure,(Per cent),18.3
+2018,Percentage of ODA to Central Government Expenditure,(Per cent),4.7
+2019,Percentage of ODA to Central Government Expenditure,(Per cent),3.0
+2020,Percentage of ODA to Central Government Expenditure,(Per cent),6.9
+2021,Percentage of ODA to Central Government Expenditure,(Per cent),6.2
+2022,Percentage of ODA to Central Government Expenditure,(Per cent),3.2
+2015,Percentage of FDI to Central Government Expenditure,(Per cent),23.6
+2016,Percentage of FDI to Central Government Expenditure,(Per cent),23.1
+2017,Percentage of FDI to Central Government Expenditure,(Per cent),20.7
+2018,Percentage of FDI to Central Government Expenditure,(Per cent),16.6
+2019,Percentage of FDI to Central Government Expenditure,(Per cent),14.2
+2020,Percentage of FDI to Central Government Expenditure,(Per cent),7.32
+2021,Percentage of FDI to Central Government Expenditure,(Per cent),6.95
+2022,Percentage of FDI to Central Government Expenditure,(Per cent),5.99

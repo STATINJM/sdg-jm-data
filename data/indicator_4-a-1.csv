@@ -1,7 +1,16 @@
-Year,School Type,infrastructure Type,Value
+Year,School Type,Infrastructure Type,Value
 2017,Primary,Electricity,58.7
+2016/2017,Primary,Electricity,83
+2017/2018,Primary,Electricity,93.6
+2018/2019,Primary,Electricity,94.6
 2017,Primary,Internet for pedagogical purposes,69.8
+2016/2017,Primary,Internet for pedagogical purposes,93.3
+2017/2018,Primary,Internet for pedagogical purposes,92.6
+2018/2019,Primary,Internet for pedagogical purposes,91.3
 2017,Primary,Computers for pedagogical purposes,100
+2016/2017,Primary,Computers for pedagogical purposes,83.1
+2017/2018,Primary,Computers for pedagogical purposes,82.1
+2018/2019,Primary,Computers for pedagogical purposes,83.9
 2017,Primary,Adapted infrastructure and materials for students with disabilities,13.3
 2017,Primary,Basic drinking water,58.7
 2017,Primary,Single-sex basic sanitation facilities,58.7
