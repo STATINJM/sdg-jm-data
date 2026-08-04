@@ -794,7 +794,7 @@
             "title": "Year"
           },
           {
-            "name": "Geographical region",
+            "name": "Geographical Region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -804,7 +804,7 @@
                 ""
               ]
             },
-            "title": "Geographical region"
+            "title": "Geographical Region"
           },
           {
             "name": "Sex",
