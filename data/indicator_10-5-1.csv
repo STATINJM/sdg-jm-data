@@ -90,9 +90,9 @@ Financial soundness indicators,Liquid assets to total assets,Deposit-taking Inst
 Financial soundness indicators,Liquid assets to total assets,Deposit-taking Institution,20.8,2023
 Financial soundness indicators,Liquid assets to total assets,Deposit-taking Institution,20.2,2024
 Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,0,2015
-Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,N/A,2016
-Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,N/A,2017
-Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,N/A,2018
+Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,,2016
+Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,,2017
+Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,,2018
 Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,1.7,2019
 Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,,2020
 Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,,2021
@@ -100,9 +100,9 @@ Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking
 Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,,2023
 Financial soundness indicators,Duration on assets -Domestic Bonds,Deposit-taking Institution,,2024
 Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,0,2015
-Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,N/A,2016
-Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,N/A,2017
-Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,N/A,2018
+Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,,2016
+Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,,2017
+Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,,2018
 Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,2.5,2019
 Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,,2020
 Financial soundness indicators,Duration on assets- Global Bonds,Deposit-taking Institution,,2021
@@ -546,8 +546,8 @@ Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance
 Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance,2.7,2019
 Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance,2.3,2020
 Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance,3.4,2021
-Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance,N/A,2022
-Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance,N/A,2023
+Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance,,2022
+Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance,,2023
 Financial soundness indicators,Duration on assets -Domestic Bonds,Life Insurance,,2024
 Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,7.4,2015
 Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,5.5,2016
@@ -556,6 +556,6 @@ Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,1
 Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,9.4,2019
 Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,10.6,2020
 Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,11.1,2021
-Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,N/A,2022
-Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,N/A,2023
+Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,,2022
+Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,,2023
 Financial soundness indicators,Duration on assets- Global Bonds,Life Insurance,,2024
