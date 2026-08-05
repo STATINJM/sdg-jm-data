@@ -7538,6 +7538,7 @@
               "enum": [
                 "('000 tonnes)",
                 "(Million Tonnes)",
+                "Number",
                 ""
               ]
             }
@@ -7548,7 +7549,26 @@
             "constraints": {
               "enum": [
                 "Total E-waste generated",
+                "Amount going to large equipment",
+                "Screens monitors and equipment containing screens (..)",
+                "Temperature exchange equipment (Cooling and Freezing Equipment)",
+                "Small E-waste",
+                "of which lamps",
+                "of which small equipment",
+                "of which: Small IT and telecommunication equipment",
+                "Used lead acid batteries exported",
+                "Lead sulphate exported",
+                "Solid contaminated with polychlorinatedbiphenyl (PCB) exported",
+                "Obsolete pesticide exported",
                 "Total exported",
+                "E waste exported",
+                "Exports of hazardous wastes applications received",
+                "Exports of hazardous wastes applications approved",
+                "Transit of hazardous wastes applications received",
+                "Transit of hazardous wastes applications approved",
+                "Total applications received",
+                "Total applications approved",
+                "Paint Related Waste exported",
                 ""
               ]
             }
