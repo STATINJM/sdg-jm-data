@@ -20,6 +20,7 @@
             "constraints": {
               "enum": [
                 "Financial soundness indicators",
+                "=Financial soundness indicators",
                 ""
               ]
             }
