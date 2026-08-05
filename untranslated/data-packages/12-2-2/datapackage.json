@@ -19,16 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bauxite",
-                "Alumina",
-                "Silica Sand",
-                "Limestone",
-                "Sand and Gravel",
-                "Marl and Fill",
-                "Shale",
-                "Pozzolan",
-                "Clay",
-                "Gypsum",
                 "Steam & Slow Speed Plants",
                 "Gas Turbines & Combined Cycle Plant",
                 "Hydro",
@@ -38,7 +28,15 @@
                 "Percentage Contribution of IIPs",
                 "Lossess & Accounted for",
                 "System losses as a percentage of net generation",
-                "Lossess & Accounted for ('000 MWh)",
+                "Alumina",
+                "Silica Sand",
+                "Limestone",
+                "Sand and Gravel",
+                "Marl and Fill",
+                "Shale",
+                "Pozzolan",
+                "Clay",
+                "Gypsum",
                 ""
               ]
             }
@@ -48,8 +46,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(Tonnes)",
                 "('000 Mwh)",
+                "Per cent",
                 "(%)",
                 "('000 MWh)",
                 "('000 Tonnes)",

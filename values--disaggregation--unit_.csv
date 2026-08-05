@@ -1,10 +1,10 @@
 Value,Disaggregation combinations using this value,Number of indicators
-(%),50,4
+(%),49,4
 '000 boe,9,1
-('000 Mwh),6,1
+('000 Mwh),5,1
 ('000 MWh),1,1
 ('000 tonnes),10,2
-('000 Tonnes),10,1
+('000 Tonnes),9,1
 (1000 ha),3,1
 %,6,4
 (Area %),2,1
@@ -35,7 +35,7 @@ Per 100.000 Population,36,1
 per 100.000 population,15,2
 (Per cent),5,4
 (per cent),3,1
-Per cent,76,12
+Per cent,77,13
 per cent,24,1
 "Persons affected per 100,000 population",6,1
 "Persons dead per 100,000 population",6,1
@@ -43,7 +43,6 @@ per cent,24,1
 Renewable Energy Watts Per Capita,1,1
 Score,13,1
 Tonnes,6,1
-(Tonnes),10,1
 Total Volume of Waste (tonnes),5,1
 (Under five Mortality Ratio),1,1
 (US$ Million),3,1
