@@ -1,11 +1,16 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Cardboard,2,1
+Cardboard,3,1
 Compostable,2,1
-E-waste,1,1
-Glass,2,1
-Metal or tin,2,1
-Paper,2,1
-Plastic,2,1
-Textile,2,1
-Total,2,1
-Wood or board,2,1
+E-waste,2,1
+Glass,3,1
+Hazardous waste,1,1
+Inert waste,1,1
+Metal or tin,3,1
+Organic waste,1,1
+Other waste,1,1
+Paper,3,1
+Plastic,3,1
+Special Waste,1,1
+Textile,3,1
+Total,3,1
+Wood or board,3,1

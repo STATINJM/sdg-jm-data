@@ -30,6 +30,11 @@
                 "Textile",
                 "E-waste",
                 "Total",
+                "Inert waste",
+                "Hazardous waste",
+                "Special Waste",
+                "Other waste",
+                "Organic waste",
                 ""
               ]
             },
@@ -42,6 +47,7 @@
               "enum": [
                 "Southern Parks and Market",
                 "North Eastern Parks and Markets",
+                "Jamaica",
                 ""
               ]
             },
@@ -52,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Per cent",
                 ""
               ]
             },
