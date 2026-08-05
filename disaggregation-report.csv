@@ -60,7 +60,7 @@ Manufacturing Indicator,1,2
 Measurement,1,15
 Ministry,1,3
 Mode of transport,1,3
-Monitored Area,1,26
+Monitored Area,1,57
 Mortality Indictor,1,2
 Name of test,1,13
 Name of Weather Event,1,30
@@ -116,7 +116,7 @@ Type of Waste Collected,1,13
 Type of waste composition,1,10
 Type,2,11
 unit,1,2
-Unit,54,55
+Unit,54,53
 Vaccination Indicator,1,26
 Watershed,1,5
 Wealth Index Quintiles,3,5

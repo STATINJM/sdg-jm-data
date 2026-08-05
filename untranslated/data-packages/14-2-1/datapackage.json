@@ -12,14 +12,13 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Monitored Area",
             "type": "string",
             "constraints": {
               "enum": [
-                "Blue Lagoon (Portland)",
                 "Monkey Island",
                 "Oracabessa Bay Special Fishery Conservation Area",
                 "Sandals Boscobel Special Fishery Conservation Area",
@@ -35,15 +34,47 @@
                 "Savanna-la-mar",
                 "Portland Bight Protected Area",
                 "CRHI (overall mean)",
+                "Drunkenman's Cay",
+                "Lime Cay",
+                "South East Cay",
+                "Wreck Reef",
+                "Pigeon Island West",
+                "Boscobel Flats",
+                "Boscobel West",
+                "Commander Reef",
+                "Golden Eye Coral Garden",
+                "Coral Nursery",
+                "Dairy Bull",
+                "Pear Tree Bottom",
+                "Gorgo City",
+                "Sewage End",
+                "Dickies Reef",
+                "Choicy Reef",
+                "Hermosa Cove",
+                "RIU Nursery",
+                "Classroom Reef",
+                "Sergeant Major",
+                "Airport Reef West",
+                "Relocation 1",
+                "Oyster Bay",
+                "Peter Tosh Reef",
+                "Sunset Beach Mooring",
+                "Sandals Reef",
+                "El Punto Negrilo",
+                "Bloody Bay",
+                "Ireland Pen",
+                "Sandals Reef 2",
+                "Round Hill",
                 "Kingston",
                 "Portland",
-                "Trelawmy",
+                "Trelawny",
                 "Westmoreland",
                 "Negril (Hanover/Westmoreland)",
                 "Clarendon",
                 "St Catherine",
                 "St James",
-                "Trelawny",
+                "Hellshire",
+                "Negril (Special Monitoring)",
                 "Average",
                 ""
               ]
@@ -54,16 +85,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(Health Index)",
-                "Number of Sites",
-                "Cumulative Mean Beach Width (m)",
+                "Health Index",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

@@ -8,9 +8,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 (1000 ha),3,1
 %,25,5
 (Area %),2,1
-Cumulative Mean Beach Width (m),9,1
 Density (per 10.000 population),11,1
-(Health Index),16,1
+Health Index,46,1
 Hectares,11,1
 (J$ Million),7,3
 J$,10,1
@@ -24,7 +23,6 @@ $ Million,6,1
 MW,7,1
 (Neonatal Mortality Ratio),1,1
 Number (000),1,1
-Number of Sites,9,1
 Number,166,11
 per 100 000 population,16,1
 Per 100 inhabitants,4,1
