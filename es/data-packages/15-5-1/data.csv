@@ -1,220 +1,173 @@
 Year,Type of Species,Status,Value
-2010,Mammals,Critically Endangered,1
-2013,Mammals,Critically Endangered,1
-2010,Birds,Critically Endangered,2
-2013,Birds,Critically Endangered,2
-2010,Reptiles,Critically Endangered,3
-2013,Reptiles,Critically Endangered,1
-2010,Amphibians,Critically Endangered,5
-2013,Amphibians,Critically Endangered,0
-2010,Freshwater fish,Critically Endangered,n.a
-2013,Freshwater fish,Critically Endangered,0
-2010,Molluscs (land)*,Critically Endangered,n.a
+2010,Mammals,Critically Endangered,1.0
+2013,Mammals,Critically Endangered,1.0
+2010,Birds,Critically Endangered,2.0
+2013,Birds,Critically Endangered,2.0
+2010,Reptiles,Critically Endangered,3.0
+2013,Reptiles,Critically Endangered,1.0
+2010,Amphibians,Critically Endangered,5.0
+2013,Amphibians,Critically Endangered,0.0
+2013,Freshwater fish,Critically Endangered,0.0
 2012,Molluscs (land)*,Critically Endangered,3.463203463
-2013,Molluscs (land)*,Critically Endangered,0
-2010,Arthropods/ Invertebrates*,Critically Endangered,n.a
-2013,Arthropods/ Invertebrates*,Critically Endangered,0
-2010,Plants*,Critically Endangered,n.a
-2013,Plants*,Critically Endangered,0
-2010,Mammals,Endangered,0
-2013,Mammals,Endangered,0
-2010,Birds,Endangered,1
-2013,Birds,Endangered,1
-2010,Reptiles,Endangered,1
-2013,Reptiles,Endangered,0
-2010,Amphibians,Endangered,1
-2013,Amphibians,Endangered,2
-2010,Freshwater fish,Endangered,n.a
-2013,Freshwater fish,Endangered,0
-2010,Molluscs (land)*,Endangered,n.a
-2013,Molluscs (land)*,Endangered,n.a
-2010,Arthropods/ Invertebrates*,Endangered,n.a
-2013,Arthropods/ Invertebrates*,Endangered,0
-2010,Plants*,Endangered,n.a
-2013,Plants*,Endangered,1
-2010,Mammals,Vulnerable,4
-2013,Mammals,Vulnerable,2
-2010,Birds,Vulnerable,7
-2013,Birds,Vulnerable,7
-2010,Reptiles,Vulnerable,1
-2013,Reptiles,Vulnerable,0
-2010,Amphibians,Vulnerable,n.a
-2013,Amphibians,Vulnerable,0
-2010,Freshwater fish,Vulnerable,n.a
-2013,Freshwater fish,Vulnerable,0
-2010,Molluscs (land)*,Vulnerable,n.a
-2013,Molluscs (land)*,Vulnerable,n.a
-2010,Arthropods/ Invertebrates*,Vulnerable,n.a
-2013,Arthropods/ Invertebrates*,Vulnerable,0
-2010,Plants*,Vulnerable,n.a
-2013,Plants*,Vulnerable,1
-2010,Mammals,Near Threatened,0
-2013,Mammals,Near Threatened,0
-2010,Birds,Near Threatened,n.a
-2013,Birds,Near Threatened,11
-2010,Reptiles,Near Threatened,n.a
-2013,Reptiles,Near Threatened,1
-2010,Amphibians,Near Threatened,n.a
-2013,Amphibians,Near Threatened,0
-2010,Freshwater fish,Near Threatened,n.a
-2013,Freshwater fish,Near Threatened,0
-2010,Molluscs (land)*,Near Threatened,n.a
-2013,Molluscs (land)*,Near Threatened,n.a
-2010,Arthropods/ Invertebrates*,Near Threatened,n.a
-2013,Arthropods/ Invertebrates*,Near Threatened,0
-2010,Plants*,Near Threatened,n.a
-2013,Plants*,Near Threatened,1
-2010,Mammals,Total,5
-2013,Mammals,Total,3
-2010,Birds,Total,10
-2013,Birds,Total,21
-2010,Reptiles,Total,5
-2013,Reptiles,Total,2
-2010,Amphibians,Total,6
-2013,Amphibians,Total,2
-2010,Freshwater fish,Total,n.a
-2013,Freshwater fish,Total,-
-2010,Molluscs (land)*,Total,n.a
-2013,Molluscs (land)*,Total,-
-2010,Arthropods/ Invertebrates*,Total,n.a
-2013,Arthropods/ Invertebrates*,Total,-
-2010,Plants*,Total,n.a
-2013,Plants*,Total,-
-2016,Animals,Extinct,4
-2017,Animals,Extinct,3
-2018,Animals,Extinct,3
-2019,Animals,Extinct,3
-2020,Animals,Extinct,3
-2021,Animals,Extinct,3
-2016,Animals,Extinct in the wild,–
-2017,Animals,Extinct in the wild,–
-2018,Animals,Extinct in the wild,–
-2019,Animals,Extinct in the wild,0
-2020,Animals,Extinct in the wild,–
-2021,Animals,Extinct in the wild,0
-2016,Animals,Critically Endangered,20
-2017,Animals,Critically Endangered,22
-2018,Animals,Critically Endangered,21
-2019,Animals,Critically Endangered,25
-2020,Animals,Critically Endangered,25
-2021,Animals,Critically Endangered,25
-2016,Animals,Endangered,30
-2017,Animals,Endangered,32
-2018,Animals,Endangered,32
-2019,Animals,Endangered,37
-2020,Animals,Endangered,48
-2021,Animals,Endangered,49
-2016,Animals,Vulnerable,47
-2017,Animals,Vulnerable,48
-2018,Animals,Vulnerable,50
-2019,Animals,Vulnerable,47
-2020,Animals,Vulnerable,53
-2021,Animals,Vulnerable,55
-2016,Animals,Near Threatened,41
-2017,Animals,Near Threatened,41
-2018,Animals,Near Threatened,40
-2019,Animals,Near Threatened,43
-2020,Animals,Near Threatened,43
-2021,Animals,Near Threatened,41
-2016,Animals,Threatened,–
-2017,Animals,Threatened,–
-2018,Animals,Threatened,–
-2019,Animals,Threatened,87
-2020,Animals,Threatened,–
-2016,Animals,Data Deficient,89
-2017,Animals,Data Deficient,87
-2018,Animals,Data Deficient,85
-2019,Animals,Data Deficient,87
-2020,Animals,Data Deficient,87
-2021,Animals,Data Deficient,76
-2016,Animals,Least Concern,1149
-2017,Animals,Least Concern,1173
-2018,Animals,Least Concern,1183
-2019,Animals,Least Concern,1314
-2020,Animals,Least Concern,1314
-2021,Animals,Least Concern,1353
-2016,Animals,Total,1380
-2017,Animals,Total,1406
-2018,Animals,Total,1414
-2019,Animals,Total,1556
-2020,Animals,Total,1556
-2021,Animals,Total,1602
-2016,Plants,Extinct,2
-2017,Plants,Extinct,2
-2018,Plants,Extinct,2
-2019,Plants,Extinct,2
-2020,Plants,Extinct,2
-2021,Plants,Extinct,2
-2016,Plants,Extinct in the wild,–
-2017,Plants,Extinct in the wild,–
-2018,Plants,Extinct in the wild,–
-2019,Plants,Extinct in the wild,0
-2020,Plants,Extinct in the wild,–
-2021,Plants,Extinct in the wild,0
-2016,Plants,Critically Endangered,41
-2017,Plants,Critically Endangered,41
-2018,Plants,Critically Endangered,41
-2019,Plants,Critically Endangered,41
-2020,Plants,Critically Endangered,43
-2021,Plants,Critically Endangered,42
-2016,Plants,Endangered,55
-2017,Plants,Endangered,55
-2018,Plants,Endangered,56
-2019,Plants,Endangered,56
-2020,Plants,Endangered,54
-2021,Plants,Endangered,55
-2016,Plants,Vulnerable,118
-2017,Plants,Vulnerable,118
-2018,Plants,Vulnerable,118
-2019,Plants,Vulnerable,118
-2020,Plants,Vulnerable,118
-2021,Plants,Vulnerable,116
-2016,Plants,Near Threatened,75
-2017,Plants,Near Threatened,75
-2018,Plants,Near Threatened,76
-2020,Plants,Near Threatened,77
-2021,Plants,Near Threatened,76
-2016,Plants,Threatened,–
-2017,Plants,Threatened,–
-2018,Plants,Threatened,–
-2020,Plants,Threatened,–
-2016,Plants,Data Deficient,7
-2017,Plants,Data Deficient,7
-2018,Plants,Data Deficient,7
-2019,Plants,Data Deficient,7
-2020,Plants,Data Deficient,7
-2021,Plants,Data Deficient,8
-2016,Plants,Least Concern,135
-2017,Plants,Least Concern,146
-2018,Plants,Least Concern,184
-2019,Plants,Least Concern,195
-2020,Plants,Least Concern,435
-2021,Plants,Least Concern,499
-2016,Plants,Total,433
-2017,Plants,Total,444
-2018,Plants,Total,484
-2019,Plants,Total,495
-2020,Plants,Total,736
-2021,Plants,Total,798
-2019,Mammals,Threatened,7
-2022,Mammals,Threatened,7
-2019,Birds,Threatened,10
-2022,Birds,Threatened,10
-2019,Reptiles*,Threatened,28
-2022,Reptiles*,Threatened,29
-2019,Amphibians,Threatened,20
-2022,Amphibians,Threatened,20
-2019,Fishes*,Threatened,46
-2022,Fishes*,Threatened,48
-2019,Molluscs*,Threatened,0
-2022,Molluscs*,Threatened,0
-2019,Other Inverts*,Threatened,15
-2022,Other Inverts*,Threatened,30
-2019,Plants*,Threatened,215
-2022,Plants*,Threatened,214
-2019,Fungi*,Threatened,0
-2022,Fungi*,Threatened,0
-2019,Chromists*,Threatened,0
-2022,Chromists*,Threatened,0
-2019,Total,Threatened,341
-2022,Total,Threatened,358
+2013,Molluscs (land)*,Critically Endangered,0.0
+2013,Arthropods/ Invertebrates*,Critically Endangered,0.0
+2013,Plants*,Critically Endangered,0.0
+2010,Mammals,Endangered,0.0
+2013,Mammals,Endangered,0.0
+2010,Birds,Endangered,1.0
+2013,Birds,Endangered,1.0
+2010,Reptiles,Endangered,1.0
+2013,Reptiles,Endangered,0.0
+2010,Amphibians,Endangered,1.0
+2013,Amphibians,Endangered,2.0
+2013,Freshwater fish,Endangered,0.0
+2013,Arthropods/ Invertebrates*,Endangered,0.0
+2013,Plants*,Endangered,1.0
+2010,Mammals,Vulnerable,4.0
+2013,Mammals,Vulnerable,2.0
+2010,Birds,Vulnerable,7.0
+2013,Birds,Vulnerable,7.0
+2010,Reptiles,Vulnerable,1.0
+2013,Reptiles,Vulnerable,0.0
+2013,Amphibians,Vulnerable,0.0
+2013,Freshwater fish,Vulnerable,0.0
+2013,Arthropods/ Invertebrates*,Vulnerable,0.0
+2013,Plants*,Vulnerable,1.0
+2010,Mammals,Near Threatened,0.0
+2013,Mammals,Near Threatened,0.0
+2013,Birds,Near Threatened,11.0
+2013,Reptiles,Near Threatened,1.0
+2013,Amphibians,Near Threatened,0.0
+2013,Freshwater fish,Near Threatened,0.0
+2013,Arthropods/ Invertebrates*,Near Threatened,0.0
+2013,Plants*,Near Threatened,1.0
+2010,Mammals,Total,5.0
+2013,Mammals,Total,3.0
+2010,Birds,Total,10.0
+2013,Birds,Total,21.0
+2010,Reptiles,Total,5.0
+2013,Reptiles,Total,2.0
+2010,Amphibians,Total,6.0
+2013,Amphibians,Total,2.0
+2016,Animals,Extinct,4.0
+2017,Animals,Extinct,3.0
+2018,Animals,Extinct,3.0
+2019,Animals,Extinct,3.0
+2020,Animals,Extinct,3.0
+2021,Animals,Extinct,3.0
+2019,Animals,Extinct in the wild,0.0
+2021,Animals,Extinct in the wild,0.0
+2016,Animals,Critically Endangered,20.0
+2017,Animals,Critically Endangered,22.0
+2018,Animals,Critically Endangered,21.0
+2019,Animals,Critically Endangered,25.0
+2020,Animals,Critically Endangered,25.0
+2021,Animals,Critically Endangered,25.0
+2016,Animals,Endangered,30.0
+2017,Animals,Endangered,32.0
+2018,Animals,Endangered,32.0
+2019,Animals,Endangered,37.0
+2020,Animals,Endangered,48.0
+2021,Animals,Endangered,49.0
+2016,Animals,Vulnerable,47.0
+2017,Animals,Vulnerable,48.0
+2018,Animals,Vulnerable,50.0
+2019,Animals,Vulnerable,47.0
+2020,Animals,Vulnerable,53.0
+2021,Animals,Vulnerable,55.0
+2016,Animals,Near Threatened,41.0
+2017,Animals,Near Threatened,41.0
+2018,Animals,Near Threatened,40.0
+2019,Animals,Near Threatened,43.0
+2020,Animals,Near Threatened,43.0
+2021,Animals,Near Threatened,41.0
+2019,Animals,Threatened,87.0
+2016,Animals,Data Deficient,89.0
+2017,Animals,Data Deficient,87.0
+2018,Animals,Data Deficient,85.0
+2019,Animals,Data Deficient,87.0
+2020,Animals,Data Deficient,87.0
+2021,Animals,Data Deficient,76.0
+2016,Animals,Least Concern,1149.0
+2017,Animals,Least Concern,1173.0
+2018,Animals,Least Concern,1183.0
+2019,Animals,Least Concern,1314.0
+2020,Animals,Least Concern,1314.0
+2021,Animals,Least Concern,1353.0
+2016,Animals,Total,1380.0
+2017,Animals,Total,1406.0
+2018,Animals,Total,1414.0
+2019,Animals,Total,1556.0
+2020,Animals,Total,1556.0
+2021,Animals,Total,1602.0
+2016,Plants,Extinct,2.0
+2017,Plants,Extinct,2.0
+2018,Plants,Extinct,2.0
+2019,Plants,Extinct,2.0
+2020,Plants,Extinct,2.0
+2021,Plants,Extinct,2.0
+2019,Plants,Extinct in the wild,0.0
+2021,Plants,Extinct in the wild,0.0
+2016,Plants,Critically Endangered,41.0
+2017,Plants,Critically Endangered,41.0
+2018,Plants,Critically Endangered,41.0
+2019,Plants,Critically Endangered,41.0
+2020,Plants,Critically Endangered,43.0
+2021,Plants,Critically Endangered,42.0
+2016,Plants,Endangered,55.0
+2017,Plants,Endangered,55.0
+2018,Plants,Endangered,56.0
+2019,Plants,Endangered,56.0
+2020,Plants,Endangered,54.0
+2021,Plants,Endangered,55.0
+2016,Plants,Vulnerable,118.0
+2017,Plants,Vulnerable,118.0
+2018,Plants,Vulnerable,118.0
+2019,Plants,Vulnerable,118.0
+2020,Plants,Vulnerable,118.0
+2021,Plants,Vulnerable,116.0
+2016,Plants,Near Threatened,75.0
+2017,Plants,Near Threatened,75.0
+2018,Plants,Near Threatened,76.0
+2020,Plants,Near Threatened,77.0
+2021,Plants,Near Threatened,76.0
+2016,Plants,Data Deficient,7.0
+2017,Plants,Data Deficient,7.0
+2018,Plants,Data Deficient,7.0
+2019,Plants,Data Deficient,7.0
+2020,Plants,Data Deficient,7.0
+2021,Plants,Data Deficient,8.0
+2016,Plants,Least Concern,135.0
+2017,Plants,Least Concern,146.0
+2018,Plants,Least Concern,184.0
+2019,Plants,Least Concern,195.0
+2020,Plants,Least Concern,435.0
+2021,Plants,Least Concern,499.0
+2016,Plants,Total,433.0
+2017,Plants,Total,444.0
+2018,Plants,Total,484.0
+2019,Plants,Total,495.0
+2020,Plants,Total,736.0
+2021,Plants,Total,798.0
+2019,Mammals,Threatened,7.0
+2022,Mammals,Threatened,7.0
+2019,Birds,Threatened,10.0
+2022,Birds,Threatened,10.0
+2019,Reptiles*,Threatened,28.0
+2022,Reptiles*,Threatened,29.0
+2019,Amphibians,Threatened,20.0
+2022,Amphibians,Threatened,20.0
+2019,Fishes*,Threatened,46.0
+2022,Fishes*,Threatened,48.0
+2019,Molluscs*,Threatened,0.0
+2022,Molluscs*,Threatened,0.0
+2019,Other Inverts*,Threatened,15.0
+2022,Other Inverts*,Threatened,30.0
+2019,Plants*,Threatened,215.0
+2022,Plants*,Threatened,214.0
+2019,Fungi*,Threatened,0.0
+2022,Fungi*,Threatened,0.0
+2019,Chromists*,Threatened,0.0
+2022,Chromists*,Threatened,0.0
+2019,Total,Threatened,341.0
+2022,Total,Threatened,358.0
