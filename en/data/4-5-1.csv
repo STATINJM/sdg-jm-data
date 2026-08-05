@@ -17,7 +17,7 @@ Year,Ratio,Geographical Region,Wealth Index Quintiles,Value
 2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Middle,98.7
 2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Fourth,99.2
 2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Fourth,97.3
-2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Richest,99
+2011,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Richest,99.0
 2022,Girls Adjusted Net Attendance Ratio (NAR) Primary School,,Richest,98.4
 2011,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Jamaica,,97.2
 2022,Boys Adjusted Net Attendance Ratio (NAR) Primary School,Jamaica,,94.2
@@ -78,7 +78,7 @@ Year,Ratio,Geographical Region,Wealth Index Quintiles,Value
 2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Second,71.3
 2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Middle,82.7
 2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Fourth,81.9
-2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Richest,(93.3)
+2022,Boys Adjusted Net Attendance Ratio (NAR) Upper Secondary School,,Richest,93.3
 2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,Jamaica,,92.3
 2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,KMA,,95.5
 2011,Girls Adjusted Net Attendance Ratio (NAR) Secondary School,Other Towns,,94.6
@@ -94,7 +94,7 @@ Year,Ratio,Geographical Region,Wealth Index Quintiles,Value
 2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,Other Towns,,89.4
 2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,Urban Total,,91.6
 2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,Rural,,89.9
-2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Poorest,87
+2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Poorest,87.0
 2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Second,92.9
 2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Middle,87.3
 2011,Boys Adjusted Net Attendance Ratio (NAR) Secondary School,,Fourth,92.6
@@ -103,7 +103,7 @@ Year,Ratio,Geographical Region,Wealth Index Quintiles,Value
 2022,GPI for Adjusted Ratio (NAR) Primary School,Jamaica,,1.03
 2011,GPI for Adjusted Ratio (NAR) Primary School,KMA,,1.01
 2022,GPI for Adjusted Ratio (NAR) Primary School,KMA,,1.04
-2011,GPI for Adjusted Ratio (NAR) Primary School,Other Towns,,1.00
+2011,GPI for Adjusted Ratio (NAR) Primary School,Other Towns,,1.0
 2022,GPI for Adjusted Ratio (NAR) Primary School,Other Towns,,0.98
 2011,GPI for Adjusted Ratio (NAR) Primary School,Urban Total,,1.01
 2022,GPI for Adjusted Ratio (NAR) Primary School,Urban Total,,1.01
@@ -112,7 +112,7 @@ Year,Ratio,Geographical Region,Wealth Index Quintiles,Value
 2011,GPI for Adjusted Ratio (NAR) Primary School,,Poorest,1.03
 2022,GPI for Adjusted Ratio (NAR) Primary School,,Poorest,1.04
 2011,GPI for Adjusted Ratio (NAR) Primary School,,Second,1.01
-2022,GPI for Adjusted Ratio (NAR) Primary School,,Second,1.00
+2022,GPI for Adjusted Ratio (NAR) Primary School,,Second,1.0
 2011,GPI for Adjusted Ratio (NAR) Primary School,,Middle,1.01
 2022,GPI for Adjusted Ratio (NAR) Primary School,,Middle,1.05
 2011,GPI for Adjusted Ratio (NAR) Primary School,,Fourth,1.01
@@ -147,5 +147,5 @@ Year,Ratio,Geographical Region,Wealth Index Quintiles,Value
 2011,GPI for Adjusted Ratio (NAR) Secondary School,,Poorest,1.02
 2011,GPI for Adjusted Ratio (NAR) Secondary School,,Second,0.98
 2011,GPI for Adjusted Ratio (NAR) Secondary School,,Middle,1.08
-2011,GPI for Adjusted Ratio (NAR) Secondary School,,Fourth,1.00
+2011,GPI for Adjusted Ratio (NAR) Secondary School,,Fourth,1.0
 2011,GPI for Adjusted Ratio (NAR) Secondary School,,Richest,1.03
