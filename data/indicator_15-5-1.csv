@@ -7,14 +7,10 @@ Year,Type of Species,Status,Value
 2013,Reptiles,Critically Endangered,1
 2010,Amphibians,Critically Endangered,5
 2013,Amphibians,Critically Endangered,0
-2010,Freshwater fish,Critically Endangered,n.a
 2013,Freshwater fish,Critically Endangered,0
-2010,Molluscs (land)*,Critically Endangered,n.a
 2012,Molluscs (land)*,Critically Endangered,3.463203463
 2013,Molluscs (land)*,Critically Endangered,0
-2010,Arthropods/ Invertebrates*,Critically Endangered,n.a
 2013,Arthropods/ Invertebrates*,Critically Endangered,0
-2010,Plants*,Critically Endangered,n.a
 2013,Plants*,Critically Endangered,0
 2010,Mammals,Endangered,0
 2013,Mammals,Endangered,0
@@ -24,13 +20,8 @@ Year,Type of Species,Status,Value
 2013,Reptiles,Endangered,0
 2010,Amphibians,Endangered,1
 2013,Amphibians,Endangered,2
-2010,Freshwater fish,Endangered,n.a
 2013,Freshwater fish,Endangered,0
-2010,Molluscs (land)*,Endangered,n.a
-2013,Molluscs (land)*,Endangered,n.a
-2010,Arthropods/ Invertebrates*,Endangered,n.a
 2013,Arthropods/ Invertebrates*,Endangered,0
-2010,Plants*,Endangered,n.a
 2013,Plants*,Endangered,1
 2010,Mammals,Vulnerable,4
 2013,Mammals,Vulnerable,2
@@ -38,31 +29,17 @@ Year,Type of Species,Status,Value
 2013,Birds,Vulnerable,7
 2010,Reptiles,Vulnerable,1
 2013,Reptiles,Vulnerable,0
-2010,Amphibians,Vulnerable,n.a
 2013,Amphibians,Vulnerable,0
-2010,Freshwater fish,Vulnerable,n.a
 2013,Freshwater fish,Vulnerable,0
-2010,Molluscs (land)*,Vulnerable,n.a
-2013,Molluscs (land)*,Vulnerable,n.a
-2010,Arthropods/ Invertebrates*,Vulnerable,n.a
 2013,Arthropods/ Invertebrates*,Vulnerable,0
-2010,Plants*,Vulnerable,n.a
 2013,Plants*,Vulnerable,1
 2010,Mammals,Near Threatened,0
 2013,Mammals,Near Threatened,0
-2010,Birds,Near Threatened,n.a
 2013,Birds,Near Threatened,11
-2010,Reptiles,Near Threatened,n.a
 2013,Reptiles,Near Threatened,1
-2010,Amphibians,Near Threatened,n.a
 2013,Amphibians,Near Threatened,0
-2010,Freshwater fish,Near Threatened,n.a
 2013,Freshwater fish,Near Threatened,0
-2010,Molluscs (land)*,Near Threatened,n.a
-2013,Molluscs (land)*,Near Threatened,n.a
-2010,Arthropods/ Invertebrates*,Near Threatened,n.a
 2013,Arthropods/ Invertebrates*,Near Threatened,0
-2010,Plants*,Near Threatened,n.a
 2013,Plants*,Near Threatened,1
 2010,Mammals,Total,5
 2013,Mammals,Total,3
@@ -72,25 +49,13 @@ Year,Type of Species,Status,Value
 2013,Reptiles,Total,2
 2010,Amphibians,Total,6
 2013,Amphibians,Total,2
-2010,Freshwater fish,Total,n.a
-2013,Freshwater fish,Total,-
-2010,Molluscs (land)*,Total,n.a
-2013,Molluscs (land)*,Total,-
-2010,Arthropods/ Invertebrates*,Total,n.a
-2013,Arthropods/ Invertebrates*,Total,-
-2010,Plants*,Total,n.a
-2013,Plants*,Total,-
 2016,Animals,Extinct,4
 2017,Animals,Extinct,3
 2018,Animals,Extinct,3
 2019,Animals,Extinct,3
 2020,Animals,Extinct,3
 2021,Animals,Extinct,3
-2016,Animals,Extinct in the wild,–
-2017,Animals,Extinct in the wild,–
-2018,Animals,Extinct in the wild,–
 2019,Animals,Extinct in the wild,0
-2020,Animals,Extinct in the wild,–
 2021,Animals,Extinct in the wild,0
 2016,Animals,Critically Endangered,20
 2017,Animals,Critically Endangered,22
@@ -116,11 +81,7 @@ Year,Type of Species,Status,Value
 2019,Animals,Near Threatened,43
 2020,Animals,Near Threatened,43
 2021,Animals,Near Threatened,41
-2016,Animals,Threatened,–
-2017,Animals,Threatened,–
-2018,Animals,Threatened,–
 2019,Animals,Threatened,87
-2020,Animals,Threatened,–
 2016,Animals,Data Deficient,89
 2017,Animals,Data Deficient,87
 2018,Animals,Data Deficient,85
@@ -145,11 +106,7 @@ Year,Type of Species,Status,Value
 2019,Plants,Extinct,2
 2020,Plants,Extinct,2
 2021,Plants,Extinct,2
-2016,Plants,Extinct in the wild,–
-2017,Plants,Extinct in the wild,–
-2018,Plants,Extinct in the wild,–
 2019,Plants,Extinct in the wild,0
-2020,Plants,Extinct in the wild,–
 2021,Plants,Extinct in the wild,0
 2016,Plants,Critically Endangered,41
 2017,Plants,Critically Endangered,41
@@ -174,10 +131,6 @@ Year,Type of Species,Status,Value
 2018,Plants,Near Threatened,76
 2020,Plants,Near Threatened,77
 2021,Plants,Near Threatened,76
-2016,Plants,Threatened,–
-2017,Plants,Threatened,–
-2018,Plants,Threatened,–
-2020,Plants,Threatened,–
 2016,Plants,Data Deficient,7
 2017,Plants,Data Deficient,7
 2018,Plants,Data Deficient,7
