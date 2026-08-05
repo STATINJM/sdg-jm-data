@@ -16,10 +16,42 @@
             "title": "Año"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of schools used as Shelters",
+                "Number of churches used as Shelters",
+                "Number of community centres used as Shelters",
+                "Number of other buildings used as Shelters",
+                "Total Number of Shelters",
+                "Number of local governments that have adopted and implemented local DRR strategies in line with national strategies",
+                "Total number of local governments",
+                "Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Parish",
             "type": "string",
             "constraints": {
               "enum": [
+                "Kingston and St Andrew",
+                "St Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St Catherine",
+                "Portmore",
                 "Jamaica",
                 ""
               ]
@@ -27,19 +59,16 @@
             "title": "Parish"
           },
           {
-            "name": "Location of Shelter",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "School",
-                "Church",
-                "Community Centre",
-                "Other",
-                "Total",
+                "Number",
+                "Per cent",
                 ""
               ]
             },
-            "title": "Location of Shelter"
+            "title": "Unit"
           },
           {
             "name": "Value",

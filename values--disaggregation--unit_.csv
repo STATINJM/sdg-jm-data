@@ -9,10 +9,12 @@ Value,Disaggregation combinations using this value,Number of indicators
 %,6,4
 (Area %),2,1
 Density (per 10.000 population),11,1
+(% GDP),12,1
 Health Index,46,1
 Hectares,11,1
 (J$ Million),7,3
 J$,10,1
+($JB),13,1
 (km2 '000),2,1
 Km2,2,1
 Land Area ( ha),10,1
@@ -23,21 +25,24 @@ $ Million,6,1
 MW,7,1
 (Neonatal Mortality Ratio),1,1
 Number (000),1,1
-Number,184,13
+Number,313,15
 per 100 000 population,16,1
 Per 100 inhabitants,4,1
 (per 100 inhabitants),1,1
 "Per 1,000 women in the specified age group",1,1
 per 100.000 adults,2,1
-"per 100,000 population",17,2
+per 100000 population,3,1
 "Per 100,000 population",15,2
-Per 100.000 Population,36,1
+Per 100.000 Population,72,2
+"per 100,000 population",17,2
 per 100.000 population,15,2
 (Per cent),5,4
 (per cent),3,1
-Per cent,77,13
+Per cent,78,14
 per cent,24,1
+Persons affected per 100000 population,6,1
 "Persons affected per 100,000 population",6,1
+Persons dead per 100000 population,6,1
 "Persons dead per 100,000 population",6,1
 (Proportion of Births),2,2
 Renewable Energy Watts Per Capita,1,1

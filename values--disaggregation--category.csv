@@ -2,6 +2,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 Amount of water- and sanitation-related official development assistance,1,1
 Central Government Expenditure,1,1
 Central Government Revenue and Grants,1,1
+Clarendon,3,1
+Cost,13,1
 Domestic wastewater generated (sum of other economic and private),1,1
 Fiscal Year GDP,1,1
 Fisheries as a proportion of Gross Value Added,1,1
@@ -13,6 +15,10 @@ GDP (Current),1,1
 General Government Revenue and Grants,1,1
 Gini Coefficient,1,1
 Groundwater (Reporting basin district area (in km²)),8,1
+Hanover,3,1
+Impact,12,1
+Jamaica,7,1
+Kingston and St. Andrew,3,1
 Lakes and rivers permanent water area change (%),1,1
 Lakes and rivers permanent water area (% of total land area),1,1
 Lakes and rivers permanent water area (square kilometres),1,1
@@ -20,12 +26,24 @@ Lakes and rivers seasonal water area change (%),1,1
 Lakes and rivers seasonal water area (% of total land area),1,1
 Lakes and rivers seasonal water area (square kilometres),1,1
 Level of Water Stress,1,1
+Manchester,3,1
+Number of churches used as Shelters,15,1
+Number of community centres used as Shelters,15,1
 Number of Female Managers,8,2
+Number of local governments that have adopted and implemented local DRR strategies in line with national strategies,1,1
+Number of other buildings used as Shelters,15,1
+Number of schools used as Shelters,15,1
 Official Development Assistance (ODA),1,1
 Other economic activities (services) (NACE/ISIC 45-99),1,1
 Percentage of FDI to Central Government Expenditure,1,1
+Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies,1,1
 Percentage of ODA to Central Government Expenditure,1,1
 Percentage of Tax Revenue to Central Government Expenditure,1,1
+Persons Affected,15,1
+Persons Dead,15,1
+Persons Injured,9,1
+Persons Missing,9,1
+Portland,3,1
 Private households,1,1
 Proportion of Central Government Revenue to GDP,1,1
 Proportion of forest area located within legally-established protected areas,1,1
@@ -35,7 +53,20 @@ Remittance Inflows,1,1
 Remittance to GDP,1,1
 Reported Amount,1,1
 Rivers (Reporting basin district area (in km²)),12,1
+St Ann,3,1
+St Catherine,3,1
+St Elizabeth,3,1
+St James,3,1
+St Mary,3,1
+St. Thomas,3,1
 Sum of green cover classes,2,1
 Sum of other land cover classes,2,1
 Tax Revenue,1,1
+Total Adults,3,1
+Total Children,3,1
 Total Managers,8,2
+Total number of local governments,1,1
+Total Number of Shelters,15,1
+Total,3,1
+Trelawny,3,1
+Westmoreland,3,1

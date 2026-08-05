@@ -1,5 +1,5 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Average,2,1
+Average,4,2
 Death due to fire - Clarendon,1,1
 Death due to fire - Hanover,1,1
 Death due to Fire - Jamaica,1,1
@@ -15,18 +15,27 @@ Death due to fire - St. Thomas,1,1
 Death due to fire - Total,1,1
 Death due to fire - Trelawny,1,1
 Death due to fire - Westmoreland,1,1
+Death due to Fire,1,1
+Death due to fire,14,1
 Death of Adults due to Fire - Total Adults,1,1
+Death of Adults due to Fire,1,1
 Death of Children due to Fire - Total Children,1,1
+Death of Children due to Fire,1,1
 "Deaths from fire per 100,000 population - Jamaica",1,1
+Deaths from fire per 100000 population,1,1
 Drought - Persons Affected,1,1
 Drought - Persons Dead,1,1
-Drought,2,2
+Drought,5,3
 Heavy rains from Tropical Storms Zeta and Eta - Persons Affected,1,1
 Heavy rains from Tropical Storms Zeta and Eta - Persons Dead,1,1
+Heavy rains from Tropical Storms Zeta and Eta,2,1
 Heavy rains January - February - Persons Affected,1,1
 Heavy rains January - February - Persons Dead,1,1
+Heavy rains January - February,2,1
 Homeless Adults due to fire - Total Adults,1,1
+Homeless Adults due to fire,1,1
 Homeless Children due to fire - Total Children,1,1
+Homeless Children due to fire,1,1
 Homeless due to fire - Clarendon,1,1
 Homeless due to fire - Hanover,1,1
 Homeless due to fire - Kingston and St. Andrew,1,1
@@ -41,6 +50,7 @@ Homeless due to fire - St. Thomas,1,1
 Homeless due to fire - Total,1,1
 Homeless due to fire - Trelawny,1,1
 Homeless due to fire - Westmoreland,1,1
+Homeless due to fire,14,1
 Hurricane Charley,6,3
 Hurricane Dean - Persons Affected,1,1
 Hurricane Dean - Persons Dead,1,1
@@ -70,7 +80,9 @@ Hurricane Wilma - Persons Missing,1,1
 Hurricane Wilma,10,3
 Hurricanes Dennis and Emily,3,3
 Injuried Adults due to fire - Total Adults,1,1
+Injuried Adults due to fire,1,1
 Injuries Children due to fire - Total Children,1,1
+Injuries Children due to fire,1,1
 Injuries due to fire - Clarendon,1,1
 Injuries due to fire - Hanover,1,1
 Injuries due to fire - Jamaica,1,1
@@ -86,33 +98,42 @@ Injuries due to fire - St. Thomas,1,1
 Injuries due to fire - Total,1,1
 Injuries due to fire - Trelawny,1,1
 Injuries due to fire - Westmoreland,1,1
+Injuries due to fire,15,1
 January and May Rains - Persons Affected,1,1
 January and May Rains - Persons Dead,1,1
+January and May Rains,2,1
 March to June Rains - Persons Affected,1,1
 March to June Rains - Persons Dead,1,1
 March to June Rains - Persons Injured,1,1
 March to June Rains - Persons Missing,1,1
-May Flood Rains,4,2
+March to June Rains,4,1
+May Flood Rains,6,3
 May/June Flood Rains - Persons Affected,1,1
 May/June Flood Rains - Persons Dead,1,1
 May/June Flood Rains - Persons Injured,1,1
 May/June Flood Rains - Persons Missing,1,1
-May/June Flood Rains,4,2
+May/June Flood Rains,10,3
 "Persons affected per 100,000 population - Jamaica",1,1
+Persons affected per 100000 population,1,1
 "Persons injured due to fire per 100,000 - Jamaica",1,1
+Persons injured due to fire per 100000,1,1
 Total number of homeless due to fire - Jamaica,1,1
+Total number of homeless due to fire,1,1
 Total Number of Persons Affected - Jamaica,1,1
+Total Number of Persons Affected,1,1
 Tropical Storm Gustav - Persons Affected,1,1
 Tropical Storm Gustav - Persons Dead,1,1
 Tropical Storm Gustav - Persons Injured,1,1
 Tropical Storm Gustav - Persons Missing,1,1
-Tropical Storm Gustav,4,2
+Tropical Storm Gustav,10,3
 Tropical Storm Nicole - Persons Affected,1,1
 Tropical Storm Nicole - Persons Dead,1,1
 Tropical Storm Nicole - Persons Injured,1,1
 Tropical Storm Nicole - Persons Missing,1,1
-Tropical Storm Nicole,4,2
+Tropical Storm Nicole,10,3
 "Tropical Storms Elsa, Grace and Ida. - Persons Affected",1,1
 "Tropical Storms Elsa, Grace and Ida. - Persons Dead",1,1
+"Tropical Storms Elsa, Grace and Ida.",2,1
 Tropical Storms Ian September - Persons Affected,1,1
 Tropical Storms Ian September - Persons Dead,1,1
+Tropical Storms Ian September,2,1

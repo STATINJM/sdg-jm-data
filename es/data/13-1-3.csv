@@ -1,11 +1,216 @@
-Year,Parish,Location of Shelter,Value
-2021,Jamaica,School,739
-2021,Jamaica,Church,41
-2021,Jamaica,Community Centre,57
-2021,Jamaica,Other,5
-2021,Jamaica,Total,842
-2018,Jamaica,School,802
-2018,Jamaica,Church,151
-2018,Jamaica,Community Centre,53
-2018,Jamaica,Other,5
-2018,Jamaica,Total,1011
+Year,Category,Parish,Unit,Value
+2016,Number of schools used as Shelters,Kingston and St Andrew,Number,101
+2018,Number of schools used as Shelters,Kingston and St Andrew,Number,101
+2022,Number of schools used as Shelters,Kingston and St Andrew,Number,84
+2016,Number of churches used as Shelters,Kingston and St Andrew,Number,6
+2018,Number of churches used as Shelters,Kingston and St Andrew,Number,6
+2022,Number of churches used as Shelters,Kingston and St Andrew,Number,5
+2016,Number of community centres used as Shelters,Kingston and St Andrew,Number,5
+2018,Number of community centres used as Shelters,Kingston and St Andrew,Number,5
+2022,Number of community centres used as Shelters,Kingston and St Andrew,Number,6
+2018,Number of other buildings used as Shelters,Kingston and St Andrew,Number,0
+2022,Number of other buildings used as Shelters,Kingston and St Andrew,Number,1
+2016,Total Number of Shelters,Kingston and St Andrew,Number,112
+2018,Total Number of Shelters,Kingston and St Andrew,Number,112
+2022,Total Number of Shelters,Kingston and St Andrew,Number,96
+2016,Number of schools used as Shelters,St Thomas,Number,45
+2018,Number of schools used as Shelters,St Thomas,Number,45
+2022,Number of schools used as Shelters,St Thomas,Number,42
+2016,Number of churches used as Shelters,St Thomas,Number,4
+2018,Number of churches used as Shelters,St Thomas,Number,4
+2022,Number of churches used as Shelters,St Thomas,Number,1
+2016,Number of community centres used as Shelters,St Thomas,Number,3
+2018,Number of community centres used as Shelters,St Thomas,Number,3
+2022,Number of community centres used as Shelters,St Thomas,Number,1
+2018,Number of other buildings used as Shelters,St Thomas,Number,0
+2022,Number of other buildings used as Shelters,St Thomas,Number,0
+2016,Total Number of Shelters,St Thomas,Number,52
+2018,Total Number of Shelters,St Thomas,Number,52
+2022,Total Number of Shelters,St Thomas,Number,44
+2016,Number of schools used as Shelters,Portland,Number,52
+2018,Number of schools used as Shelters,Portland,Number,52
+2022,Number of schools used as Shelters,Portland,Number,48
+2016,Number of churches used as Shelters,Portland,Number,28
+2018,Number of churches used as Shelters,Portland,Number,28
+2022,Number of churches used as Shelters,Portland,Number,0
+2016,Number of community centres used as Shelters,Portland,Number,1
+2018,Number of community centres used as Shelters,Portland,Number,1
+2022,Number of community centres used as Shelters,Portland,Number,0
+2016,Number of other buildings used as Shelters,Portland,Number,2
+2018,Number of other buildings used as Shelters,Portland,Number,2
+2022,Number of other buildings used as Shelters,Portland,Number,0
+2016,Total Number of Shelters,Portland,Number,83
+2018,Total Number of Shelters,Portland,Number,8
+2022,Total Number of Shelters,Portland,Number,48
+2016,Number of schools used as Shelters,St Mary,Number,61
+2018,Number of schools used as Shelters,St Mary,Number,61
+2022,Number of schools used as Shelters,St Mary,Number,47
+2016,Number of churches used as Shelters,St Mary,Number,9
+2018,Number of churches used as Shelters,St Mary,Number,9
+2022,Number of churches used as Shelters,St Mary,Number,4
+2016,Number of community centres used as Shelters,St Mary,Number,1
+2018,Number of community centres used as Shelters,St Mary,Number,1
+2022,Number of community centres used as Shelters,St Mary,Number,3
+2018,Number of other buildings used as Shelters,St Mary,Number,0
+2022,Number of other buildings used as Shelters,St Mary,Number,0
+2016,Total Number of Shelters,St Mary,Number,71
+2018,Total Number of Shelters,St Mary,Number,71
+2022,Total Number of Shelters,St Mary,Number,54
+2016,Number of schools used as Shelters,St Ann,Number,75
+2018,Number of schools used as Shelters,St Ann,Number,75
+2022,Number of schools used as Shelters,St Ann,Number,80
+2018,Number of churches used as Shelters,St Ann,Number,0
+2022,Number of churches used as Shelters,St Ann,Number,0
+2016,Number of community centres used as Shelters,St Ann,Number,3
+2018,Number of community centres used as Shelters,St Ann,Number,3
+2022,Number of community centres used as Shelters,St Ann,Number,8
+2018,Number of other buildings used as Shelters,St Ann,Number,0
+2022,Number of other buildings used as Shelters,St Ann,Number,0
+2016,Total Number of Shelters,St Ann,Number,78
+2018,Total Number of Shelters,St Ann,Number,78
+2022,Total Number of Shelters,St Ann,Number,88
+2016,Number of schools used as Shelters,Trelawny,Number,43
+2018,Number of schools used as Shelters,Trelawny,Number,43
+2022,Number of schools used as Shelters,Trelawny,Number,38
+2016,Number of churches used as Shelters,Trelawny,Number,47
+2018,Number of churches used as Shelters,Trelawny,Number,47
+2022,Number of churches used as Shelters,Trelawny,Number,0
+2016,Number of community centres used as Shelters,Trelawny,Number,6
+2022,Number of community centres used as Shelters,Trelawny,Number,3
+2016,Number of other buildings used as Shelters,Trelawny,Number,1
+2018,Number of other buildings used as Shelters,Trelawny,Number,1
+2022,Number of other buildings used as Shelters,Trelawny,Number,2
+2016,Total Number of Shelters,Trelawny,Number,97
+2018,Total Number of Shelters,Trelawny,Number,97
+2022,Total Number of Shelters,Trelawny,Number,43
+2016,Number of schools used as Shelters,St James,Number,45
+2018,Number of schools used as Shelters,St James,Number,45
+2022,Number of schools used as Shelters,St James,Number,18
+2016,Number of churches used as Shelters,St James,Number,18
+2018,Number of churches used as Shelters,St James,Number,18
+2022,Number of churches used as Shelters,St James,Number,7
+2016,Number of community centres used as Shelters,St James,Number,4
+2018,Number of community centres used as Shelters,St James,Number,4
+2022,Number of community centres used as Shelters,St James,Number,0
+2018,Number of other buildings used as Shelters,St James,Number,0
+2022,Number of other buildings used as Shelters,St James,Number,0
+2016,Total Number of Shelters,St James,Number,67
+2018,Total Number of Shelters,St James,Number,67
+2022,Total Number of Shelters,St James,Number,25
+2016,Number of schools used as Shelters,Hanover,Number,42
+2018,Number of schools used as Shelters,Hanover,Number,42
+2022,Number of schools used as Shelters,Hanover,Number,40
+2016,Number of churches used as Shelters,Hanover,Number,8
+2018,Number of churches used as Shelters,Hanover,Number,8
+2022,Number of churches used as Shelters,Hanover,Number,9
+2016,Number of community centres used as Shelters,Hanover,Number,3
+2018,Number of community centres used as Shelters,Hanover,Number,3
+2022,Number of community centres used as Shelters,Hanover,Number,5
+2016,Number of other buildings used as Shelters,Hanover,Number,1
+2018,Number of other buildings used as Shelters,Hanover,Number,1
+2022,Number of other buildings used as Shelters,Hanover,Number,1
+2016,Total Number of Shelters,Hanover,Number,54
+2018,Total Number of Shelters,Hanover,Number,54
+2022,Total Number of Shelters,Hanover,Number,55
+2016,Number of schools used as Shelters,Westmoreland,Number,67
+2018,Number of schools used as Shelters,Westmoreland,Number,67
+2022,Number of schools used as Shelters,Westmoreland,Number,58
+2016,Number of churches used as Shelters,Westmoreland,Number,20
+2018,Number of churches used as Shelters,Westmoreland,Number,20
+2022,Number of churches used as Shelters,Westmoreland,Number,0
+2016,Number of community centres used as Shelters,Westmoreland,Number,2
+2018,Number of community centres used as Shelters,Westmoreland,Number,2
+2022,Number of community centres used as Shelters,Westmoreland,Number,1
+2016,Number of other buildings used as Shelters,Westmoreland,Number,1
+2018,Number of other buildings used as Shelters,Westmoreland,Number,1
+2022,Number of other buildings used as Shelters,Westmoreland,Number,0
+2016,Total Number of Shelters,Westmoreland,Number,90
+2018,Total Number of Shelters,Westmoreland,Number,90
+2022,Total Number of Shelters,Westmoreland,Number,59
+2016,Number of schools used as Shelters,St Elizabeth,Number,80
+2018,Number of schools used as Shelters,St Elizabeth,Number,80
+2022,Number of schools used as Shelters,St Elizabeth,Number,80
+2016,Number of churches used as Shelters,St Elizabeth,Number,2
+2018,Number of churches used as Shelters,St Elizabeth,Number,2
+2022,Number of churches used as Shelters,St Elizabeth,Number,4
+2016,Number of community centres used as Shelters,St Elizabeth,Number,4
+2018,Number of community centres used as Shelters,St Elizabeth,Number,4
+2022,Number of community centres used as Shelters,St Elizabeth,Number,4
+2018,Number of other buildings used as Shelters,St Elizabeth,Number,0
+2022,Number of other buildings used as Shelters,St Elizabeth,Number,1
+2016,Total Number of Shelters,St Elizabeth,Number,86
+2018,Total Number of Shelters,St Elizabeth,Number,86
+2022,Total Number of Shelters,St Elizabeth,Number,89
+2016,Number of schools used as Shelters,Manchester,Number,55
+2018,Number of schools used as Shelters,Manchester,Number,55
+2022,Number of schools used as Shelters,Manchester,Number,52
+2016,Number of churches used as Shelters,Manchester,Number,2
+2018,Number of churches used as Shelters,Manchester,Number,2
+2022,Number of churches used as Shelters,Manchester,Number,2
+2016,Number of community centres used as Shelters,Manchester,Number,9
+2018,Number of community centres used as Shelters,Manchester,Number,9
+2022,Number of community centres used as Shelters,Manchester,Number,10
+2018,Number of other buildings used as Shelters,Manchester,Number,0
+2022,Number of other buildings used as Shelters,Manchester,Number,0
+2016,Total Number of Shelters,Manchester,Number,66
+2018,Total Number of Shelters,Manchester,Number,66
+2022,Total Number of Shelters,Manchester,Number,64
+2016,Number of schools used as Shelters,Clarendon,Number,85
+2018,Number of schools used as Shelters,Clarendon,Number,85
+2022,Number of schools used as Shelters,Clarendon,Number,84
+2018,Number of churches used as Shelters,Clarendon,Number,0
+2022,Number of churches used as Shelters,Clarendon,Number,2
+2016,Number of community centres used as Shelters,Clarendon,Number,8
+2018,Number of community centres used as Shelters,Clarendon,Number,8
+2022,Number of community centres used as Shelters,Clarendon,Number,12
+2018,Number of other buildings used as Shelters,Clarendon,Number,0
+2022,Number of other buildings used as Shelters,Clarendon,Number,0
+2016,Total Number of Shelters,Clarendon,Number,93
+2018,Total Number of Shelters,Clarendon,Number,93
+2022,Total Number of Shelters,Clarendon,Number,98
+2016,Number of schools used as Shelters,St Catherine,Number,51
+2018,Number of schools used as Shelters,St Catherine,Number,51
+2022,Number of schools used as Shelters,St Catherine,Number,54
+2016,Number of churches used as Shelters,St Catherine,Number,7
+2018,Number of churches used as Shelters,St Catherine,Number,7
+2022,Number of churches used as Shelters,St Catherine,Number,4
+2016,Number of community centres used as Shelters,St Catherine,Number,4
+2018,Number of community centres used as Shelters,St Catherine,Number,4
+2022,Number of community centres used as Shelters,St Catherine,Number,4
+2018,Number of other buildings used as Shelters,St Catherine,Number,0
+2022,Number of other buildings used as Shelters,St Catherine,Number,0
+2016,Total Number of Shelters,St Catherine,Number,62
+2018,Total Number of Shelters,St Catherine,Number,62
+2022,Total Number of Shelters,St Catherine,Number,62
+2022,Number of schools used as Shelters,Portmore,Number,14
+2022,Number of churches used as Shelters,Portmore,Number,3
+2022,Number of community centres used as Shelters,Portmore,Number,0
+2022,Number of other buildings used as Shelters,Portmore,Number,0
+2022,Total Number of Shelters,Portmore,Number,17
+2016,Number of schools used as Shelters,Jamaica,Number,802
+2018,Number of schools used as Shelters,Jamaica,Number,802
+2022,Number of schools used as Shelters,Jamaica,Number,739
+2016,Number of churches used as Shelters,Jamaica,Number,151
+2018,Number of churches used as Shelters,Jamaica,Number,151
+2022,Number of churches used as Shelters,Jamaica,Number,41
+2016,Number of community centres used as Shelters,Jamaica,Number,53
+2018,Number of community centres used as Shelters,Jamaica,Number,53
+2022,Number of community centres used as Shelters,Jamaica,Number,57
+2016,Number of other buildings used as Shelters,Jamaica,Number,5
+2018,Number of other buildings used as Shelters,Jamaica,Number,5
+2022,Number of other buildings used as Shelters,Jamaica,Number,5
+2016,Total Number of Shelters,Jamaica,Number,1011
+2018,Total Number of Shelters,Jamaica,Number,1011
+2022,Total Number of Shelters,Jamaica,Number,842
+2019,Number of local governments that have adopted and implemented local DRR strategies in line with national strategies,,Number,14
+2020,Number of local governments that have adopted and implemented local DRR strategies in line with national strategies,,Number,14
+2021,Number of local governments that have adopted and implemented local DRR strategies in line with national strategies,,Number,14
+2022,Number of local governments that have adopted and implemented local DRR strategies in line with national strategies,,Number,14
+2019,Total number of local governments,,Number,14
+2020,Total number of local governments,,Number,14
+2021,Total number of local governments,,Number,14
+2022,Total number of local governments,,Number,14
+2019,Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies,,Per cent,100
+2020,Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies,,Per cent,100
+2021,Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies,,Per cent,100
+2022,Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies,,Per cent,100

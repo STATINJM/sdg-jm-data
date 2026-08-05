@@ -432,10 +432,42 @@
             "title": "Year"
           },
           {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of schools used as Shelters",
+                "Number of churches used as Shelters",
+                "Number of community centres used as Shelters",
+                "Number of other buildings used as Shelters",
+                "Total Number of Shelters",
+                "Number of local governments that have adopted and implemented local DRR strategies in line with national strategies",
+                "Total number of local governments",
+                "Percentage of local governments that have adopted and implemented local disaster risk reduction strategies in line with national strategies",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
             "name": "Parish",
             "type": "string",
             "constraints": {
               "enum": [
+                "Kingston and St Andrew",
+                "St Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St Catherine",
+                "Portmore",
                 "Jamaica",
                 ""
               ]
@@ -443,19 +475,16 @@
             "title": "Parish"
           },
           {
-            "name": "Location of Shelter",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "School",
-                "Church",
-                "Community Centre",
-                "Other",
-                "Total",
+                "Number",
+                "Per cent",
                 ""
               ]
             },
-            "title": "Location of Shelter"
+            "title": "Unit"
           },
           {
             "name": "Value",
@@ -525,7 +554,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -533,34 +562,95 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "May/June Flood Rains",
                 "Hurricane Ivan",
                 "Hurricane Dennis and Emily",
                 "Hurricane Wilma",
                 "Hurricane Dean",
+                "Tropical Storm Gustav",
+                "Tropical Storm Nicole",
                 "Hurricane Sandy",
+                "March to June Rains",
+                "January and May Rains",
+                "Drought",
+                "Heavy rains from Tropical Storms Zeta and Eta",
+                "Tropical Storms Elsa, Grace and Ida.",
+                "Heavy rains January - February",
+                "Tropical Storms Ian September",
+                "Death due to fire",
+                "Injuries due to fire",
+                "Homeless due to fire",
+                "Homeless Adults due to fire",
+                "Homeless Children due to fire",
+                "Injuried Adults due to fire",
+                "Injuries Children due to fire",
+                "Death of Adults due to Fire",
+                "Death of Children due to Fire",
+                "Total number of homeless due to fire",
+                "Death due to Fire",
+                "Total Number of Persons Affected",
+                "Persons affected per 100000 population",
+                "Persons injured due to fire per 100000",
+                "Deaths from fire per 100000 population",
                 "Hurricane Michelle",
                 "Hurricane Charley",
                 "Hurricanes Dennis and Emily",
+                "May Flood Rains",
+                "Average",
                 ""
               ]
             },
             "title": "Event"
           },
           {
-            "name": "Units",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons Affected Per 100000 population",
-                "Persons Dead per 100000 population",
-                "Persons Injured per 100000 population",
-                "Persons Missing per 100000 population",
-                "Cost ($JB)",
-                "Impact (% GDP)",
+                "Persons Affected",
+                "Persons Dead",
+                "Persons Injured",
+                "Persons Missing",
+                "Kingston and St. Andrew",
+                "St. Thomas",
+                "Portland",
+                "St Mary",
+                "St Ann",
+                "Trelawny",
+                "St James",
+                "Hanover",
+                "Westmoreland",
+                "St Elizabeth",
+                "Manchester",
+                "Clarendon",
+                "St Catherine",
+                "Total",
+                "Total Adults",
+                "Total Children",
+                "Jamaica",
+                "Cost",
+                "Impact",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Category"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100.000 Population",
+                "Persons affected per 100000 population",
+                "Persons dead per 100000 population",
+                "Number",
+                "per 100000 population",
+                "($JB)",
+                "(% GDP)",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",
