@@ -1,2 +1,3 @@
 From,To
-Type of Waste Collected,Unit
+Unit,Type of Waste Collected
+Unit,Type of Pollution

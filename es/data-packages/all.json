@@ -2988,18 +2988,41 @@
                 "Cups plates (foam)",
                 "Take out/away containers (foam)",
                 "Forks knives and spoons",
-                "Food wrappers (candy chips)",
+                "Grocery Bags (Plastic)",
                 ""
               ]
             },
             "title": "Type of Waste Collected"
           },
           {
+            "name": "Type of Pollution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Air Pollution Combined",
+                "Fish Kill",
+                "Oil Spills",
+                "Sewage Discharge",
+                "Sewage Odour",
+                "Spills",
+                "To be determined",
+                "Water Pollution/fire control run off",
+                "Trade Effluent Discharge (uncontrolled)",
+                "Improper waste disposal",
+                "Other",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Type of Pollution"
+          },
+          {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "(%)",
+                "Per cent",
+                "Number",
                 ""
               ]
             },
@@ -3007,7 +3030,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

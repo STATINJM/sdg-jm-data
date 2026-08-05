@@ -1,49 +1,169 @@
-Year,Type of Waste Collected,Unit,Value
-2019,Beverage bottles (plastic),(%),33
-2019,Other,(%),20
-2019,Bottle caps (plastic),(%),11
-2019,Plastic pieces (tiny trash),(%),7
-2019,Other plastic bags,(%),5
-2019,Foam pieces (tiny trash),(%),8
-2019,Beverage bottles (glass),(%),3
-2019,Cup plate (plastic),(%),3
-2019,Food wrappers (candy chips etc.),(%),3
-2019,Cups plates (foam),(%),3
-2019,Take out/away containers (foam),(%),2
-2019,Forks knives and spoons,(%),3
-2016,Beverage bottles (plastic),(%),32
-2016,Other,(%),25
-2016,Bottle caps (plastic),(%),11
-2016,Plastic pieces (tiny trash),(%),6
-2016,Other plastic bags,(%),5
-2016,Foam pieces (tiny trash),(%),4
-2016,Beverage bottles (glass),(%),4
-2016,Cup plate (plastic),(%),4
-2016,Food wrappers (candy chips etc.),(%),3
-2016,Cups plates (foam),(%),3
-2016,Take out/away containers (foam),(%),3
-2016,Forks knives and spoons,(%),0
-2017,Beverage bottles (plastic),(%),41
-2017,Other,(%),21
-2017,Bottle caps (plastic),(%),10
-2017,Plastic pieces (tiny trash),(%),5
-2017,Other plastic bags,(%),3
-2017,Foam pieces (tiny trash),(%),6
-2017,Beverage bottles (glass),(%),3
-2017,Cup plate (plastic),(%),3
-2017,Food wrappers (candy chips),(%),3
-2017,Cups plates (foam),(%),3
-2017,Take out/away containers (foam),(%),0
-2017,Forks knives and spoons,(%),2
-2018,Beverage bottles (plastic),(%),50
-2018,Other,(%),0
-2018,Bottle caps (plastic),(%),2
-2018,Plastic pieces (tiny trash),(%),7
-2018,Other plastic bags,(%),6
-2018,Foam pieces (tiny trash),(%),8
-2018,Beverage bottles (glass),(%),5
-2018,Cup plate (plastic),(%),5
-2018,Food wrappers (candy chips etc.),(%),6
-2018,Cups plates (foam),(%),6
-2018,Take out/away containers (foam),(%),5
-2018,Forks knives and spoons,(%),0
+Year,Type of Waste Collected,Type of Pollution,Unit,Value
+2015,Beverage bottles (plastic),,Per cent,31.0
+2016,Beverage bottles (plastic),,Per cent,32.0
+2017,Beverage bottles (plastic),,Per cent,41.0
+2018,Beverage bottles (plastic),,Per cent,33.0
+2019,Beverage bottles (plastic),,Per cent,32.7
+2020,Beverage bottles (plastic),,Per cent,31.4
+2021,Beverage bottles (plastic),,Per cent,54.5
+2022,Beverage bottles (plastic),,Per cent,35.9
+2023,Beverage bottles (plastic),,Per cent,23.97
+2024,Beverage bottles (plastic),,Per cent,37.83
+2015,Other,,Per cent,37.0
+2016,Other,,Per cent,25.0
+2017,Other,,Per cent,21.0
+2018,Other,,Per cent,24.5
+2019,Other,,Per cent,21.0
+2020,Other,,Per cent,30.9
+2021,Other,,Per cent,14.9
+2022,Other,,Per cent,25.6
+2023,Other,,Per cent,15.17
+2024,Other,,Per cent,16.91
+2015,Bottle caps (plastic),,Per cent,12.0
+2016,Bottle caps (plastic),,Per cent,11.0
+2017,Bottle caps (plastic),,Per cent,10.0
+2018,Bottle caps (plastic),,Per cent,11.5
+2019,Bottle caps (plastic),,Per cent,11.1
+2020,Bottle caps (plastic),,Per cent,16.3
+2021,Bottle caps (plastic),,Per cent,11.6
+2022,Bottle caps (plastic),,Per cent,12.9
+2023,Bottle caps (plastic),,Per cent,15.29
+2024,Bottle caps (plastic),,Per cent,15.7
+2016,Plastic pieces (tiny trash),,Per cent,6.0
+2017,Plastic pieces (tiny trash),,Per cent,5.0
+2018,Plastic pieces (tiny trash),,Per cent,4.4
+2019,Plastic pieces (tiny trash),,Per cent,7.0
+2020,Plastic pieces (tiny trash),,Per cent,7.3
+2021,Plastic pieces (tiny trash),,Per cent,2.4
+2022,Plastic pieces (tiny trash),,Per cent,7.0
+2023,Plastic pieces (tiny trash),,Per cent,8.75
+2024,Plastic pieces (tiny trash),,Per cent,5.42
+2015,Other plastic bags,,Per cent,5.0
+2016,Other plastic bags,,Per cent,5.0
+2017,Other plastic bags,,Per cent,3.0
+2018,Other plastic bags,,Per cent,3.9
+2019,Other plastic bags,,Per cent,5.0
+2021,Other plastic bags,,Per cent,2.2
+2022,Other plastic bags,,Per cent,3.2
+2023,Other plastic bags,,Per cent,2.93
+2024,Other plastic bags,,Per cent,2.99
+2016,Foam pieces (tiny trash),,Per cent,4.0
+2017,Foam pieces (tiny trash),,Per cent,6.0
+2018,Foam pieces (tiny trash),,Per cent,5.2
+2019,Foam pieces (tiny trash),,Per cent,8.0
+2024,Foam pieces (tiny trash),,Per cent,3.53
+2015,Beverage bottles (glass),,Per cent,3.0
+2016,Beverage bottles (glass),,Per cent,4.0
+2017,Beverage bottles (glass),,Per cent,3.0
+2018,Beverage bottles (glass),,Per cent,3.2
+2019,Beverage bottles (glass),,Per cent,3.5
+2020,Beverage bottles (glass),,Per cent,4.6
+2021,Beverage bottles (glass),,Per cent,2.3
+2022,Beverage bottles (glass),,Per cent,4.4
+2023,Beverage bottles (glass),,Per cent,3.39
+2024,Beverage bottles (glass),,Per cent,2.7
+2015,Cup plate (plastic),,Per cent,3.0
+2016,Cup plate (plastic),,Per cent,4.0
+2017,Cup plate (plastic),,Per cent,3.0
+2018,Cup plate (plastic),,Per cent,3.6
+2019,Cup plate (plastic),,Per cent,3.2
+2020,Cup plate (plastic),,Per cent,4.2
+2021,Cup plate (plastic),,Per cent,4.6
+2022,Cup plate (plastic),,Per cent,4.4
+2023,Cup plate (plastic),,Per cent,8.98
+2024,Cup plate (plastic),,Per cent,5.03
+2015,Food wrappers (candy chips etc.),,Per cent,3.0
+2016,Food wrappers (candy chips etc.),,Per cent,3.0
+2017,Food wrappers (candy chips etc.),,Per cent,3.0
+2018,Food wrappers (candy chips etc.),,Per cent,3.7
+2019,Food wrappers (candy chips etc.),,Per cent,3.0
+2020,Food wrappers (candy chips etc.),,Per cent,5.3
+2021,Food wrappers (candy chips etc.),,Per cent,2.8
+2022,Food wrappers (candy chips etc.),,Per cent,4.2
+2023,Food wrappers (candy chips etc.),,Per cent,4.98
+2024,Food wrappers (candy chips etc.),,Per cent,2.94
+2015,Cups plates (foam),,Per cent,3.0
+2016,Cups plates (foam),,Per cent,3.0
+2017,Cups plates (foam),,Per cent,3.0
+2018,Cups plates (foam),,Per cent,3.9
+2019,Cups plates (foam),,Per cent,2.8
+2021,Cups plates (foam),,Per cent,1.4
+2023,Cups plates (foam),,Per cent,3.0
+2024,Cups plates (foam),,Per cent,3.53
+2016,Take out/away containers (foam),,Per cent,3.0
+2017,Take out/away containers (foam),,Per cent,0.0
+2018,Take out/away containers (foam),,Per cent,3.1
+2021,Take out/away containers (foam),,Per cent,1.5
+2015,Forks knives and spoons,,Per cent,3.0
+2017,Forks knives and spoons,,Per cent,2.0
+2019,Forks knives and spoons,,Per cent,3.0
+2021,Forks knives and spoons,,Per cent,1.8
+2022,Forks knives and spoons,,Per cent,2.4
+2023,Forks knives and spoons,,Per cent,11.52
+2024,Forks knives and spoons,,Per cent,3.42
+2015,Grocery Bags (Plastic),,Per cent,3.0
+2015,,Air Pollution Combined,Number,37.0
+2016,,Air Pollution Combined,Number,30.0
+2017,,Air Pollution Combined,Number,21.0
+2018,,Air Pollution Combined,Number,9.0
+2019,,Air Pollution Combined,Number,16.0
+2020,,Air Pollution Combined,Number,1.0
+2021,,Air Pollution Combined,Number,5.0
+2015,,Fish Kill,Number,7.0
+2016,,Fish Kill,Number,5.0
+2017,,Fish Kill,Number,5.0
+2018,,Fish Kill,Number,2.0
+2019,,Fish Kill,Number,6.0
+2020,,Fish Kill,Number,2.0
+2021,,Fish Kill,Number,3.0
+2015,,Oil Spills,Number,13.0
+2016,,Oil Spills,Number,17.0
+2017,,Oil Spills,Number,18.0
+2018,,Oil Spills,Number,5.0
+2019,,Oil Spills,Number,10.0
+2020,,Oil Spills,Number,9.0
+2021,,Oil Spills,Number,4.0
+2015,,Sewage Discharge,Number,2.0
+2016,,Sewage Discharge,Number,9.0
+2017,,Sewage Discharge,Number,8.0
+2018,,Sewage Discharge,Number,4.0
+2019,,Sewage Discharge,Number,8.0
+2020,,Sewage Discharge,Number,1.0
+2021,,Sewage Discharge,Number,12.0
+2015,,Sewage Odour,Number,7.0
+2016,,Sewage Odour,Number,5.0
+2017,,Sewage Odour,Number,2.0
+2018,,Sewage Odour,Number,1.0
+2019,,Sewage Odour,Number,1.0
+2015,,Spills,Number,10.0
+2016,,Spills,Number,16.0
+2017,,Spills,Number,2.0
+2018,,Spills,Number,3.0
+2019,,Spills,Number,7.0
+2020,,Spills,Number,15.0
+2021,,Spills,Number,11.0
+2015,,To be determined,Number,4.0
+2018,,To be determined,Number,0.0
+2019,,To be determined,Number,0.0
+2015,,Water Pollution/fire control run off,Number,1.0
+2018,,Water Pollution/fire control run off,Number,0.0
+2019,,Water Pollution/fire control run off,Number,3.0
+2020,,Water Pollution/fire control run off,Number,1.0
+2021,,Water Pollution/fire control run off,Number,1.0
+2016,,Trade Effluent Discharge (uncontrolled),Number,3.0
+2017,,Trade Effluent Discharge (uncontrolled),Number,3.0
+2018,,Trade Effluent Discharge (uncontrolled),Number,0.0
+2019,,Trade Effluent Discharge (uncontrolled),Number,0.0
+2021,,Trade Effluent Discharge (uncontrolled),Number,7.0
+2016,,Improper waste disposal,Number,2.0
+2017,,Improper waste disposal,Number,1.0
+2018,,Improper waste disposal,Number,2.0
+2019,,Improper waste disposal,Number,2.0
+2019,,Other,Number,2.0
+2015,,Total,Number,81.0
+2016,,Total,Number,87.0
+2017,,Total,Number,60.0
+2018,,Total,Number,26.0
+2019,,Total,Number,55.0
+2020,,Total,Number,32.0
+2021,,Total,Number,43.0
