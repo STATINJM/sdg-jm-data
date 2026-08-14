@@ -7,7 +7,7 @@ Area of Residence,1,5
 Category of Child Labour,1,30
 Category of E-waste,1,21
 Category of International Health Regulations,1,13
-Category,20,72
+Category,19,72
 category,1,4
 Description,7,40
 Descriptor,1,8
@@ -19,8 +19,8 @@ Educational Level,1,3
 Educational Status,1,4
 Enrolment Status,1,2
 Event,4,138
-Financial Institution,1,2
 Financial institution,1,2
+Financial Institution,1,2
 Financial soundness indicators-deposit-taking institution,1,31
 Financial soundness indicators,1,2
 Form of Sexual Violence,1,11
@@ -29,8 +29,8 @@ GDP (Tourism),1,5
 Gender,1,3
 Geogaphical Region,3,1
 Geographic Location,2,9
-Geographic region,1,2
 Geographic Region,5,21
+Geographic region,1,2
 Geographical Area,7,28
 Geographical Region,31,19
 Geographical region,3,8
@@ -70,7 +70,7 @@ Pollutant,1,10
 Population Group,1,13
 Preschool attendance,1,2
 Proportion of bribery Incident,1,1
-Quarter,5,12
+Quarter,4,12
 quarter,1,4
 Ratio,1,12
 Reasons for not accessing the treatment,1,7
@@ -115,8 +115,8 @@ Type of Violence,2,3
 Type of Waste Collected,1,13
 Type of waste composition,1,15
 Type,2,11
-unit,1,2
 Unit,58,57
+unit,1,2
 Vaccination Indicator,1,26
 Watershed,1,5
 Wealth Index Quintiles,3,5
